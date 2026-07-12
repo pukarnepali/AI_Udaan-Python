@@ -1,0 +1,501 @@
+OrderID,OrderDate,CustomerName,Age,Gender,District,Category,Product,Quantity,UnitPrice,DiscountPercent,TotalAmount,PaymentMethod,Rating,OrderStatus
+DZ100001,2026-03-04,Anita Basnet,24,Male,Nepalgunj,Sports,Football,1,48898,10,44008.2,IME Pay,1,Delivered
+DZ100002,2026-01-07,Pooja Basnet,52,Female,Pokhara,Electronics,Bluetooth Speaker,2,33418,20,53468.8,IME Pay,5,Cancelled
+DZ100003,2026-03-29,Rohit Basnet,31,Female,Lalitpur,Books,Python Basics,2,46053,15,78290.1,eSewa,4,Delivered
+DZ100004,2026-04-28,Pooja Sharma,42,Male,Chitwan,Home,Chair,5,17635,0,88175.0,COD,5,Cancelled
+DZ100005,2026-03-16,Ram Adhikari,32,Male,Dharan,Groceries,Tea,1,3303,5,3137.85,COD,4,Cancelled
+DZ100006,2026-06-29,Ram Shrestha,28,Male,Bhaktapur,Fashion,Hoodie,3,14030,10,37881.0,IME Pay,4,Cancelled
+DZ100007,2026-01-15,Anita Adhikari,20,Female,Dharan,Sports,Skipping Rope,2,45166,10,81298.8,COD,1,Shipped
+DZ100008,2026-04-12,Sabina Basnet,34,Male,Pokhara,Groceries,Coffee,2,43254,15,73531.8,Card,5,Cancelled
+DZ100009,2026-04-03,Anita Basnet,50,Female,Lalitpur,Sports,Skipping Rope,4,38542,15,131042.8,eSewa,1,Shipped
+DZ100010,2026-04-09,Asha Shrestha,47,Female,Chitwan,Sports,Yoga Mat,4,39386,0,157544.0,eSewa,1,Processing
+DZ100011,2026-04-22,Nabin Karki,18,Female,Chitwan,Books,Data Science 101,3,7610,10,20547.0,Khalti,5,Delivered
+DZ100012,2026-02-09,Kiran Adhikari,28,Male,Nepalgunj,Books,Data Science 101,5,40209,5,190992.75,COD,4,Delivered
+DZ100013,2026-03-03,Roshan Sharma,23,Female,Lalitpur,Electronics,Power Bank,3,15992,0,47976.0,Card,2,Shipped
+DZ100014,2026-05-16,Binita Karki,31,Male,Biratnagar,Sports,Dumbbell,5,11121,10,50044.5,IME Pay,3,Returned
+DZ100015,2026-01-17,Bikash Sharma,55,Male,Nepalgunj,Groceries,Cooking Oil,1,16546,5,15718.7,Khalti,1,Delivered
+DZ100016,2026-03-26,Ram Shrestha,33,Female,Butwal,Sports,Football,2,4717,0,9434.0,Khalti,5,Shipped
+DZ100017,2026-05-02,Manish Basnet,24,Male,Dharan,Sports,Skipping Rope,5,31276,5,148561.0,COD,4,Returned
+DZ100018,2026-03-28,Hari Basnet,30,Male,Chitwan,Beauty,Face Wash,1,4272,15,3631.2,IME Pay,2,Returned
+DZ100019,2026-04-24,Pooja Sharma,21,Male,Lalitpur,Fashion,Hoodie,4,16671,0,66684.0,Khalti,2,Returned
+DZ100020,2026-02-12,Asha Sharma,42,Female,Butwal,Beauty,Lipstick,2,26582,0,53164.0,COD,4,Processing
+DZ100021,2026-02-25,Sita Shrestha,52,Male,Itahari,Sports,Dumbbell,2,12745,10,22941.0,eSewa,1,Processing
+DZ100022,2026-05-11,Ram Adhikari,29,Male,Nepalgunj,Beauty,Sunscreen,5,10617,0,53085.0,eSewa,2,Returned
+DZ100023,2026-01-11,Binita Sharma,44,Female,Biratnagar,Electronics,Smart Watch,2,38240,20,61184.0,Khalti,3,Shipped
+DZ100024,2026-04-28,Bikash Adhikari,22,Male,Butwal,Home,Table Lamp,2,44319,10,79774.2,Card,5,Delivered
+DZ100025,2026-02-03,Kiran Sharma,33,Female,Biratnagar,Electronics,Smart Watch,2,33453,10,60215.4,Khalti,4,Processing
+DZ100026,2026-01-03,Pooja Rai,24,Male,Biratnagar,Sports,Cricket Bat,5,43158,20,172632.0,eSewa,1,Processing
+DZ100027,2026-03-29,Prakash Thapa,34,Female,Biratnagar,Fashion,Hoodie,3,39938,5,113823.3,eSewa,1,Returned
+DZ100028,2026-02-03,Rohit Basnet,46,Female,Chitwan,Books,Data Science 101,1,532,10,478.8,eSewa,1,Delivered
+DZ100029,2026-05-30,Pooja Basnet,45,Male,Kathmandu,Sports,Yoga Mat,5,2661,10,11974.5,COD,3,Delivered
+DZ100030,2026-04-01,Pooja Adhikari,44,Male,Pokhara,Home,Electric Kettle,2,44008,0,88016.0,Khalti,2,Returned
+DZ100031,2026-03-10,Nabin Adhikari,24,Female,Kathmandu,Electronics,Bluetooth Speaker,3,27282,5,77753.7,IME Pay,2,Shipped
+DZ100032,2026-02-27,Aarav Thapa,30,Female,Itahari,Books,ML Guide,3,20300,5,57855.0,COD,1,Cancelled
+DZ100033,2026-03-26,Aarav Sharma,34,Male,Nepalgunj,Home,Water Bottle,4,44832,20,143462.4,COD,1,Delivered
+DZ100034,2026-04-22,Binita Shrestha,25,Female,Nepalgunj,Groceries,Cooking Oil,3,48045,10,129721.5,Khalti,3,Delivered
+DZ100035,2026-06-25,Prakash Rai,45,Male,Itahari,Sports,Dumbbell,1,34373,20,27498.4,Card,3,Delivered
+DZ100036,2026-03-25,Asha Thapa,36,Male,Pokhara,Sports,Cricket Bat,5,20569,15,87418.25,IME Pay,4,Shipped
+DZ100037,2026-01-01,Sneha Rai,31,Female,Nepalgunj,Groceries,Biscuits,3,26912,20,64588.8,Card,3,Returned
+DZ100038,2026-02-13,Ram Rai,50,Female,Lalitpur,Beauty,Lipstick,2,33800,15,57460.0,Khalti,3,Shipped
+DZ100039,2026-03-04,Suman Shrestha,22,Female,Dharan,Books,AI Handbook,2,1900,0,3800.0,Card,2,Returned
+DZ100040,2026-01-28,Manish Basnet,29,Female,Kathmandu,Beauty,Lipstick,2,9971,0,19942.0,Card,2,Delivered
+DZ100041,2026-05-24,Binita Rai,46,Female,Chitwan,Beauty,Shampoo,4,44050,20,140960.0,IME Pay,2,Returned
+DZ100042,2026-05-14,Suman Thapa,33,Female,Butwal,Beauty,Perfume,2,42089,10,75760.2,eSewa,3,Shipped
+DZ100043,2026-02-05,Gita Basnet,42,Male,Pokhara,Home,Chair,3,35699,0,107097.0,eSewa,4,Returned
+DZ100044,2026-02-22,Manish Karki,55,Male,Nepalgunj,Home,Water Bottle,4,27548,0,110192.0,IME Pay,4,Delivered
+DZ100045,2026-05-20,Binita Basnet,49,Male,Biratnagar,Home,Chair,4,27760,20,88832.0,IME Pay,4,Delivered
+DZ100046,2026-04-30,Gita Shrestha,52,Male,Dharan,Beauty,Perfume,4,47759,5,181484.2,Card,5,Delivered
+DZ100047,2026-01-13,Rohit Karki,38,Male,Butwal,Electronics,USB Cable,2,30557,5,58058.3,COD,3,Returned
+DZ100048,2026-01-05,Pooja Sharma,40,Male,Lalitpur,Home,Table Lamp,3,5667,15,14450.85,eSewa,1,Shipped
+DZ100049,2026-02-02,Suman Thapa,25,Male,Butwal,Fashion,T-Shirt,5,10286,5,48858.5,COD,3,Shipped
+DZ100050,2026-01-28,Roshan Sharma,37,Female,Dharan,Groceries,Biscuits,1,11032,10,9928.8,Khalti,1,Processing
+DZ100051,2026-06-25,Binita Adhikari,25,Male,Itahari,Sports,Yoga Mat,1,45991,10,41391.9,Card,4,Cancelled
+DZ100052,2026-05-06,Hari Karki,41,Female,Bhaktapur,Electronics,Smart Watch,3,1129,15,2878.95,IME Pay,2,Processing
+DZ100053,2026-04-30,Manish Adhikari,55,Female,Itahari,Sports,Cricket Bat,5,35569,15,151168.25,Khalti,1,Cancelled
+DZ100054,2026-06-21,Asha Rai,19,Female,Itahari,Beauty,Shampoo,4,37645,20,120464.0,Khalti,4,Shipped
+DZ100055,2026-06-29,Rohit Shrestha,18,Male,Lalitpur,Home,Chair,3,18627,20,44704.8,Khalti,4,Returned
+DZ100056,2026-04-25,Aarav Sharma,36,Male,Dharan,Groceries,Tea,4,42629,15,144938.6,Khalti,3,Processing
+DZ100057,2026-04-19,Pooja Rai,40,Female,Biratnagar,Home,Table Lamp,5,35094,10,157923.0,COD,3,Shipped
+DZ100058,2026-06-26,Nabin Basnet,31,Female,Biratnagar,Electronics,Bluetooth Speaker,3,8135,20,19524.0,Card,5,Processing
+DZ100059,2026-04-03,Nabin Rai,18,Male,Biratnagar,Home,Rice Cooker,2,19714,5,37456.6,eSewa,1,Processing
+DZ100060,2026-05-27,Sneha Karki,48,Female,Itahari,Home,Electric Kettle,4,7023,0,28092.0,Khalti,1,Cancelled
+DZ100061,2026-05-06,Ram Shrestha,21,Male,Bhaktapur,Books,ML Guide,1,4582,15,3894.7,Card,3,Delivered
+DZ100062,2026-06-02,Binita Basnet,51,Female,Butwal,Fashion,T-Shirt,5,27574,20,110296.0,IME Pay,3,Processing
+DZ100063,2026-06-06,Hari Adhikari,31,Male,Biratnagar,Beauty,Perfume,5,40999,0,204995.0,eSewa,2,Shipped
+DZ100064,2026-04-15,Sabina Thapa,48,Female,Kathmandu,Fashion,Jacket,1,10558,0,10558.0,Khalti,3,Cancelled
+DZ100065,2026-03-09,Roshan Thapa,30,Female,Lalitpur,Sports,Dumbbell,1,45348,5,43080.6,Card,2,Shipped
+DZ100066,2026-03-20,Binita Thapa,54,Female,Butwal,Home,Electric Kettle,1,4208,5,3997.6,eSewa,4,Cancelled
+DZ100067,2026-05-07,Sabina Sharma,20,Female,Itahari,Sports,Dumbbell,3,33098,20,79435.2,Card,3,Delivered
+DZ100068,2026-06-22,Rohit Shrestha,20,Male,Butwal,Electronics,Bluetooth Speaker,5,38777,0,193885.0,Card,4,Cancelled
+DZ100069,2026-01-24,Suman Rai,44,Female,Itahari,Fashion,Jacket,4,41901,15,142463.4,eSewa,2,Cancelled
+DZ100070,2026-05-21,Sita Karki,23,Female,Biratnagar,Beauty,Lipstick,3,43723,15,111493.65,COD,1,Returned
+DZ100071,2026-04-29,Manish Sharma,30,Female,Nepalgunj,Books,Notebook,1,43400,20,34720.0,IME Pay,4,Delivered
+DZ100072,2026-04-23,Suman Sharma,19,Male,Bhaktapur,Fashion,Hoodie,5,8886,10,39987.0,COD,5,Delivered
+DZ100073,2026-04-29,Hari Thapa,27,Female,Biratnagar,Groceries,Cooking Oil,1,15025,0,15025.0,Card,3,Returned
+DZ100074,2026-05-22,Gita Karki,30,Male,Lalitpur,Books,ML Guide,4,16273,15,55328.2,COD,4,Cancelled
+DZ100075,2026-03-18,Roshan Shrestha,49,Male,Butwal,Books,Notebook,3,468,10,1263.6,Card,4,Cancelled
+DZ100076,2026-03-24,Prakash Thapa,33,Female,Pokhara,Home,Water Bottle,5,25020,15,106335.0,IME Pay,1,Cancelled
+DZ100077,2026-05-07,Sita Basnet,50,Female,Lalitpur,Sports,Dumbbell,4,25602,5,97287.6,IME Pay,1,Processing
+DZ100078,2026-01-20,Suman Adhikari,34,Female,Nepalgunj,Beauty,Face Wash,2,27168,5,51619.2,IME Pay,1,Cancelled
+DZ100079,2026-05-19,Sita Shrestha,22,Male,Biratnagar,Books,Notebook,4,21052,15,71576.8,Khalti,1,Returned
+DZ100080,2026-01-08,Sita Rai,21,Female,Itahari,Electronics,Wireless Mouse,4,11202,10,40327.2,COD,4,Shipped
+DZ100081,2026-02-13,Nabin Sharma,42,Male,Butwal,Fashion,Jacket,4,37388,5,142074.4,Card,2,Shipped
+DZ100082,2026-04-30,Sneha Thapa,52,Male,Lalitpur,Beauty,Perfume,4,17033,0,68132.0,IME Pay,3,Processing
+DZ100083,2026-02-20,Asha Adhikari,48,Male,Pokhara,Home,Table Lamp,3,30239,10,81645.3,IME Pay,5,Cancelled
+DZ100084,2026-03-12,Aarav Shrestha,21,Female,Biratnagar,Groceries,Coffee,3,1737,15,4429.35,Khalti,5,Cancelled
+DZ100085,2026-06-10,Hari Thapa,20,Female,Butwal,Fashion,Sneakers,5,16725,5,79443.75,eSewa,5,Cancelled
+DZ100086,2026-04-17,Nabin Basnet,26,Female,Chitwan,Sports,Yoga Mat,1,19640,10,17676.0,Card,3,Shipped
+DZ100087,2026-01-30,Sabina Sharma,27,Male,Dharan,Home,Table Lamp,3,49226,10,132910.2,Card,3,Delivered
+DZ100088,2026-02-01,Sabina Rai,34,Female,Itahari,Books,ML Guide,1,17631,20,14104.8,eSewa,2,Returned
+DZ100089,2026-02-26,Ram Thapa,47,Female,Dharan,Electronics,Smart Watch,5,21796,20,87184.0,eSewa,2,Delivered
+DZ100090,2026-03-02,Pooja Basnet,42,Female,Itahari,Electronics,Power Bank,4,7910,0,31640.0,Card,4,Processing
+DZ100091,2026-05-06,Binita Karki,35,Male,Itahari,Sports,Yoga Mat,4,43220,0,172880.0,Khalti,4,Returned
+DZ100092,2026-05-20,Kiran Sharma,43,Female,Pokhara,Fashion,Hoodie,1,45236,10,40712.4,eSewa,4,Delivered
+DZ100093,2026-03-27,Anita Basnet,54,Male,Lalitpur,Sports,Yoga Mat,5,1699,0,8495.0,Card,2,Processing
+DZ100094,2026-01-01,Rohit Adhikari,27,Male,Chitwan,Fashion,Sneakers,3,9970,20,23928.0,COD,2,Delivered
+DZ100095,2026-03-02,Roshan Rai,19,Male,Biratnagar,Sports,Football,2,1273,10,2291.4,eSewa,2,Returned
+DZ100096,2026-04-03,Ramesh Shrestha,24,Female,Chitwan,Groceries,Rice,1,31511,15,26784.35,Khalti,5,Delivered
+DZ100097,2026-01-16,Suman Adhikari,43,Female,Lalitpur,Sports,Skipping Rope,3,30318,0,90954.0,IME Pay,4,Delivered
+DZ100098,2026-02-02,Rohit Shrestha,55,Female,Dharan,Electronics,Power Bank,5,10021,0,50105.0,Card,5,Cancelled
+DZ100099,2026-06-29,Hari Adhikari,53,Male,Dharan,Beauty,Sunscreen,5,28493,0,142465.0,IME Pay,2,Returned
+DZ100100,2026-03-22,Manish Rai,34,Female,Bhaktapur,Home,Table Lamp,4,27562,0,110248.0,IME Pay,1,Delivered
+DZ100101,2026-04-06,Gita Shrestha,21,Female,Lalitpur,Books,Python Basics,1,28603,0,28603.0,IME Pay,3,Returned
+DZ100102,2026-04-01,Hari Shrestha,50,Male,Bhaktapur,Books,Python Basics,3,39648,10,107049.6,IME Pay,2,Delivered
+DZ100103,2026-05-27,Anita Adhikari,45,Male,Nepalgunj,Home,Water Bottle,3,7829,10,21138.3,COD,1,Shipped
+DZ100104,2026-02-16,Gita Shrestha,43,Male,Bhaktapur,Home,Chair,3,23304,0,69912.0,eSewa,1,Processing
+DZ100105,2026-02-10,Kiran Rai,38,Male,Kathmandu,Fashion,Jeans,4,30030,10,108108.0,Khalti,2,Processing
+DZ100106,2026-05-05,Binita Karki,44,Female,Pokhara,Electronics,Wireless Mouse,3,29339,15,74814.45,Card,1,Cancelled
+DZ100107,2026-05-05,Ramesh Thapa,37,Male,Pokhara,Beauty,Face Wash,3,44747,20,107392.8,IME Pay,5,Delivered
+DZ100108,2026-03-07,Sneha Rai,25,Male,Butwal,Electronics,Bluetooth Speaker,3,14143,5,40307.55,IME Pay,2,Shipped
+DZ100109,2026-06-21,Kiran Sharma,43,Male,Dharan,Beauty,Sunscreen,2,33085,20,52936.0,eSewa,4,Delivered
+DZ100110,2026-04-14,Manish Rai,25,Female,Kathmandu,Books,Data Science 101,5,28433,20,113732.0,COD,2,Processing
+DZ100111,2026-03-04,Manish Shrestha,43,Male,Dharan,Beauty,Perfume,1,28920,0,28920.0,COD,3,Shipped
+DZ100112,2026-05-16,Ramesh Basnet,40,Female,Bhaktapur,Home,Electric Kettle,1,33755,0,33755.0,Khalti,1,Shipped
+DZ100113,2026-06-17,Ram Basnet,49,Female,Nepalgunj,Home,Electric Kettle,2,39778,5,75578.2,Card,4,Processing
+DZ100114,2026-02-08,Sabina Sharma,48,Female,Biratnagar,Sports,Skipping Rope,3,41405,10,111793.5,COD,5,Delivered
+DZ100115,2026-04-26,Sita Sharma,41,Female,Lalitpur,Home,Water Bottle,1,20642,15,17545.7,eSewa,5,Processing
+DZ100116,2026-01-11,Sabina Adhikari,54,Male,Itahari,Groceries,Cooking Oil,4,38332,20,122662.4,Card,4,Processing
+DZ100117,2026-01-22,Ramesh Thapa,29,Male,Pokhara,Fashion,T-Shirt,4,7083,10,25498.8,IME Pay,4,Processing
+DZ100118,2026-03-14,Asha Karki,39,Male,Itahari,Groceries,Biscuits,2,24148,10,43466.4,eSewa,3,Delivered
+DZ100119,2026-02-08,Bikash Sharma,55,Male,Itahari,Groceries,Cooking Oil,3,16814,20,40353.6,COD,4,Shipped
+DZ100120,2026-06-14,Bikash Adhikari,26,Male,Dharan,Groceries,Rice,3,36929,15,94168.95,Card,3,Delivered
+DZ100121,2026-05-05,Prakash Basnet,26,Male,Lalitpur,Home,Chair,2,14337,10,25806.6,COD,1,Processing
+DZ100122,2026-06-08,Gita Shrestha,42,Male,Bhaktapur,Books,Notebook,5,2773,10,12478.5,Khalti,5,Shipped
+DZ100123,2026-06-23,Anita Karki,36,Female,Pokhara,Sports,Dumbbell,1,27226,10,24503.4,Card,2,Cancelled
+DZ100124,2026-04-23,Sabina Adhikari,36,Female,Chitwan,Books,ML Guide,2,24406,20,39049.6,Card,4,Shipped
+DZ100125,2026-01-14,Suman Adhikari,41,Male,Chitwan,Books,AI Handbook,5,9370,10,42165.0,eSewa,3,Delivered
+DZ100126,2026-02-07,Manish Sharma,32,Female,Itahari,Books,AI Handbook,3,29746,20,71390.4,eSewa,4,Delivered
+DZ100127,2026-01-21,Kiran Basnet,19,Female,Lalitpur,Beauty,Sunscreen,3,15751,15,40165.05,COD,2,Shipped
+DZ100128,2026-06-30,Suman Karki,18,Male,Kathmandu,Electronics,Power Bank,4,45917,5,174484.6,COD,2,Shipped
+DZ100129,2026-03-15,Anita Rai,25,Male,Pokhara,Groceries,Biscuits,5,28038,0,140190.0,IME Pay,5,Returned
+DZ100130,2026-01-05,Ramesh Shrestha,33,Male,Biratnagar,Electronics,Wireless Mouse,4,39407,20,126102.4,IME Pay,1,Processing
+DZ100131,2026-06-20,Ram Shrestha,41,Male,Chitwan,Home,Electric Kettle,5,27600,5,131100.0,Card,5,Processing
+DZ100132,2026-06-12,Asha Rai,34,Male,Itahari,Groceries,Rice,4,31110,0,124440.0,eSewa,3,Shipped
+DZ100133,2026-02-04,Sita Rai,52,Female,Bhaktapur,Sports,Football,5,48481,10,218164.5,IME Pay,4,Shipped
+DZ100134,2026-01-10,Sneha Basnet,20,Male,Kathmandu,Books,AI Handbook,1,47226,15,40142.1,COD,3,Processing
+DZ100135,2026-06-15,Prakash Rai,40,Male,Itahari,Beauty,Sunscreen,4,16901,0,67604.0,COD,1,Cancelled
+DZ100136,2026-02-17,Suman Thapa,49,Female,Chitwan,Beauty,Lipstick,4,25639,10,92300.4,COD,1,Returned
+DZ100137,2026-03-17,Bikash Sharma,23,Female,Biratnagar,Electronics,USB Cable,5,12126,20,48504.0,COD,4,Processing
+DZ100138,2026-03-31,Sabina Sharma,40,Female,Biratnagar,Sports,Dumbbell,2,45504,15,77356.8,eSewa,1,Returned
+DZ100139,2026-06-05,Sabina Sharma,26,Male,Pokhara,Home,Water Bottle,2,2340,5,4446.0,COD,3,Returned
+DZ100140,2026-04-05,Kiran Karki,22,Male,Chitwan,Groceries,Rice,5,10355,15,44008.75,COD,4,Cancelled
+DZ100141,2026-02-17,Suman Shrestha,42,Male,Biratnagar,Sports,Cricket Bat,2,7734,0,15468.0,COD,4,Shipped
+DZ100142,2026-02-04,Ram Karki,29,Female,Lalitpur,Groceries,Coffee,4,13418,0,53672.0,COD,3,Delivered
+DZ100143,2026-06-29,Nabin Adhikari,41,Male,Lalitpur,Groceries,Biscuits,3,19957,5,56877.45,Khalti,2,Shipped
+DZ100144,2026-05-27,Kiran Karki,53,Male,Nepalgunj,Books,ML Guide,1,23951,20,19160.8,eSewa,1,Cancelled
+DZ100145,2026-05-28,Ram Basnet,38,Male,Butwal,Beauty,Lipstick,5,27221,15,115689.25,IME Pay,5,Cancelled
+DZ100146,2026-04-21,Ramesh Adhikari,21,Male,Chitwan,Fashion,Jacket,5,12225,5,58068.75,Khalti,3,Shipped
+DZ100147,2026-03-14,Ram Rai,30,Female,Bhaktapur,Fashion,Hoodie,2,22976,20,36761.6,COD,5,Processing
+DZ100148,2026-02-09,Nabin Thapa,39,Male,Kathmandu,Electronics,Smart Watch,2,39084,20,62534.4,eSewa,1,Processing
+DZ100149,2026-06-13,Aarav Karki,52,Female,Biratnagar,Home,Electric Kettle,5,27601,20,110404.0,IME Pay,2,Returned
+DZ100150,2026-02-10,Sabina Karki,48,Female,Pokhara,Home,Table Lamp,1,45428,0,45428.0,COD,5,Shipped
+DZ100151,2026-04-05,Ramesh Shrestha,24,Female,Pokhara,Home,Chair,3,26430,5,75325.5,IME Pay,1,Cancelled
+DZ100152,2026-03-16,Asha Adhikari,44,Male,Bhaktapur,Beauty,Shampoo,2,6644,0,13288.0,COD,5,Cancelled
+DZ100153,2026-05-08,Sneha Karki,19,Male,Dharan,Fashion,Sneakers,4,34033,15,115712.2,Card,4,Shipped
+DZ100154,2026-03-14,Suman Shrestha,48,Female,Chitwan,Fashion,Jacket,3,3488,0,10464.0,eSewa,1,Returned
+DZ100155,2026-01-12,Asha Sharma,54,Male,Itahari,Fashion,Hoodie,3,26727,10,72162.9,Card,3,Delivered
+DZ100156,2026-06-09,Binita Sharma,26,Male,Dharan,Beauty,Sunscreen,4,36335,10,130806.0,COD,3,Processing
+DZ100157,2026-04-13,Ramesh Sharma,20,Male,Bhaktapur,Home,Electric Kettle,2,39783,20,63652.8,COD,4,Processing
+DZ100158,2026-03-25,Binita Rai,28,Female,Nepalgunj,Beauty,Shampoo,5,34084,5,161899.0,COD,5,Cancelled
+DZ100159,2026-03-18,Suman Adhikari,19,Female,Itahari,Groceries,Biscuits,5,32402,20,129608.0,eSewa,4,Processing
+DZ100160,2026-06-17,Roshan Shrestha,32,Male,Nepalgunj,Home,Rice Cooker,5,31402,10,141309.0,IME Pay,2,Processing
+DZ100161,2026-01-09,Roshan Thapa,25,Male,Kathmandu,Sports,Skipping Rope,4,9984,5,37939.2,IME Pay,3,Returned
+DZ100162,2026-06-06,Suman Adhikari,21,Male,Chitwan,Fashion,Jeans,2,27194,20,43510.4,Khalti,5,Cancelled
+DZ100163,2026-02-14,Sabina Shrestha,39,Female,Biratnagar,Sports,Dumbbell,5,24995,10,112477.5,Card,4,Shipped
+DZ100164,2026-03-18,Sneha Thapa,31,Female,Itahari,Fashion,Hoodie,5,19862,5,94344.5,IME Pay,3,Processing
+DZ100165,2026-06-23,Pooja Karki,43,Female,Bhaktapur,Books,Data Science 101,3,8287,20,19888.8,COD,1,Cancelled
+DZ100166,2026-05-03,Prakash Basnet,52,Female,Chitwan,Sports,Football,3,29291,10,79085.7,COD,2,Delivered
+DZ100167,2026-06-21,Ramesh Basnet,32,Male,Lalitpur,Groceries,Biscuits,2,16189,0,32378.0,IME Pay,3,Returned
+DZ100168,2026-04-15,Suman Karki,30,Female,Itahari,Electronics,Bluetooth Speaker,1,36367,5,34548.65,COD,1,Delivered
+DZ100169,2026-02-14,Manish Adhikari,29,Male,Dharan,Sports,Skipping Rope,2,35371,0,70742.0,IME Pay,2,Cancelled
+DZ100170,2026-01-28,Bikash Rai,47,Female,Bhaktapur,Electronics,Wireless Mouse,3,37521,20,90050.4,Card,4,Cancelled
+DZ100171,2026-06-15,Rohit Thapa,29,Male,Itahari,Fashion,T-Shirt,3,10949,15,27919.95,COD,5,Shipped
+DZ100172,2026-03-25,Ram Karki,24,Male,Bhaktapur,Fashion,Jacket,4,28329,20,90652.8,IME Pay,3,Shipped
+DZ100173,2026-03-10,Bikash Rai,55,Male,Biratnagar,Electronics,Power Bank,4,15735,15,53499.0,COD,2,Delivered
+DZ100174,2026-04-14,Ramesh Thapa,37,Male,Biratnagar,Sports,Football,4,20406,5,77542.8,COD,5,Shipped
+DZ100175,2026-06-05,Kiran Karki,53,Female,Chitwan,Fashion,Sneakers,4,10339,15,35152.6,Khalti,2,Processing
+DZ100176,2026-06-30,Kiran Sharma,54,Male,Kathmandu,Books,Python Basics,5,29578,20,118312.0,Card,5,Shipped
+DZ100177,2026-05-14,Sabina Sharma,31,Female,Lalitpur,Groceries,Biscuits,2,11083,10,19949.4,Card,4,Delivered
+DZ100178,2026-05-25,Sita Shrestha,47,Female,Kathmandu,Beauty,Shampoo,5,27525,15,116981.25,IME Pay,3,Delivered
+DZ100179,2026-04-19,Kiran Thapa,22,Male,Lalitpur,Sports,Yoga Mat,5,5086,0,25430.0,IME Pay,1,Cancelled
+DZ100180,2026-04-06,Asha Karki,42,Female,Lalitpur,Beauty,Shampoo,2,42342,15,71981.4,Card,2,Cancelled
+DZ100181,2026-02-02,Anita Adhikari,18,Male,Biratnagar,Electronics,Bluetooth Speaker,5,26059,20,104236.0,IME Pay,5,Returned
+DZ100182,2026-03-30,Gita Rai,30,Male,Kathmandu,Groceries,Cooking Oil,2,16520,15,28084.0,IME Pay,5,Delivered
+DZ100183,2026-01-09,Sabina Shrestha,21,Male,Kathmandu,Fashion,Sneakers,1,6912,20,5529.6,IME Pay,4,Shipped
+DZ100184,2026-03-16,Anita Adhikari,54,Female,Nepalgunj,Groceries,Tea,1,9483,20,7586.4,Card,3,Shipped
+DZ100185,2026-03-18,Rohit Sharma,53,Male,Dharan,Home,Electric Kettle,5,14786,15,62840.5,Card,4,Delivered
+DZ100186,2026-04-15,Gita Rai,42,Male,Chitwan,Home,Table Lamp,5,21188,15,90049.0,IME Pay,2,Shipped
+DZ100187,2026-04-16,Manish Shrestha,51,Male,Dharan,Home,Electric Kettle,4,4076,20,13043.2,Khalti,3,Shipped
+DZ100188,2026-05-18,Prakash Sharma,35,Female,Nepalgunj,Home,Rice Cooker,4,24618,0,98472.0,Card,1,Delivered
+DZ100189,2026-02-23,Bikash Rai,18,Male,Pokhara,Fashion,Jacket,5,14522,15,61718.5,eSewa,4,Shipped
+DZ100190,2026-05-22,Bikash Adhikari,36,Female,Butwal,Sports,Skipping Rope,2,26293,5,49956.7,Card,3,Cancelled
+DZ100191,2026-01-26,Suman Adhikari,38,Male,Itahari,Home,Chair,5,32889,15,139778.25,COD,4,Delivered
+DZ100192,2026-05-22,Roshan Shrestha,44,Female,Bhaktapur,Groceries,Tea,2,1362,10,2451.6,Khalti,3,Shipped
+DZ100193,2026-06-17,Bikash Rai,49,Female,Butwal,Beauty,Sunscreen,2,33022,20,52835.2,Khalti,3,Shipped
+DZ100194,2026-06-14,Sita Shrestha,20,Male,Kathmandu,Fashion,Jacket,4,12361,20,39555.2,eSewa,4,Shipped
+DZ100195,2026-01-03,Prakash Shrestha,47,Female,Kathmandu,Books,AI Handbook,1,46645,5,44312.75,Card,5,Returned
+DZ100196,2026-05-22,Manish Sharma,19,Female,Chitwan,Sports,Dumbbell,1,733,20,586.4,COD,1,Processing
+DZ100197,2026-05-15,Gita Basnet,30,Female,Itahari,Books,ML Guide,2,7313,0,14626.0,COD,4,Delivered
+DZ100198,2026-06-28,Anita Rai,23,Male,Lalitpur,Home,Table Lamp,4,37327,5,141842.6,IME Pay,4,Returned
+DZ100199,2026-06-29,Nabin Sharma,49,Female,Itahari,Groceries,Cooking Oil,1,42029,0,42029.0,Card,1,Processing
+DZ100200,2026-05-02,Rohit Sharma,22,Female,Chitwan,Electronics,Bluetooth Speaker,2,45669,20,73070.4,Card,1,Shipped
+DZ100201,2026-02-06,Asha Sharma,37,Male,Nepalgunj,Books,Data Science 101,1,13876,20,11100.8,Khalti,5,Returned
+DZ100202,2026-06-26,Ram Shrestha,40,Male,Lalitpur,Sports,Skipping Rope,3,25455,5,72546.75,IME Pay,2,Delivered
+DZ100203,2026-03-25,Aarav Thapa,35,Female,Butwal,Home,Water Bottle,5,39333,15,167165.25,Khalti,3,Processing
+DZ100204,2026-06-19,Asha Sharma,36,Male,Lalitpur,Beauty,Lipstick,2,44844,20,71750.4,eSewa,3,Shipped
+DZ100205,2026-01-28,Ram Sharma,37,Female,Itahari,Beauty,Shampoo,4,21053,10,75790.8,COD,1,Shipped
+DZ100206,2026-05-23,Ramesh Karki,24,Male,Lalitpur,Electronics,Bluetooth Speaker,4,29715,20,95088.0,COD,5,Delivered
+DZ100207,2026-03-16,Manish Karki,23,Male,Nepalgunj,Groceries,Biscuits,3,25546,0,76638.0,Card,2,Returned
+DZ100208,2026-05-07,Gita Sharma,28,Female,Biratnagar,Fashion,Sneakers,3,20034,10,54091.8,IME Pay,3,Returned
+DZ100209,2026-06-10,Suman Shrestha,30,Female,Lalitpur,Books,Python Basics,3,16795,5,47865.75,Khalti,3,Delivered
+DZ100210,2026-04-23,Bikash Karki,26,Female,Itahari,Beauty,Perfume,5,25196,10,113382.0,Card,2,Returned
+DZ100211,2026-06-27,Suman Shrestha,33,Female,Dharan,Home,Electric Kettle,4,21215,10,76374.0,COD,4,Cancelled
+DZ100212,2026-02-16,Pooja Sharma,47,Male,Butwal,Electronics,Smart Watch,2,39112,20,62579.2,COD,1,Returned
+DZ100213,2026-03-03,Rohit Thapa,27,Female,Dharan,Sports,Dumbbell,2,41806,10,75250.8,eSewa,4,Processing
+DZ100214,2026-06-27,Manish Shrestha,20,Female,Chitwan,Beauty,Sunscreen,4,35320,20,113024.0,Card,1,Delivered
+DZ100215,2026-01-12,Roshan Thapa,43,Female,Dharan,Books,AI Handbook,3,11201,20,26882.4,eSewa,1,Delivered
+DZ100216,2026-05-23,Roshan Thapa,54,Male,Butwal,Home,Electric Kettle,5,49245,20,196980.0,COD,4,Returned
+DZ100217,2026-01-07,Suman Sharma,36,Female,Lalitpur,Books,Notebook,5,10179,10,45805.5,eSewa,2,Cancelled
+DZ100218,2026-05-04,Kiran Karki,24,Female,Butwal,Home,Chair,4,13857,20,44342.4,COD,1,Cancelled
+DZ100219,2026-06-23,Nabin Thapa,33,Male,Chitwan,Electronics,Wireless Mouse,1,22783,0,22783.0,Khalti,3,Processing
+DZ100220,2026-02-17,Manish Karki,19,Male,Butwal,Beauty,Lipstick,2,26845,5,51005.5,Card,4,Returned
+DZ100221,2026-05-28,Hari Adhikari,52,Male,Itahari,Electronics,Bluetooth Speaker,2,18541,0,37082.0,COD,2,Returned
+DZ100222,2026-06-02,Asha Shrestha,43,Male,Itahari,Electronics,Power Bank,4,34884,10,125582.4,COD,4,Processing
+DZ100223,2026-06-22,Gita Rai,25,Male,Biratnagar,Fashion,Hoodie,5,38977,0,194885.0,eSewa,2,Cancelled
+DZ100224,2026-06-02,Gita Shrestha,42,Female,Bhaktapur,Sports,Yoga Mat,5,25758,15,109471.5,IME Pay,5,Shipped
+DZ100225,2026-02-17,Bikash Adhikari,46,Male,Itahari,Groceries,Tea,4,19229,5,73070.2,eSewa,4,Shipped
+DZ100226,2026-04-15,Suman Karki,46,Female,Bhaktapur,Fashion,Jeans,5,33424,15,142052.0,eSewa,5,Delivered
+DZ100227,2026-02-27,Pooja Rai,28,Female,Nepalgunj,Books,AI Handbook,3,2442,10,6593.4,IME Pay,5,Processing
+DZ100228,2026-04-04,Pooja Adhikari,20,Female,Chitwan,Electronics,Smart Watch,1,17856,20,14284.8,Khalti,4,Delivered
+DZ100229,2026-03-09,Kiran Adhikari,23,Female,Lalitpur,Sports,Yoga Mat,3,2412,15,6150.6,Khalti,2,Processing
+DZ100230,2026-02-12,Binita Basnet,31,Male,Kathmandu,Sports,Cricket Bat,5,41769,15,177518.25,Card,3,Processing
+DZ100231,2026-06-30,Sneha Rai,54,Female,Chitwan,Home,Water Bottle,5,11334,10,51003.0,eSewa,2,Returned
+DZ100232,2026-03-05,Gita Thapa,38,Male,Dharan,Electronics,Power Bank,2,46268,5,87909.2,IME Pay,2,Processing
+DZ100233,2026-01-20,Ram Karki,50,Female,Itahari,Sports,Cricket Bat,4,24887,15,84615.8,IME Pay,4,Cancelled
+DZ100234,2026-06-12,Kiran Adhikari,22,Female,Pokhara,Groceries,Rice,1,48202,15,40971.7,IME Pay,2,Returned
+DZ100235,2026-05-28,Gita Shrestha,49,Female,Kathmandu,Home,Chair,3,22435,20,53844.0,eSewa,1,Returned
+DZ100236,2026-01-01,Manish Basnet,26,Female,Bhaktapur,Electronics,Wireless Mouse,2,29220,15,49674.0,COD,1,Cancelled
+DZ100237,2026-01-14,Asha Thapa,37,Male,Dharan,Home,Rice Cooker,3,43849,5,124969.65,eSewa,1,Delivered
+DZ100238,2026-02-27,Ramesh Thapa,46,Male,Kathmandu,Fashion,Jeans,1,8996,20,7196.8,COD,1,Returned
+DZ100239,2026-04-09,Ram Thapa,24,Male,Itahari,Sports,Yoga Mat,4,4941,5,18775.8,COD,3,Shipped
+DZ100240,2026-05-25,Aarav Shrestha,28,Female,Itahari,Beauty,Shampoo,2,4783,20,7652.8,Khalti,2,Returned
+DZ100241,2026-02-05,Hari Shrestha,42,Female,Dharan,Groceries,Cooking Oil,2,5981,0,11962.0,COD,2,Shipped
+DZ100242,2026-06-03,Binita Rai,19,Female,Pokhara,Home,Rice Cooker,2,36567,20,58507.2,Card,5,Processing
+DZ100243,2026-03-03,Suman Karki,25,Male,Butwal,Fashion,Jeans,3,42647,0,127941.0,Card,1,Processing
+DZ100244,2026-05-26,Manish Rai,52,Male,Butwal,Electronics,Power Bank,3,8949,15,22819.95,eSewa,1,Processing
+DZ100245,2026-01-16,Asha Shrestha,36,Female,Dharan,Electronics,Wireless Mouse,3,14438,0,43314.0,IME Pay,1,Processing
+DZ100246,2026-03-21,Ram Shrestha,31,Male,Chitwan,Groceries,Biscuits,2,18484,0,36968.0,COD,4,Processing
+DZ100247,2026-03-03,Sita Basnet,23,Female,Lalitpur,Sports,Football,3,46088,15,117524.4,IME Pay,5,Processing
+DZ100248,2026-02-05,Aarav Basnet,49,Female,Chitwan,Electronics,Power Bank,2,8127,0,16254.0,Card,3,Shipped
+DZ100249,2026-01-08,Bikash Adhikari,45,Female,Chitwan,Home,Electric Kettle,3,48333,0,144999.0,eSewa,3,Processing
+DZ100250,2026-04-03,Sita Karki,54,Male,Itahari,Sports,Football,4,30131,20,96419.2,Khalti,3,Delivered
+DZ100251,2026-01-01,Sita Adhikari,18,Male,Kathmandu,Groceries,Rice,2,48847,20,78155.2,IME Pay,3,Returned
+DZ100252,2026-02-27,Bikash Basnet,44,Female,Biratnagar,Fashion,Sneakers,1,36532,15,31052.2,eSewa,5,Cancelled
+DZ100253,2026-05-13,Sita Karki,22,Female,Biratnagar,Electronics,Smart Watch,1,12053,5,11450.35,COD,3,Delivered
+DZ100254,2026-03-16,Roshan Adhikari,37,Male,Butwal,Groceries,Cooking Oil,1,24477,5,23253.15,COD,5,Returned
+DZ100255,2026-01-02,Manish Sharma,32,Female,Kathmandu,Books,AI Handbook,5,16364,5,77729.0,COD,1,Returned
+DZ100256,2026-03-02,Manish Karki,21,Male,Biratnagar,Books,Data Science 101,1,13747,20,10997.6,eSewa,1,Shipped
+DZ100257,2026-04-28,Ram Shrestha,24,Male,Dharan,Books,Notebook,4,46230,10,166428.0,eSewa,5,Processing
+DZ100258,2026-03-08,Bikash Adhikari,43,Female,Itahari,Electronics,USB Cable,2,15817,10,28470.6,IME Pay,3,Shipped
+DZ100259,2026-02-09,Hari Basnet,46,Female,Itahari,Electronics,Bluetooth Speaker,2,38619,0,77238.0,IME Pay,1,Processing
+DZ100260,2026-03-09,Hari Sharma,28,Female,Nepalgunj,Home,Electric Kettle,4,20505,15,69717.0,eSewa,2,Cancelled
+DZ100261,2026-05-12,Sita Thapa,37,Female,Bhaktapur,Fashion,T-Shirt,2,23613,15,40142.1,eSewa,4,Returned
+DZ100262,2026-01-27,Gita Sharma,18,Male,Pokhara,Groceries,Biscuits,2,6507,15,11061.9,Khalti,2,Returned
+DZ100263,2026-01-20,Aarav Sharma,30,Female,Bhaktapur,Home,Rice Cooker,5,38711,10,174199.5,eSewa,3,Delivered
+DZ100264,2026-04-21,Asha Karki,19,Female,Dharan,Electronics,USB Cable,1,11309,20,9047.2,Khalti,3,Shipped
+DZ100265,2026-01-09,Binita Shrestha,33,Female,Butwal,Fashion,Hoodie,3,29529,5,84157.65,IME Pay,5,Returned
+DZ100266,2026-04-18,Prakash Thapa,51,Male,Chitwan,Electronics,Wireless Mouse,3,25401,5,72392.85,eSewa,4,Cancelled
+DZ100267,2026-05-09,Bikash Karki,35,Male,Kathmandu,Beauty,Sunscreen,4,22846,20,73107.2,COD,5,Shipped
+DZ100268,2026-04-02,Roshan Basnet,28,Male,Pokhara,Electronics,Power Bank,1,31212,20,24969.6,Khalti,3,Processing
+DZ100269,2026-04-01,Nabin Basnet,33,Female,Itahari,Books,Python Basics,2,38028,15,64647.6,Card,1,Cancelled
+DZ100270,2026-05-07,Pooja Rai,29,Female,Kathmandu,Groceries,Biscuits,2,37203,5,70685.7,eSewa,1,Shipped
+DZ100271,2026-01-01,Bikash Shrestha,30,Male,Itahari,Groceries,Tea,1,34801,15,29580.85,Khalti,3,Delivered
+DZ100272,2026-01-29,Ramesh Adhikari,41,Male,Itahari,Electronics,Bluetooth Speaker,5,46482,5,220789.5,IME Pay,5,Delivered
+DZ100273,2026-04-22,Suman Thapa,38,Male,Chitwan,Home,Chair,3,9242,5,26339.7,Card,3,Shipped
+DZ100274,2026-06-26,Sneha Basnet,29,Male,Nepalgunj,Sports,Skipping Rope,2,25097,10,45174.6,IME Pay,5,Delivered
+DZ100275,2026-06-13,Roshan Sharma,49,Male,Itahari,Fashion,Jacket,3,40367,5,115045.95,eSewa,2,Cancelled
+DZ100276,2026-04-25,Aarav Rai,31,Male,Lalitpur,Home,Electric Kettle,1,46762,10,42085.8,COD,3,Delivered
+DZ100277,2026-04-18,Nabin Karki,49,Female,Itahari,Sports,Football,1,25592,15,21753.2,Card,4,Delivered
+DZ100278,2026-02-11,Sabina Sharma,20,Female,Kathmandu,Books,ML Guide,5,42961,5,204064.75,COD,3,Delivered
+DZ100279,2026-01-20,Pooja Sharma,39,Female,Kathmandu,Electronics,Power Bank,2,24906,5,47321.4,IME Pay,2,Processing
+DZ100280,2026-02-22,Prakash Karki,53,Female,Biratnagar,Beauty,Shampoo,1,6936,10,6242.4,COD,2,Delivered
+DZ100281,2026-02-09,Sita Rai,18,Female,Lalitpur,Electronics,USB Cable,5,36322,15,154368.5,COD,5,Returned
+DZ100282,2026-06-13,Sneha Sharma,48,Male,Biratnagar,Fashion,T-Shirt,1,13862,5,13168.9,IME Pay,4,Returned
+DZ100283,2026-04-10,Nabin Rai,42,Female,Bhaktapur,Sports,Cricket Bat,1,42365,20,33892.0,IME Pay,1,Cancelled
+DZ100284,2026-05-25,Sita Basnet,24,Male,Itahari,Beauty,Lipstick,3,15127,10,40842.9,Card,4,Processing
+DZ100285,2026-04-18,Pooja Thapa,48,Male,Butwal,Fashion,Jacket,1,25669,20,20535.2,COD,1,Returned
+DZ100286,2026-05-27,Binita Basnet,25,Female,Bhaktapur,Books,Python Basics,5,37735,20,150940.0,Khalti,2,Shipped
+DZ100287,2026-02-21,Gita Adhikari,34,Female,Lalitpur,Fashion,T-Shirt,4,5435,15,18479.0,eSewa,4,Processing
+DZ100288,2026-04-28,Aarav Adhikari,55,Female,Lalitpur,Beauty,Sunscreen,3,18401,20,44162.4,IME Pay,2,Shipped
+DZ100289,2026-05-25,Hari Adhikari,36,Female,Dharan,Groceries,Biscuits,5,6866,0,34330.0,COD,4,Returned
+DZ100290,2026-03-12,Asha Basnet,43,Male,Dharan,Groceries,Biscuits,4,2755,5,10469.0,COD,2,Delivered
+DZ100291,2026-03-28,Sneha Rai,35,Female,Lalitpur,Sports,Dumbbell,3,24708,0,74124.0,Khalti,2,Cancelled
+DZ100292,2026-06-04,Ram Basnet,46,Male,Dharan,Sports,Dumbbell,3,17956,15,45787.8,IME Pay,5,Cancelled
+DZ100293,2026-03-21,Ramesh Karki,26,Male,Bhaktapur,Books,Python Basics,5,10718,0,53590.0,Khalti,2,Delivered
+DZ100294,2026-06-30,Prakash Rai,41,Female,Chitwan,Fashion,T-Shirt,4,3613,10,13006.8,IME Pay,1,Delivered
+DZ100295,2026-02-15,Suman Shrestha,53,Female,Itahari,Fashion,Hoodie,4,39231,15,133385.4,Khalti,3,Delivered
+DZ100296,2026-05-27,Prakash Adhikari,32,Male,Pokhara,Home,Rice Cooker,4,3553,5,13501.4,COD,4,Processing
+DZ100297,2026-06-03,Aarav Basnet,34,Female,Biratnagar,Electronics,Wireless Mouse,4,8971,5,34089.8,IME Pay,4,Cancelled
+DZ100298,2026-06-23,Ramesh Adhikari,43,Male,Kathmandu,Beauty,Perfume,2,30885,10,55593.0,Card,3,Processing
+DZ100299,2026-06-25,Hari Karki,22,Female,Biratnagar,Sports,Skipping Rope,5,18825,10,84712.5,COD,3,Cancelled
+DZ100300,2026-03-03,Sita Adhikari,43,Female,Bhaktapur,Sports,Cricket Bat,2,10125,20,16200.0,eSewa,4,Cancelled
+DZ100301,2026-05-30,Roshan Adhikari,30,Female,Pokhara,Home,Table Lamp,4,25745,0,102980.0,Card,4,Cancelled
+DZ100302,2026-02-16,Sneha Sharma,48,Male,Biratnagar,Groceries,Coffee,2,43397,20,69435.2,Card,2,Cancelled
+DZ100303,2026-03-20,Manish Adhikari,39,Female,Biratnagar,Sports,Football,2,23583,5,44807.7,Card,3,Returned
+DZ100304,2026-05-29,Binita Sharma,48,Male,Chitwan,Books,Python Basics,4,3817,20,12214.4,eSewa,4,Processing
+DZ100305,2026-02-21,Bikash Karki,54,Female,Bhaktapur,Home,Table Lamp,1,10181,5,9671.95,COD,2,Delivered
+DZ100306,2026-01-02,Sabina Rai,31,Male,Nepalgunj,Beauty,Perfume,2,20839,0,41678.0,Khalti,4,Delivered
+DZ100307,2026-04-14,Manish Karki,42,Male,Kathmandu,Fashion,Jacket,4,41816,15,142174.4,Card,2,Cancelled
+DZ100308,2026-06-23,Aarav Thapa,33,Male,Itahari,Electronics,Power Bank,5,12789,0,63945.0,COD,2,Delivered
+DZ100309,2026-01-17,Sita Rai,36,Female,Chitwan,Beauty,Sunscreen,5,20361,5,96714.75,Card,5,Cancelled
+DZ100310,2026-02-18,Nabin Adhikari,43,Male,Pokhara,Beauty,Shampoo,3,32424,10,87544.8,Khalti,2,Shipped
+DZ100311,2026-02-01,Kiran Thapa,20,Female,Biratnagar,Sports,Football,5,33371,5,158512.25,Card,5,Delivered
+DZ100312,2026-01-13,Hari Karki,46,Female,Lalitpur,Groceries,Rice,1,43132,0,43132.0,Card,3,Returned
+DZ100313,2026-03-19,Manish Thapa,24,Female,Nepalgunj,Sports,Yoga Mat,2,45860,0,91720.0,Card,2,Returned
+DZ100314,2026-01-31,Sneha Sharma,24,Female,Pokhara,Books,Python Basics,5,47405,20,189620.0,Card,2,Cancelled
+DZ100315,2026-03-17,Nabin Sharma,53,Female,Pokhara,Books,Notebook,2,23756,15,40385.2,IME Pay,3,Shipped
+DZ100316,2026-06-21,Suman Basnet,23,Male,Lalitpur,Electronics,Wireless Mouse,1,7537,20,6029.6,COD,2,Returned
+DZ100317,2026-02-14,Sita Adhikari,36,Female,Itahari,Home,Chair,4,3582,0,14328.0,IME Pay,1,Delivered
+DZ100318,2026-03-26,Kiran Karki,35,Male,Itahari,Books,Python Basics,1,9369,5,8900.55,COD,2,Delivered
+DZ100319,2026-06-26,Suman Adhikari,44,Male,Lalitpur,Beauty,Lipstick,4,18114,15,61587.6,Khalti,1,Shipped
+DZ100320,2026-06-23,Sabina Basnet,42,Female,Nepalgunj,Electronics,USB Cable,5,31932,20,127728.0,eSewa,2,Returned
+DZ100321,2026-01-17,Rohit Thapa,38,Male,Chitwan,Beauty,Face Wash,4,29180,0,116720.0,Card,5,Shipped
+DZ100322,2026-01-25,Manish Thapa,33,Female,Itahari,Sports,Cricket Bat,5,34582,20,138328.0,IME Pay,2,Processing
+DZ100323,2026-05-10,Suman Adhikari,49,Male,Lalitpur,Groceries,Rice,1,42465,5,40341.75,IME Pay,3,Shipped
+DZ100324,2026-05-21,Asha Karki,33,Male,Butwal,Home,Chair,1,33522,5,31845.9,IME Pay,5,Returned
+DZ100325,2026-05-08,Aarav Sharma,43,Female,Kathmandu,Electronics,USB Cable,4,21013,0,84052.0,Card,5,Delivered
+DZ100326,2026-05-11,Pooja Basnet,47,Female,Itahari,Books,Python Basics,5,40871,10,183919.5,eSewa,2,Returned
+DZ100327,2026-06-18,Kiran Thapa,46,Male,Lalitpur,Home,Water Bottle,5,39618,15,168376.5,Khalti,1,Cancelled
+DZ100328,2026-06-29,Hari Sharma,28,Female,Bhaktapur,Home,Chair,5,34508,10,155286.0,IME Pay,1,Cancelled
+DZ100329,2026-02-25,Sabina Adhikari,30,Female,Lalitpur,Groceries,Tea,2,8213,15,13962.1,IME Pay,1,Processing
+DZ100330,2026-05-10,Gita Karki,18,Male,Chitwan,Electronics,USB Cable,4,43452,20,139046.4,IME Pay,5,Returned
+DZ100331,2026-01-27,Asha Thapa,38,Female,Dharan,Groceries,Tea,5,11680,5,55480.0,Card,2,Cancelled
+DZ100332,2026-02-05,Manish Shrestha,50,Female,Chitwan,Beauty,Perfume,3,29977,5,85434.45,COD,5,Shipped
+DZ100333,2026-06-25,Kiran Thapa,26,Male,Chitwan,Fashion,Sneakers,5,47117,10,212026.5,Card,3,Delivered
+DZ100334,2026-05-27,Manish Thapa,52,Female,Dharan,Books,Data Science 101,5,31781,20,127124.0,eSewa,5,Delivered
+DZ100335,2026-02-21,Rohit Adhikari,28,Female,Biratnagar,Electronics,USB Cable,2,3777,0,7554.0,Khalti,1,Cancelled
+DZ100336,2026-01-27,Binita Adhikari,53,Male,Chitwan,Fashion,Jacket,1,23806,15,20235.1,IME Pay,2,Processing
+DZ100337,2026-04-17,Bikash Shrestha,21,Male,Biratnagar,Books,Data Science 101,1,25307,15,21510.95,Khalti,5,Returned
+DZ100338,2026-05-20,Binita Basnet,30,Female,Butwal,Books,AI Handbook,3,49786,20,119486.4,Khalti,1,Shipped
+DZ100339,2026-04-20,Rohit Shrestha,34,Male,Bhaktapur,Fashion,Jacket,1,25020,0,25020.0,Card,3,Delivered
+DZ100340,2026-03-24,Binita Sharma,37,Female,Nepalgunj,Home,Table Lamp,2,2917,5,5542.3,Card,3,Delivered
+DZ100341,2026-05-14,Ram Adhikari,50,Male,Dharan,Books,Data Science 101,5,14715,5,69896.25,Card,5,Returned
+DZ100342,2026-03-26,Kiran Rai,31,Female,Chitwan,Electronics,Power Bank,2,14282,10,25707.6,eSewa,1,Cancelled
+DZ100343,2026-01-11,Bikash Karki,25,Female,Biratnagar,Beauty,Shampoo,5,41006,5,194778.5,Card,3,Delivered
+DZ100344,2026-05-05,Sita Rai,30,Female,Chitwan,Groceries,Coffee,5,33640,15,142970.0,eSewa,1,Shipped
+DZ100345,2026-02-23,Prakash Adhikari,45,Male,Pokhara,Books,Notebook,5,780,0,3900.0,Card,4,Delivered
+DZ100346,2026-01-10,Ram Sharma,21,Male,Biratnagar,Sports,Yoga Mat,1,30395,10,27355.5,Card,1,Processing
+DZ100347,2026-04-26,Asha Karki,38,Male,Dharan,Books,AI Handbook,3,27014,15,68885.7,eSewa,5,Delivered
+DZ100348,2026-01-12,Ram Rai,50,Male,Biratnagar,Sports,Skipping Rope,1,49842,20,39873.6,COD,5,Delivered
+DZ100349,2026-05-02,Nabin Shrestha,32,Male,Dharan,Home,Table Lamp,4,26194,0,104776.0,Card,3,Shipped
+DZ100350,2026-02-06,Hari Sharma,18,Female,Chitwan,Home,Chair,1,36575,20,29260.0,Card,1,Cancelled
+DZ100351,2026-02-06,Nabin Basnet,32,Female,Pokhara,Fashion,Hoodie,2,27343,20,43748.8,eSewa,2,Processing
+DZ100352,2026-01-19,Sneha Thapa,22,Female,Lalitpur,Books,Python Basics,5,30529,20,122116.0,Khalti,5,Returned
+DZ100353,2026-01-26,Sneha Shrestha,22,Male,Itahari,Home,Chair,2,44294,5,84158.6,IME Pay,4,Cancelled
+DZ100354,2026-05-26,Kiran Adhikari,38,Female,Bhaktapur,Groceries,Coffee,5,10287,20,41148.0,eSewa,3,Shipped
+DZ100355,2026-02-04,Bikash Karki,47,Female,Itahari,Books,AI Handbook,4,18432,10,66355.2,COD,4,Processing
+DZ100356,2026-02-05,Pooja Basnet,34,Male,Lalitpur,Electronics,Bluetooth Speaker,5,5672,10,25524.0,eSewa,5,Delivered
+DZ100357,2026-02-24,Sita Shrestha,34,Female,Bhaktapur,Books,Notebook,5,26850,20,107400.0,COD,4,Shipped
+DZ100358,2026-05-09,Ramesh Sharma,43,Female,Chitwan,Books,Notebook,3,9074,15,23138.7,eSewa,2,Processing
+DZ100359,2026-02-10,Nabin Shrestha,54,Male,Butwal,Sports,Yoga Mat,5,9499,15,40370.75,COD,1,Shipped
+DZ100360,2026-04-05,Anita Sharma,31,Female,Dharan,Books,ML Guide,2,4419,10,7954.2,IME Pay,4,Delivered
+DZ100361,2026-06-12,Rohit Adhikari,34,Male,Dharan,Electronics,Power Bank,1,46420,20,37136.0,IME Pay,3,Processing
+DZ100362,2026-02-27,Ramesh Karki,40,Female,Butwal,Sports,Football,5,16787,15,71344.75,IME Pay,5,Delivered
+DZ100363,2026-01-20,Ramesh Thapa,35,Male,Bhaktapur,Groceries,Tea,4,11153,5,42381.4,Khalti,2,Cancelled
+DZ100364,2026-01-30,Suman Thapa,48,Female,Pokhara,Groceries,Rice,2,27472,10,49449.6,Card,2,Returned
+DZ100365,2026-06-01,Nabin Basnet,50,Male,Nepalgunj,Electronics,Bluetooth Speaker,1,8681,20,6944.8,Khalti,1,Shipped
+DZ100366,2026-05-25,Aarav Thapa,36,Male,Pokhara,Home,Electric Kettle,5,26871,20,107484.0,IME Pay,5,Returned
+DZ100367,2026-06-03,Gita Adhikari,55,Male,Nepalgunj,Books,ML Guide,2,14676,15,24949.2,Card,3,Shipped
+DZ100368,2026-01-18,Anita Karki,42,Male,Lalitpur,Sports,Cricket Bat,4,39394,20,126060.8,eSewa,2,Processing
+DZ100369,2026-01-25,Nabin Karki,20,Male,Lalitpur,Books,Notebook,4,10101,20,32323.2,IME Pay,2,Processing
+DZ100370,2026-04-05,Sita Thapa,51,Female,Pokhara,Groceries,Rice,4,34512,15,117340.8,IME Pay,4,Cancelled
+DZ100371,2026-03-07,Suman Adhikari,32,Male,Biratnagar,Groceries,Biscuits,1,28184,5,26774.8,Card,5,Returned
+DZ100372,2026-05-28,Ramesh Sharma,51,Male,Dharan,Home,Electric Kettle,1,46774,0,46774.0,Khalti,3,Returned
+DZ100373,2026-03-06,Rohit Adhikari,52,Female,Nepalgunj,Home,Rice Cooker,2,28223,20,45156.8,COD,5,Cancelled
+DZ100374,2026-05-23,Suman Basnet,41,Female,Biratnagar,Sports,Dumbbell,2,27381,20,43809.6,COD,5,Cancelled
+DZ100375,2026-02-28,Sabina Adhikari,28,Male,Pokhara,Books,ML Guide,2,43506,0,87012.0,Card,4,Cancelled
+DZ100376,2026-02-11,Asha Thapa,18,Male,Bhaktapur,Books,Notebook,5,45982,0,229910.0,IME Pay,5,Returned
+DZ100377,2026-01-21,Binita Sharma,42,Female,Nepalgunj,Electronics,Wireless Mouse,3,14833,10,40049.1,Card,3,Processing
+DZ100378,2026-02-21,Ramesh Rai,30,Male,Nepalgunj,Electronics,Bluetooth Speaker,4,29068,0,116272.0,Card,5,Shipped
+DZ100379,2026-06-17,Aarav Basnet,23,Female,Dharan,Groceries,Tea,1,23875,5,22681.25,COD,4,Returned
+DZ100380,2026-01-24,Pooja Rai,53,Female,Itahari,Groceries,Tea,5,1307,0,6535.0,COD,2,Processing
+DZ100381,2026-03-08,Nabin Karki,50,Male,Chitwan,Fashion,Jeans,4,37977,0,151908.0,eSewa,5,Cancelled
+DZ100382,2026-05-28,Rohit Thapa,46,Female,Nepalgunj,Home,Rice Cooker,5,17188,20,68752.0,IME Pay,2,Cancelled
+DZ100383,2026-05-04,Hari Rai,22,Female,Pokhara,Books,ML Guide,4,38758,0,155032.0,Khalti,3,Returned
+DZ100384,2026-03-05,Sneha Sharma,43,Female,Lalitpur,Home,Water Bottle,5,937,10,4216.5,Card,2,Returned
+DZ100385,2026-02-16,Prakash Karki,30,Male,Pokhara,Home,Chair,2,37898,10,68216.4,COD,2,Shipped
+DZ100386,2026-01-28,Hari Sharma,49,Male,Chitwan,Fashion,Sneakers,5,23632,5,112252.0,eSewa,4,Cancelled
+DZ100387,2026-05-06,Nabin Adhikari,50,Female,Dharan,Groceries,Coffee,4,37951,10,136623.6,Khalti,5,Shipped
+DZ100388,2026-01-09,Ramesh Rai,43,Male,Butwal,Electronics,Smart Watch,4,31647,20,101270.4,eSewa,5,Returned
+DZ100389,2026-04-08,Roshan Sharma,38,Female,Nepalgunj,Home,Rice Cooker,1,44478,5,42254.1,COD,2,Processing
+DZ100390,2026-03-29,Kiran Basnet,49,Female,Pokhara,Home,Electric Kettle,3,31190,20,74856.0,IME Pay,3,Cancelled
+DZ100391,2026-05-27,Gita Shrestha,32,Male,Biratnagar,Books,ML Guide,3,29838,5,85038.3,Khalti,5,Returned
+DZ100392,2026-05-02,Aarav Basnet,44,Female,Bhaktapur,Books,ML Guide,2,9858,5,18730.2,Card,5,Cancelled
+DZ100393,2026-05-26,Sita Karki,24,Male,Kathmandu,Books,ML Guide,3,16747,20,40192.8,Khalti,3,Returned
+DZ100394,2026-03-08,Kiran Rai,53,Female,Itahari,Books,Python Basics,4,49097,10,176749.2,eSewa,4,Delivered
+DZ100395,2026-06-16,Pooja Basnet,36,Female,Itahari,Home,Water Bottle,2,38104,20,60966.4,Card,4,Returned
+DZ100396,2026-06-11,Gita Adhikari,28,Female,Dharan,Electronics,USB Cable,5,19077,15,81077.25,Card,5,Returned
+DZ100397,2026-02-28,Bikash Rai,36,Female,Nepalgunj,Books,Python Basics,1,10916,10,9824.4,IME Pay,3,Returned
+DZ100398,2026-04-16,Nabin Basnet,19,Male,Pokhara,Books,Data Science 101,5,34440,15,146370.0,COD,1,Shipped
+DZ100399,2026-05-02,Pooja Sharma,19,Female,Chitwan,Fashion,Jeans,1,6562,0,6562.0,eSewa,1,Cancelled
+DZ100400,2026-03-21,Anita Basnet,36,Female,Bhaktapur,Groceries,Tea,1,43215,15,36732.75,Khalti,5,Shipped
+DZ100401,2026-04-30,Pooja Rai,53,Female,Bhaktapur,Electronics,Wireless Mouse,3,21612,15,55110.6,Card,2,Processing
+DZ100402,2026-06-13,Pooja Rai,40,Female,Chitwan,Groceries,Cooking Oil,5,28806,20,115224.0,Khalti,1,Returned
+DZ100403,2026-03-19,Aarav Sharma,51,Male,Itahari,Home,Chair,4,17326,5,65838.8,COD,4,Processing
+DZ100404,2026-04-21,Sneha Shrestha,32,Male,Chitwan,Electronics,USB Cable,4,19935,0,79740.0,COD,2,Returned
+DZ100405,2026-06-15,Asha Adhikari,42,Male,Biratnagar,Groceries,Cooking Oil,4,16677,5,63372.6,eSewa,4,Shipped
+DZ100406,2026-03-10,Manish Basnet,22,Male,Bhaktapur,Groceries,Biscuits,3,18956,20,45494.4,COD,1,Returned
+DZ100407,2026-05-06,Prakash Rai,19,Male,Kathmandu,Groceries,Cooking Oil,3,46206,20,110894.4,Card,1,Shipped
+DZ100408,2026-01-03,Anita Sharma,27,Male,Butwal,Electronics,Power Bank,3,8494,15,21659.7,Khalti,3,Returned
+DZ100409,2026-03-26,Ram Adhikari,27,Male,Biratnagar,Home,Table Lamp,3,30688,0,92064.0,IME Pay,1,Processing
+DZ100410,2026-01-04,Hari Adhikari,33,Female,Butwal,Beauty,Shampoo,2,16689,15,28371.3,Khalti,1,Shipped
+DZ100411,2026-05-02,Asha Thapa,37,Female,Bhaktapur,Beauty,Face Wash,5,43947,5,208748.25,eSewa,5,Processing
+DZ100412,2026-02-20,Kiran Sharma,31,Male,Pokhara,Electronics,Power Bank,4,42146,10,151725.6,IME Pay,3,Delivered
+DZ100413,2026-03-04,Aarav Sharma,55,Female,Nepalgunj,Fashion,Hoodie,5,8141,15,34599.25,Khalti,3,Delivered
+DZ100414,2026-03-28,Sita Sharma,40,Male,Chitwan,Fashion,Sneakers,4,6290,20,20128.0,eSewa,2,Returned
+DZ100415,2026-04-23,Prakash Sharma,42,Female,Bhaktapur,Fashion,Hoodie,5,42547,10,191461.5,COD,1,Returned
+DZ100416,2026-06-28,Suman Basnet,54,Male,Chitwan,Sports,Dumbbell,5,19614,20,78456.0,COD,3,Returned
+DZ100417,2026-05-16,Gita Karki,36,Female,Chitwan,Home,Water Bottle,5,10808,0,54040.0,COD,4,Delivered
+DZ100418,2026-01-05,Binita Adhikari,41,Male,Itahari,Books,Notebook,4,48380,5,183844.0,eSewa,5,Returned
+DZ100419,2026-06-06,Sneha Rai,44,Female,Lalitpur,Fashion,Jacket,4,36440,5,138472.0,eSewa,5,Delivered
+DZ100420,2026-01-28,Suman Basnet,24,Male,Nepalgunj,Electronics,Bluetooth Speaker,2,2349,5,4463.1,IME Pay,4,Processing
+DZ100421,2026-02-26,Binita Thapa,22,Male,Pokhara,Groceries,Biscuits,3,3516,10,9493.2,IME Pay,1,Returned
+DZ100422,2026-04-05,Sita Adhikari,35,Male,Lalitpur,Books,Python Basics,3,36870,15,94018.5,COD,1,Shipped
+DZ100423,2026-05-17,Asha Basnet,30,Male,Nepalgunj,Groceries,Rice,1,47824,5,45432.8,Khalti,5,Processing
+DZ100424,2026-06-29,Manish Sharma,28,Male,Chitwan,Beauty,Face Wash,5,23759,15,100975.75,IME Pay,5,Cancelled
+DZ100425,2026-04-01,Bikash Shrestha,38,Female,Dharan,Sports,Yoga Mat,5,39616,15,168368.0,IME Pay,3,Processing
+DZ100426,2026-05-21,Rohit Rai,46,Female,Dharan,Fashion,Jacket,5,14319,15,60855.75,eSewa,1,Cancelled
+DZ100427,2026-01-02,Sneha Basnet,31,Female,Kathmandu,Groceries,Rice,5,9152,10,41184.0,COD,5,Processing
+DZ100428,2026-01-10,Sabina Rai,27,Male,Biratnagar,Groceries,Biscuits,5,10439,0,52195.0,COD,5,Shipped
+DZ100429,2026-04-13,Roshan Basnet,22,Female,Butwal,Fashion,Hoodie,3,6323,20,15175.2,Khalti,4,Processing
+DZ100430,2026-01-10,Roshan Karki,23,Male,Itahari,Books,Python Basics,5,42390,10,190755.0,COD,4,Returned
+DZ100431,2026-01-03,Asha Sharma,37,Male,Itahari,Books,Python Basics,2,49299,20,78878.4,Card,5,Shipped
+DZ100432,2026-06-22,Asha Karki,54,Male,Pokhara,Home,Water Bottle,2,10339,0,20678.0,IME Pay,3,Returned
+DZ100433,2026-05-27,Sita Shrestha,43,Female,Lalitpur,Fashion,Sneakers,3,5709,15,14557.95,IME Pay,5,Returned
+DZ100434,2026-02-20,Suman Karki,54,Male,Chitwan,Books,AI Handbook,2,31817,20,50907.2,Card,5,Shipped
+DZ100435,2026-06-25,Roshan Sharma,25,Female,Dharan,Fashion,T-Shirt,3,28484,10,76906.8,COD,3,Shipped
+DZ100436,2026-03-20,Nabin Rai,46,Male,Butwal,Home,Chair,5,43252,0,216260.0,eSewa,2,Shipped
+DZ100437,2026-01-29,Sita Basnet,27,Female,Kathmandu,Sports,Cricket Bat,2,49958,0,99916.0,COD,1,Cancelled
+DZ100438,2026-05-18,Prakash Basnet,52,Female,Chitwan,Beauty,Lipstick,1,22049,5,20946.55,IME Pay,5,Shipped
+DZ100439,2026-01-12,Rohit Basnet,21,Female,Pokhara,Sports,Football,4,38507,20,123222.4,Card,3,Delivered
+DZ100440,2026-06-19,Kiran Adhikari,24,Male,Biratnagar,Beauty,Face Wash,1,25770,10,23193.0,IME Pay,2,Returned
+DZ100441,2026-05-17,Ram Basnet,30,Female,Chitwan,Groceries,Rice,3,32062,20,76948.8,eSewa,1,Shipped
+DZ100442,2026-02-10,Aarav Rai,40,Female,Biratnagar,Groceries,Coffee,3,32408,15,82640.4,Khalti,5,Cancelled
+DZ100443,2026-05-23,Rohit Basnet,27,Female,Dharan,Books,Python Basics,3,25673,0,77019.0,Khalti,1,Returned
+DZ100444,2026-05-27,Gita Karki,37,Female,Butwal,Groceries,Biscuits,2,27650,5,52535.0,Card,2,Shipped
+DZ100445,2026-02-05,Sneha Thapa,51,Male,Dharan,Sports,Yoga Mat,5,35778,5,169945.5,Khalti,5,Shipped
+DZ100446,2026-02-17,Bikash Adhikari,27,Male,Itahari,Home,Rice Cooker,5,35228,0,176140.0,IME Pay,4,Cancelled
+DZ100447,2026-02-03,Nabin Sharma,35,Male,Nepalgunj,Beauty,Perfume,2,12616,0,25232.0,Khalti,2,Delivered
+DZ100448,2026-06-04,Suman Thapa,41,Male,Dharan,Home,Rice Cooker,4,9087,20,29078.4,IME Pay,4,Shipped
+DZ100449,2026-01-04,Rohit Karki,32,Male,Pokhara,Fashion,Sneakers,2,2412,15,4100.4,eSewa,2,Returned
+DZ100450,2026-04-28,Anita Karki,43,Male,Nepalgunj,Books,Notebook,4,45379,10,163364.4,IME Pay,3,Returned
+DZ100451,2026-06-14,Sita Shrestha,24,Female,Butwal,Groceries,Biscuits,5,35437,20,141748.0,eSewa,2,Processing
+DZ100452,2026-05-13,Sita Basnet,36,Female,Dharan,Groceries,Cooking Oil,1,36849,15,31321.65,COD,3,Returned
+DZ100453,2026-06-26,Ramesh Basnet,47,Female,Lalitpur,Fashion,Jeans,3,40482,0,121446.0,Card,1,Shipped
+DZ100454,2026-04-16,Bikash Karki,19,Male,Butwal,Books,Notebook,5,9167,15,38959.75,Card,2,Returned
+DZ100455,2026-02-01,Ram Sharma,46,Female,Lalitpur,Electronics,Power Bank,3,45632,5,130051.2,Card,4,Processing
+DZ100456,2026-01-12,Nabin Rai,54,Male,Bhaktapur,Groceries,Tea,4,36367,15,123647.8,Khalti,2,Delivered
+DZ100457,2026-03-15,Nabin Sharma,26,Male,Kathmandu,Beauty,Perfume,3,48151,15,122785.05,Card,3,Delivered
+DZ100458,2026-06-05,Suman Basnet,31,Female,Butwal,Beauty,Lipstick,4,35918,0,143672.0,IME Pay,4,Delivered
+DZ100459,2026-03-13,Binita Thapa,53,Male,Kathmandu,Groceries,Biscuits,1,16337,20,13069.6,Khalti,2,Delivered
+DZ100460,2026-06-20,Roshan Adhikari,37,Female,Lalitpur,Sports,Cricket Bat,1,9827,0,9827.0,eSewa,1,Returned
+DZ100461,2026-05-27,Pooja Basnet,47,Female,Kathmandu,Fashion,Sneakers,3,40348,20,96835.2,eSewa,3,Cancelled
+DZ100462,2026-01-17,Sneha Karki,26,Male,Biratnagar,Home,Table Lamp,1,28305,20,22644.0,COD,5,Returned
+DZ100463,2026-01-28,Roshan Thapa,51,Male,Butwal,Groceries,Tea,2,40411,0,80822.0,Card,3,Returned
+DZ100464,2026-06-09,Kiran Basnet,54,Female,Chitwan,Groceries,Coffee,3,34732,20,83356.8,IME Pay,4,Shipped
+DZ100465,2026-01-31,Aarav Karki,25,Male,Nepalgunj,Groceries,Tea,3,12984,0,38952.0,IME Pay,4,Delivered
+DZ100466,2026-01-03,Prakash Thapa,36,Female,Lalitpur,Home,Chair,5,42079,5,199875.25,COD,3,Processing
+DZ100467,2026-03-29,Asha Thapa,54,Male,Bhaktapur,Groceries,Coffee,1,7760,10,6984.0,Khalti,3,Cancelled
+DZ100468,2026-05-04,Gita Thapa,47,Female,Butwal,Sports,Dumbbell,4,2630,5,9994.0,IME Pay,1,Processing
+DZ100469,2026-01-05,Prakash Shrestha,39,Female,Lalitpur,Home,Water Bottle,3,36684,20,88041.6,Khalti,3,Delivered
+DZ100470,2026-06-05,Asha Basnet,25,Female,Itahari,Home,Table Lamp,5,11176,20,44704.0,eSewa,3,Returned
+DZ100471,2026-03-19,Prakash Shrestha,37,Male,Lalitpur,Electronics,USB Cable,2,24652,15,41908.4,COD,1,Shipped
+DZ100472,2026-05-09,Gita Basnet,39,Female,Chitwan,Electronics,USB Cable,5,1934,15,8219.5,COD,3,Shipped
+DZ100473,2026-02-22,Sita Karki,42,Male,Kathmandu,Books,Python Basics,5,44649,5,212082.75,COD,1,Processing
+DZ100474,2026-01-27,Ramesh Adhikari,37,Male,Nepalgunj,Books,Python Basics,3,30897,0,92691.0,COD,2,Cancelled
+DZ100475,2026-03-23,Sabina Thapa,25,Female,Bhaktapur,Fashion,Sneakers,3,18430,20,44232.0,Khalti,3,Delivered
+DZ100476,2026-02-22,Pooja Rai,53,Female,Biratnagar,Electronics,Smart Watch,5,33989,0,169945.0,Khalti,3,Processing
+DZ100477,2026-03-28,Pooja Karki,21,Male,Kathmandu,Fashion,Sneakers,1,20706,20,16564.8,IME Pay,1,Delivered
+DZ100478,2026-02-15,Binita Shrestha,46,Female,Biratnagar,Beauty,Face Wash,1,28248,15,24010.8,COD,2,Processing
+DZ100479,2026-06-28,Sabina Sharma,47,Female,Butwal,Electronics,USB Cable,5,8937,0,44685.0,IME Pay,2,Shipped
+DZ100480,2026-02-16,Bikash Adhikari,38,Female,Butwal,Fashion,Jacket,3,24119,15,61503.45,eSewa,1,Returned
+DZ100481,2026-03-14,Kiran Shrestha,54,Male,Chitwan,Electronics,Power Bank,4,30527,5,116002.6,eSewa,4,Delivered
+DZ100482,2026-04-29,Asha Shrestha,44,Male,Nepalgunj,Home,Water Bottle,1,20099,20,16079.2,Khalti,5,Shipped
+DZ100483,2026-06-27,Roshan Karki,45,Female,Chitwan,Beauty,Lipstick,1,22629,5,21497.55,Khalti,2,Delivered
+DZ100484,2026-06-02,Sabina Rai,53,Male,Butwal,Sports,Skipping Rope,4,7792,20,24934.4,Khalti,3,Returned
+DZ100485,2026-04-08,Bikash Karki,21,Male,Pokhara,Electronics,Smart Watch,1,45225,20,36180.0,Khalti,5,Delivered
+DZ100486,2026-03-16,Asha Shrestha,54,Female,Pokhara,Books,AI Handbook,2,29986,20,47977.6,Khalti,3,Cancelled
+DZ100487,2026-01-23,Roshan Sharma,50,Female,Bhaktapur,Groceries,Coffee,4,47341,10,170427.6,COD,1,Cancelled
+DZ100488,2026-04-02,Hari Adhikari,36,Male,Pokhara,Groceries,Rice,1,46395,20,37116.0,IME Pay,5,Returned
+DZ100489,2026-04-22,Pooja Basnet,29,Female,Bhaktapur,Sports,Cricket Bat,4,26909,15,91490.6,Khalti,5,Returned
+DZ100490,2026-06-21,Gita Basnet,18,Male,Kathmandu,Books,Data Science 101,4,10410,10,37476.0,Khalti,4,Returned
+DZ100491,2026-04-27,Binita Karki,29,Female,Chitwan,Fashion,T-Shirt,2,42390,15,72063.0,IME Pay,5,Returned
+DZ100492,2026-06-04,Aarav Shrestha,49,Male,Chitwan,Beauty,Perfume,2,12476,15,21209.2,COD,4,Processing
+DZ100493,2026-05-04,Kiran Sharma,55,Female,Lalitpur,Groceries,Coffee,1,2781,20,2224.8,Khalti,5,Cancelled
+DZ100494,2026-01-23,Anita Karki,22,Female,Nepalgunj,Beauty,Sunscreen,1,34598,20,27678.4,eSewa,3,Processing
+DZ100495,2026-05-01,Roshan Thapa,39,Female,Itahari,Books,Python Basics,4,30055,20,96176.0,COD,3,Shipped
+DZ100496,2026-03-08,Sita Thapa,48,Male,Nepalgunj,Electronics,Smart Watch,3,47942,20,115060.8,eSewa,3,Processing
+DZ100497,2026-05-10,Ram Adhikari,35,Female,Bhaktapur,Electronics,Power Bank,4,5707,5,21686.6,Card,3,Cancelled
+DZ100498,2026-06-04,Nabin Shrestha,27,Female,Itahari,Books,Data Science 101,1,48890,0,48890.0,Khalti,3,Shipped
+DZ100499,2026-01-22,Gita Shrestha,27,Female,Dharan,Beauty,Shampoo,5,2468,10,11106.0,IME Pay,2,Returned
+DZ100500,2026-01-14,Rohit Adhikari,25,Male,Bhaktapur,Sports,Yoga Mat,2,38163,10,68693.4,IME Pay,4,Returned
