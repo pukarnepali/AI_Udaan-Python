@@ -1,0 +1,14 @@
+product_id,product_name,category,price,discount_percent,rating,stock,seller,city,brand,gender_target,age,reviews
+1,Laptop,Electronics,75000,10,4.8,25,TechHub,Kathmandu,Dell,Unisex,25,120
+2,Phone,Electronics,,15,4.6,40,GadgetNepal,Pokhara,Samsung,Unisex,30,210
+3,Shoes,Fashion,3500,5%,4.2,60,FashionHub,Itahari,Nike,Male,22,55
+4,T-Shirt,Fashion,1500,20,N/A,150,Style,Biratnagar,Adidas,Female,Female,30
+5,Watch,Accessories,5500,10,4.5,Out of Stock,TimeX,Kathmandu,Casio,Male,28,80
+6,Headphones,Electronics,4200,,4.1,75,AudioPro,Pokhara,JBL,Unisex, 24 ,65
+7,Laptop,Electronics,75000,10,4.8,25,TechHub,Kathmandu,Dell,Unisex,25,120
+8,Bag,Fashion,abc,12,3.9,45,CarryAll,Dharan,Wildcraft,Female,19,18
+9,Mouse,Electronics,1800,5,4.3,,TechHub,Kathmandu,Logitech,Unisex,,90
+10,Keyboard,Electronics,2500,5,4.4,35,TechHub , Kathmandu ,Logitech,Unisex,21,110
+11,Bottle,Home,800,0,5.5,100,HomeStore,Janakpur,Generic,Unisex,26,12
+12,Chair,Furniture,-2500,10,4,-5,FurniCo,Lalitpur,IKEA,Unisex,Unknown,44
+12,Chair,Furniture,-2500,10,4,-5,FurniCo,Lalitpur,IKEA,Unisex,Unknown,44
