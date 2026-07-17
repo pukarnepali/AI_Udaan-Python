@@ -1,0 +1,351 @@
+student_id,student_name,course,city,age,gender,enrollment_date,course_fee,discount,payment_status,attendance_percent,assignment_score,final_score,rating,mentor,phone,email,completion_status
+1,Gita,MERN Stack,Kathmandu,17,Female,2026-02-24,10000,10,Pending,73.0,46,98,5,Samriddha,9839323411,user0@gmail.com,Ongoing
+2,Nabin,Data Science,Itahari,29,Female,2026-06-29,10000,20,Pending,68.0,31,63,3,Manish,9874340113,user1@gmail.com,Completed
+3,Gita,MERN Stack,Dharan,20,Female,2026-02-20,5000,20,Paid,71.0,31,99,5,Samriddha,9874168652,user2@gmail.com,Completed
+4,Gita,Digital Marketing,Itahari,20,Female,2026-05-23,7000,0,Pending,88.0,43,38,5,Manish,9864252889,user3@gmail.com,Ongoing
+5,Gita,Data Science,Itahari,19,Male,2026-05-28,5000,0,Pending,100.0,89,98,5,Ishan,9864166467,user4@gmail.com,Ongoing
+6,Anisha,Data Science,Dharan,18,Male,2026-04-30,7000,10,Paid,57.0,70,70,4,Samriddha,9838336446,user5@gmail.com,Completed
+7,Suman,MERN Stack,Dharan,33,Female,2026-05-03,5000,0,Paid,52.0,38,39,4,Ishan,9806614065,user6@gmail.com,Completed
+8,Sita,MERN Stack,Pokhara,28,Female,2026-06-23,5000,20,Pending,71.0,38,98,5,Samriddha,9879884445,user7@gmail.com,Completed
+9,Gita,Flutter,Biratnagar,31,Male,2026-05-06,-5000,10,Pending,70.0,88,98,4,Ishan,9869507556,user8@gmail.com,Completed
+10,Sita,Flutter,Dharan,25,Female,2026-01-15,5000,20,Pending,53.0,88,47,3,Manish,9896293519,user9@gmail.com,Completed
+11,Hari,Digital Marketing,Kathmandu,29,Female,2026-06-05,10000,20,Paid,79.0,86,44,4,Samriddha,9812877861,user10@gmail.com,Ongoing
+12,Suman,UI/UX,Biratnagar,31,Male,2026-05-13,10000,10,Paid,52.0,56,32,3,Ishan,9883192950,user11@gmail.com,Ongoing
+13,Ram,Python with AI/ML,Pokhara,22,Male,2026-01-10,7000,20,Paid,58.0,36,44,4,Manish,9822968599,user12@gmail.com,Completed
+14,Ram,UI/UX,Biratnagar,33,Male,2026-03-22,10000,0,Pending,91.0,56,43,3,Ishan,9824227697,user13@gmail.com,Completed
+15,Suman,MERN Stack,Dharan,27,Female,2026-03-23,10000,0,Paid,51.0,40,95,3,Samriddha,9831015358,user14@gmail.com,Completed
+16,Hari,Digital Marketing,Itahari,17,Female,2026-04-19,5000,20,Pending,98.0,67,41,3,Ishan,9851495815,user15@gmail.com,Ongoing
+17,Hari,Data Science,Kathmandu,22,Male,2026-06-13,7000,0,Pending,68.0,85,75,4,Ishan,9822375884,user16@gmail.com,Completed
+18,Gita,Flutter,Kathmandu,23,Female,2026-06-10,10000,10,Pending,50.0,87,47,3,Ishan,9843591398,user17@gmail.com,Completed
+19,Sita,Flutter,Kathmandu,24,Male,2026-05-09,999999,10,Pending,41.0,75,51,4,Ishan,9803681891,user18@gmail.com,Ongoing
+20,Ram,MERN Stack,Dharan,26,Male,2026-05-11,5000,0,Pending,92.0,67,71,4,Manish,9805957986,user19@gmail.com,Completed
+21,Gita,UI/UX,Biratnagar,20,Male,2026-06-23,10000,10,Pending,60.0,58,73,4,Manish,9844634130,user20@gmail.com,Completed
+22,Nabin,Digital Marketing,Pokhara,19,Female,2026-06-06,10000,0,Pending,77.0,74,50,4,Samriddha,9880644682,user21@gmail.com,Completed
+23,Aarav,UI/UX,Kathmandu,34,Female,2026-03-06,5000,0,Paid,56.0,48,77,3,Ishan,9882209166,user22@gmail.com,Completed
+24,Ram,Digital Marketing,Itahari,33,Male,2026-01-23,10000,20,Pending,58.0,30,79,3,Samriddha,9801720253,user23@gmail.com,Completed
+25,Sita,UI/UX,Biratnagar,27,Male,2026-04-13,5000,10,Pending,86.0,97,37,3,Ishan,9830320015,user24@gmail.com,Ongoing
+26,Gita,Python with AI/ML,Biratnagar,22,Male,2026-02-22,5000,20,Pending,95.0,38,96,5,Manish,9877015603,user25@gmail.com,Completed
+27,Ram,Flutter,Pokhara,31,Female,2026-02-25,5000,20,Pending,78.0,85,89,3,Manish,9812961053,user26@gmail.com,Ongoing
+28,Suman,Python with AI/ML,Pokhara,27,Female,2026-03-02,10000,0,Pending,98.0,51,83,4,Samriddha,9898794165,user27@gmail.com,Ongoing
+29,Gita,MERN Stack,Biratnagar,29,Male,2026-03-13,7000,10,Pending,,98,80,5,Samriddha,9822305489,user28@gmail.com,Ongoing
+30,Anisha,Flutter,Dharan,30,Male,2026-02-19,7000,20,Paid,64.0,99,83,4,Manish,9856441656,user29@gmail.com,Ongoing
+31,Hari,MERN Stack,Pokhara,19,Male,2026-06-22,10000,0,Paid,83.0,55,47,3,Ishan,9893662023,user30@gmail.com,Completed
+32,Suman,Data Science,Kathmandu,19,Female,2026-05-27,10000,20,Pending,62.0,35,53,5,Samriddha,9834450458,user31@gmail.com,Completed
+33,Nabin,Digital Marketing,Biratnagar,24,Female,2026-04-04,7000,20,Pending,64.0,79,47,4,Manish,9847055580,user32@gmail.com,Ongoing
+34,Anisha,Flutter,Itahari,20,Female,2026-06-29,7000,20,Paid,41.0,95,30,3,Ishan,9844429529,user33@gmail.com,Ongoing
+35,Suman,Data Science,Kathmandu,32,Female,2026-06-03,5000,0,Paid,48.0,72,88,4,Manish,9831049943,user34@gmail.com,Completed
+36,Gita,UI/UX,Pokhara,30,Female,2026-04-02,10000,0,Paid,94.0,79,44,3,Samriddha,9871287641,user35@gmail.com,Completed
+37,Sita,Flutter,Dharan,34,Male,2026-02-13,5000,20,Paid,59.0,39,80,5,Samriddha,9858060838,user36@gmail.com,Ongoing
+38,Gita,Python with AI/ML,Itahari,27,Male,2026-01-20,10000,0,Pending,45.0,77,99,3,Samriddha,9807570173,user37@gmail.com,Completed
+39,Anisha,Data Science,Itahari,20,Female,2026-01-14,10000,10,Pending,70.0,-5,55,3,Manish,9856058698,user38@gmail.com,Ongoing
+40,Suman,MERN Stack,Pokhara,22,Female,2026-03-13,7000,10,Pending,58.0,30,71,3,Manish,9885371171,user39@gmail.com,Ongoing
+41,Aarav,Python with AI/ML,Kathmandu,29,Female,2026-05-10,7000,0,Pending,78.0,43,63,5,Ishan,9851841157,user40@gmail.com,Completed
+42,Nabin,MERN Stack,Kathmandu,25,Male,2026-06-08,5000,10,Pending,43.0,60,73,3,Ishan,9864779360,user41@gmail.com,Completed
+43,Suman,Python with AI/ML,Itahari,27,Female,2026-05-22,5000,10,Pending,43.0,81,66,4,Samriddha,9876961281,user42@gmail.com,Ongoing
+44,Hari,UI/UX,Biratnagar,33,Female,2026-01-11,7000,0,Pending,77.0,60,88,3,Samriddha,9858248872,user43@gmail.com,Ongoing
+45,Sita,MERN Stack,Kathmandu,24,Male,2026-03-26,10000,20,Paid,62.0,91,71,3,Manish,9894034175,user44@gmail.com,Ongoing
+46,Hari,MERN Stack,Kathmandu,21,Female,2026-03-22,10000,0,Paid,50.0,88,59,3,Manish,9824990467,user45@gmail.com,Completed
+47,Hari,Data Science,Kathmandu,18,Female,2026-04-02,10000,10,Pending,57.0,37,39,5,Manish,9888299298,user46@gmail.com,Ongoing
+48,Sita,Data Science,Pokhara,32,Male,2026-04-21,7000,0,Pending,54.0,92,83,3,Ishan,9889751730,user47@gmail.com,Completed
+49,Aarav,Pythn AI,Biratnagar,18,Female,2026-06-27,7000,0,Pending,61.0,99,43,4,Ishan,9852336914,user48@gmail.com,Ongoing
+50,Gita,UI/UX,Pokhara,27,Male,2026-03-07,10000,0,Paid,87.0,62,32,5,Ishan,9837082445,user49@gmail.com,Ongoing
+51,Aarav,Python with AI/ML,Kathmandu,34,Male,2026-06-26,5000,10,Paid,95.0,48,84,3,Samriddha,9815425341,user50@gmail.com,Completed
+52,Ram,Flutter,Kathmandu,31,Male,2026-02-26,10000,0,Pending,43.0,84,41,4,Samriddha,9834999580,user51@gmail.com,Ongoing
+53,Gita,Digital Marketing,Pokhara,22,Female,2026-05-26,7000,10,Pending,58.0,85,42,3,Samriddha,9844643573,user52@gmail.com,Completed
+54,Sita,MERN Stack,Kathmandu,29,Male,2026-01-13,5000,10,Pending,83.0,61,88,3,Manish,9866068455,user53@gmail.com,Completed
+55,Suman,UI/UX,Itahari,32,Male,2026-03-05,5000,0,Pending,75.0,61,51,3,Manish,9800180610,user54@gmail.com,Completed
+56,Sita,Data Science,Kathmandu,30,Female,2026-01-22,10000,10,Pending,92.0,76,86,3,Ishan,9892978244,user55@gmail.com,Ongoing
+57,Nabin,Python with AI/ML,Kathmandu,29,Male,2026-05-12,7000,10,Pending,51.0,94,32,4,Manish,9804498798,user56@gmail.com,Ongoing
+58,Anisha,Flutter,Pokhara,29,Female,2026-06-24,10000,10,Pending,82.0,55,59,4,Manish,9846707089,user57@gmail.com,Completed
+59,Gita,Data Science,ktm,31,Female,2026-04-08,7000,0,Paid,80.0,91,73,3,Ishan,9834298228,user58@gmail.com,Ongoing
+60,Gita,Flutter,Pokhara,21,Female,2026-03-29,5000,20,Paid,64.0,90,83,5,Ishan,9850892559,user59@gmail.com,Ongoing
+61,Anisha,Python with AI/ML,Dharan,33,Female,2026-04-01,10000,20,Pending,97.0,99,84,4,Samriddha,9801216597,user60@gmail.com,Completed
+62,Ram,Data Science,Kathmandu,20,Male,2026-02-05,10000,0,Paid,68.0,40,50,3,Ishan,9861638782,user61@gmail.com,Completed
+63,Aarav,UI/UX,Dharan,25,Male,2026-02-14,7000,0,Pending,85.0,51,89,4,Samriddha,9879948714,user62@gmail.com,Completed
+64,Suman,MERN Stack,Dharan,24,Female,2026-04-30,5000,20,Paid,100.0,99,70,5,Manish,9845014261,user63@gmail.com,Completed
+65,Nabin,Data Science,Biratnagar,26,Male,2026-05-24,7000,20,Pending,84.0,54,30,4,Samriddha,9894912752,user64@gmail.com,Completed
+66,Aarav,MERN Stack,Dharan,30,Male,2026-05-11,10000,20,Pending,89.0,83,54,3,Manish,9889433839,user65@gmail.com,Ongoing
+67,Aarav,MERN Stack,Dharan,27,Male,2026-05-28,5000,0,Pending,60.0,80,43,4,Ishan,9899531480,user66@gmail.com,Ongoing
+68,Gita,Flutter,Pokhara,19,Male,2026-06-24,10000,20,Paid,98.0,48,98,3,Manish,9812291782,user67@gmail.com,Ongoing
+69,Anisha,Python with AI/ML,Pokhara,24,Male,2026-03-01,7000,0,Pending,84.0,74,57,3,Ishan,9858264161,badmail,Completed
+70,Aarav,Data Science,Itahari,33,Male,2026-03-28,10000,20,Paid,69.0,70,82,5,Ishan,9805642165,user69@gmail.com,Completed
+71,Ram,Digital Marketing,Itahari,26,Male,2026-04-05,5000,0,Paid,77.0,31,34,4,Ishan,9805952815,user70@gmail.com,Ongoing
+72,Gita,UI/UX,Dharan,26,Female,2026-06-09,5000,0,Paid,61.0,60,92,4,Ishan,9846028886,user71@gmail.com,Completed
+73,Hari,MERN Stack,Kathmandu,32,Male,2026-02-12,10000,10,Paid,70.0,72,83,3,Samriddha,9812885634,user72@gmail.com,Ongoing
+74,Sita,Python with AI/ML,Itahari,17,Male,2026-01-14,5000,0,Pending,54.0,62,90,5,Ishan,9891249416,user73@gmail.com,Ongoing
+75,Anisha,Python with AI/ML,Kathmandu,35,Female,2026-02-02,7000,10,Pending,87.0,93,37,3,Manish,9841134364,user74@gmail.com,Completed
+76,Anisha,Data Science,Dharan,28,Female,2026-01-02,5000,0,Paid,63.0,65,76,4,Ishan,9813931759,user75@gmail.com,Ongoing
+77,Ram,UI/UX,Kathmandu,34,Male,2026-02-05,5000,10,Pending,82.0,88,83,4,Manish,9852185845,user76@gmail.com,Ongoing
+78,Anisha,UI/UX,Biratnagar,30,Male,2026-05-12,7000,0,Pending,49.0,39,41,4,Manish,9846166492,user77@gmail.com,Completed
+79,Anisha,UI/UX,Kathmandu,23,Male,2026-01-24,7000,20,Pending,46.0,48,45,5,Manish,98abc,user78@gmail.com,Completed
+80,Sita,Python with AI/ML,Kathmandu,28,Male,2026-01-02,5000,0,Paid,78.0,52,39,5,Ishan,9871471074,user79@gmail.com,Completed
+81,Gita,Digital Marketing,Itahari,22,Male,2026-04-24,10000,10,Paid,82.0,43,53,4,Ishan,9888174623,user80@gmail.com,Completed
+82,Suman,Data Science,Dharan,26,Male,2026-06-12,5000,20,Pending,48.0,49,46,4,Samriddha,9828788111,user81@gmail.com,Ongoing
+83,Gita,UI/UX,Itahari,25,Male,2026-05-26,10000,10,Paid,91.0,92,35,3,Ishan,9806481746,user82@gmail.com,Completed
+84,Aarav,Python with AI/ML,Pokhara,30,Male,2026-02-19,10000,10,Paid,43.0,60,40,4,Samriddha,9822991473,user83@gmail.com,Ongoing
+85,Suman,MERN Stack,Pokhara,30,Male,2026-04-17,5000,10,Paid,51.0,97,51,5,Samriddha,9847013029,user84@gmail.com,Completed
+86,Sita,Flutter,Kathmandu,32,Male,2026-02-01,7000,20,Pending,66.0,61,47,5,Ishan,9870609022,user85@gmail.com,Completed
+87,Gita,UI/UX,Biratnagar,33,Female,2026-01-18,5000,0,Paid,85.0,90,72,3,Ishan,9885563671,user86@gmail.com,Ongoing
+88,Anisha,Python with AI/ML,Biratnagar,34,Male,2026-01-25,10000,0,Pending,91.0,87,48,5,Manish,9877583535,user87@gmail.com,Completed
+89,Ram,Data Science,Kathmandu,20,Female,2026-01-08,7000,0,Pending,56.0,51,96,3,Samriddha,9897565902,user88@gmail.com,Completed
+90,Ram,Flutter,Itahari,34,Female,2026-04-16,5000,10,Paid,100.0,59,61,3,Ishan,9876278595,user89@gmail.com,Ongoing
+91,Anisha,Flutter,Biratnagar,30,Female,2026-05-26,10000,20,Pending,50.0,82,88,3,Samriddha,9899263647,user90@gmail.com,Completed
+92,Aarav,UI/UX,Biratnagar,25,Female,2026-01-11,7000,10,Pending,82.0,74,89,4,Ishan,9850229518,user91@gmail.com,Completed
+93,Hari,MERN Stack,Dharan,33,Female,2026-02-02,5000,20,Paid,86.0,68,54,3,Manish,9854438364,user92@gmail.com,Completed
+94,Gita,Data Science,Pokhara,31,Female,2026-05-24,7000,20,Paid,66.0,61,96,5,Manish,9885733218,user93@gmail.com,Completed
+95,Hari,Python with AI/ML,Biratnagar,32,Female,2026-01-04,7000,10,Pending,86.0,96,81,4,Samriddha,9863503930,user94@gmail.com,Ongoing
+96,Nabin,UI/UX,Dharan,34,Male,2026-03-16,5000,0,Pending,83.0,56,41,3,Samriddha,9815219852,user95@gmail.com,Completed
+97,Nabin,UI/UX,Kathmandu,35,Female,2026-04-24,5000,0,Paid,74.0,92,77,5,Ishan,9870551287,user96@gmail.com,Ongoing
+98,Hari,Python with AI/ML,Biratnagar,35,Female,2026-02-19,7000,20,Paid,75.0,41,48,3,Samriddha,9887998292,user97@gmail.com,Completed
+99,Aarav,MERN Stack,Dharan,20,Female,2026-02-06,5000,0,Paid,76.0,36,69,3,Samriddha,9843615169,user98@gmail.com,Ongoing
+100,Aarav,Python with AI/ML,Itahari,26,Female,2026-04-15,7000,10,Paid,70.0,89,80,4,Manish,9832087178,user99@gmail.com,Ongoing
+101,Ram,Python with AI/ML,Kathmandu,17,Male,2026-04-29,7000,0,Paid,75.0,87,90,3,Samriddha,9853961784,user100@gmail.com,Ongoing
+102,Aarav,Flutter,Kathmandu,31,Male,2026-05-31,7000,10,Pending,65.0,35,36,3,Ishan,9802908369,user101@gmail.com,Ongoing
+103,Nabin,Flutter,Kathmandu,17,Female,2026-06-09,5000,20,Pending,97.0,79,82,5,Samriddha,9809124301,user102@gmail.com,Ongoing
+104,Nabin,Digital Marketing,Kathmandu,28,Male,2026-04-22,5000,20,Paid,41.0,90,81,3,Ishan,9897204407,user103@gmail.com,Completed
+105,Aarav,Data Science,Kathmandu,26,Male,2026-01-16,10000,20,Paid,58.0,84,98,5,Manish,9816102684,user104@gmail.com,Completed
+106,Suman,MERN Stack,Pokhara,33,Male,2026-02-27,7000,0,Pending,62.0,85,86,3,Ishan,9822786954,user105@gmail.com,Completed
+107,Suman,Flutter,Biratnagar,20,Female,2026-05-04,5000,20,Pending,99.0,70,81,3,Manish,9807120306,user106@gmail.com,Completed
+108,Sita,MERN Stack,Itahari,19,Female,2026-01-25,7000,20,Paid,84.0,85,38,5,Samriddha,9812944817,user107@gmail.com,Completed
+109,Suman,MERN Stack,Dharan,21,Female,2026-04-19,7000,20,Paid,46.0,65,100,5,Ishan,9857173072,user108@gmail.com,Ongoing
+110,Anisha,Flutter,Dharan,24,Male,2026-05-29,5000,10,Paid,46.0,92,36,5,Samriddha,9838542240,user109@gmail.com,Completed
+111,Nabin,UI/UX,Biratnagar,20,Male,2026-03-16,5000,20,Pending,92.0,36,38,4,Samriddha,9806684434,user110@gmail.com,Ongoing
+112,Gita,Digital Marketing,Kathmandu,23,Female,2026-04-03,10000,0,Paid,90.0,54,96,5,Samriddha,9802281413,user111@gmail.com,Completed
+113,Sita,Python with AI/ML,Itahari,29,Female,2026-05-21,5000,10,Paid,66.0,73,34,5,Samriddha,9804092312,user112@gmail.com,Completed
+114,Gita,MERN Stack,Kathmandu,31,Female,2026-06-20,5000,0,Pending,50.0,31,42,4,Manish,9899330509,user113@gmail.com,Ongoing
+115,Aarav,UI/UX,Itahari,17,Female,2026-05-26,7000,20,Pending,57.0,82,51,4,Samriddha,9858984569,user114@gmail.com,Ongoing
+116,Aarav,Digital Marketing,Dharan,20,Male,2026-02-03,7000,0,Paid,59.0,58,45,4,Manish,9881969709,user115@gmail.com,Ongoing
+117,Ram,Digital Marketing,Biratnagar,19,Female,2026-03-30,5000,10,Paid,82.0,90,82,5,Samriddha,9896963211,user116@gmail.com,Completed
+118,Nabin,Python with AI/ML,Pokhara,35,Male,2026-05-06,10000,0,Pending,41.0,84,74,5,Samriddha,9818926583,user117@gmail.com,Ongoing
+119,Suman,Data Science,Pokhara,18,Female,2026-04-10,5000,0,Paid,87.0,82,75,3,Manish,9895116756,user118@gmail.com,Ongoing
+120,Ram,MERN Stack,Kathmandu,29,Male,2026-04-28,10000,0,Pending,74.0,34,98,3,Manish,9815638381,user119@gmail.com,Ongoing
+121,Anisha,UI/UX,Kathmandu,21,Male,2026-04-01,5000,10,Pending,96.0,64,44,3,Ishan,9821059258,user120@gmail.com,Completed
+122,Gita,Python with AI/ML,Kathmandu,24,Male,2026-06-25,10000,0,Paid,45.0,80,59,4,Manish,9801546240,user121@gmail.com,Completed
+123,Nabin,Python with AI/ML,Pokhara,20,Female,2026-06-21,5000,10,Paid,88.0,77,62,3,Manish,9879306203,user122@gmail.com,Ongoing
+124,Sita,UI/UX,Biratnagar,23,Male,2026-04-22,5000,10,Pending,77.0,74,74,5,Manish,9811447703,user123@gmail.com,Ongoing
+125,Nabin,Data Science,Dharan,31,Female,2026-03-06,10000,0,Pending,98.0,62,82,4,Ishan,9855040973,user124@gmail.com,Completed
+126,Hari,UI/UX,Dharan,29,Male,2026-04-23,7000,20,Paid,65.0,52,86,4,Ishan,9831678550,user125@gmail.com,Ongoing
+127,Gita,Python with AI/ML,Itahari,27,Male,2026-03-09,7000,0,Pending,65.0,35,31,3,Samriddha,9812114716,user126@gmail.com,Completed
+128,Sita,Flutter,Biratnagar,32,Female,2026-02-12,10000,10,Pending,75.0,50,76,3,Samriddha,9824140749,user127@gmail.com,Completed
+129,Nabin,Flutter,Kathmandu,28,Female,2026-06-17,5000,0,Pending,77.0,88,72,4,Samriddha,9804704785,user128@gmail.com,Completed
+130,Aarav,Python with AI/ML,Biratnagar,19,Female,2026-02-23,10000,0,Paid,77.0,58,89,4,Ishan,9813411584,user129@gmail.com,Ongoing
+131,Nabin,Digital Marketing,Pokhara,28,Female,2026-01-22,10000,10,Pending,84.0,77,82,4,Ishan,9868612465,user130@gmail.com,Completed
+132,Hari,MERN Stack,Itahari,35,Female,2026-06-13,5000,0,Pending,84.0,42,41,5,Ishan,9820072853,user131@gmail.com,Ongoing
+133,Aarav,Flutter,Biratnagar,27,Male,2026-01-17,5000,20,Paid,81.0,72,66,4,Samriddha,9837246918,user132@gmail.com,Completed
+134,Nabin,Flutter,Kathmandu,31,Female,2026-05-15,7000,10,Pending,69.0,82,73,5,Samriddha,9864343654,user133@gmail.com,Ongoing
+135,Aarav,MERN Stack,Itahari,34,Female,2026-02-10,10000,20,Pending,50.0,36,38,4,Ishan,9813435656,user134@gmail.com,Completed
+136,Ram,UI/UX,Biratnagar,22,Female,2026-04-28,10000,0,Pending,66.0,88,58,3,Ishan,9832772550,user135@gmail.com,Completed
+137,Hari,Data Science,Itahari,28,Male,2026-02-08,10000,10,Paid,90.0,52,33,4,Ishan,9842393125,user136@gmail.com,Completed
+138,Hari,Python with AI/ML,Kathmandu,20,Male,2026-02-20,5000,10,Paid,99.0,91,34,4,Samriddha,9811966323,user137@gmail.com,Ongoing
+139,Ram,Python with AI/ML,Biratnagar,17,Female,2026-01-03,7000,10,Pending,40.0,65,67,3,Ishan,9826052749,user138@gmail.com,Completed
+140,Suman,Data Science,Itahari,21,Male,2026-02-05,7000,0,Paid,45.0,42,74,5,Manish,9856959758,user139@gmail.com,Completed
+141,Suman,Python with AI/ML,Pokhara,33,Female,2026-05-08,5000,10,Pending,45.0,54,58,5,Samriddha,9819178668,user140@gmail.com,Completed
+142,Suman,Digital Marketing,Itahari,29,Female,2026-03-17,10000,20,Pending,43.0,80,58,4,Samriddha,9834210541,user141@gmail.com,Ongoing
+143,Anisha,Data Science,Dharan,20,Male,2026-02-17,7000,0,Pending,76.0,98,96,4,Samriddha,9880648942,user142@gmail.com,Completed
+144,Aarav,Flutter,Dharan,26,Female,2026-05-14,7000,10,Pending,57.0,100,55,5,Manish,9827050742,user143@gmail.com,Ongoing
+145,Aarav,Python with AI/ML,Itahari,32,Male,2026-06-13,10000,10,Paid,73.0,74,41,4,Manish,9820705494,user144@gmail.com,Completed
+146,Gita,MERN Stack,Dharan,20,Female,2026-04-06,5000,10,Pending,53.0,81,37,4,Manish,9872424293,user145@gmail.com,Ongoing
+147,Hari,MERN Stack,Dharan,32,Male,2026-04-25,7000,10,Paid,75.0,66,36,3,Samriddha,9842784054,user146@gmail.com,Ongoing
+148,Nabin,UI/UX,Dharan,30,Female,2026-03-08,10000,10,Paid,77.0,56,49,5,Manish,9853893729,user147@gmail.com,Completed
+149,Anisha,Data Science,Kathmandu,30,Female,2026-02-11,5000,10,Paid,44.0,76,49,4,Ishan,9889309832,user148@gmail.com,Completed
+150,Sita,Digital Marketing,Itahari,21,Male,2026-01-25,10000,10,Paid,69.0,60,92,3,Ishan,9826470857,user149@gmail.com,Ongoing
+151,Hari,UI/UX,Kathmandu,32,Male,2026-02-09,5000,20,Pending,67.0,56,78,4,Samriddha,9849775261,user150@gmail.com,Ongoing
+152,Ram,UI/UX,Kathmandu,22,Male,2026-06-19,10000,0,Pending,52.0,69,56,4,Manish,9899053288,user151@gmail.com,Completed
+153,Anisha,UI/UX,Dharan,19,Female,2026-03-16,5000,0,Paid,49.0,42,93,3,Samriddha,9845428179,user152@gmail.com,Completed
+154,Anisha,MERN Stack,Biratnagar,30,Male,2026-03-17,7000,10,Pending,48.0,37,49,5,Samriddha,9874758913,user153@gmail.com,Completed
+155,Hari,Data Science,Pokhara,30,Female,2026-06-21,7000,0,Paid,46.0,60,97,5,Manish,9885152154,user154@gmail.com,Ongoing
+156,Ram,Python with AI/ML,Biratnagar,31,Male,2026-03-15,5000,20,Pending,94.0,86,96,4,Manish,9812695495,user155@gmail.com,Completed
+157,Sita,Digital Marketing,Pokhara,22,Male,2026-06-17,7000,10,Pending,81.0,73,53,5,Ishan,9873325166,user156@gmail.com,Ongoing
+158,Sita,Data Science,Pokhara,19,Female,2026-05-23,5000,20,Paid,100.0,56,100,5,Manish,9832162137,user157@gmail.com,Ongoing
+159,Suman,Flutter,Itahari,28,Female,2026-05-03,5000,0,Pending,98.0,52,85,5,Samriddha,9857393903,user158@gmail.com,Completed
+160,Hari,Digital Marketing,Biratnagar,18,Female,2026-04-05,5000,0,Paid,79.0,79,71,5,Ishan,9806234706,user159@gmail.com,Ongoing
+161,Hari,UI/UX,Pokhara,32,Male,2026-03-07,5000,0,Paid,43.0,57,99,5,Ishan,9892528510,user160@gmail.com,Ongoing
+162,Suman,Python with AI/ML,Dharan,33,Male,2026-03-14,7000,10,Paid,94.0,96,71,4,Samriddha,9844943446,user161@gmail.com,Ongoing
+163,Ram,Digital Marketing,Kathmandu,24,Female,2026-04-01,10000,20,Pending,51.0,72,93,3,Manish,9898298187,user162@gmail.com,Completed
+164,Aarav,Flutter,Itahari,26,Male,2026-03-29,5000,10,Paid,84.0,35,44,3,Ishan,9867385490,user163@gmail.com,Ongoing
+165,Suman,UI/UX,Itahari,29,Female,2026-01-08,10000,0,Paid,78.0,88,58,4,Manish,9801513554,user164@gmail.com,Ongoing
+166,Gita,MERN Stack,Pokhara,33,Female,2026-03-06,7000,10,Pending,76.0,67,74,4,Manish,9893822174,user165@gmail.com,Completed
+167,Aarav,Python with AI/ML,Pokhara,18,Male,2026-03-30,10000,0,Paid,95.0,94,100,5,Samriddha,9850411371,user166@gmail.com,Ongoing
+168,Aarav,Data Science,Biratnagar,21,Male,2026-02-02,10000,20,Pending,92.0,52,59,4,Manish,9857557021,user167@gmail.com,Ongoing
+169,Nabin,Digital Marketing,Pokhara,29,Male,2026-06-30,5000,0,Paid,66.0,36,65,4,Samriddha,9872594728,user168@gmail.com,Ongoing
+170,Nabin,Flutter,Dharan,29,Male,2026-04-15,10000,0,Paid,65.0,56,66,4,Manish,9880689680,user169@gmail.com,Completed
+171,Sita,UI/UX,Pokhara,33,Male,2026-02-22,7000,0,Pending,65.0,70,99,5,Samriddha,9890731924,user170@gmail.com,Ongoing
+172,Sita,Digital Marketing,Biratnagar,18,Female,2026-05-24,5000,0,Pending,91.0,90,71,3,Ishan,9889257325,user171@gmail.com,Completed
+173,Suman,UI/UX,Pokhara,28,Male,2026-04-15,5000,10,Paid,67.0,55,32,4,Samriddha,9816298406,user172@gmail.com,Completed
+174,Hari,Flutter,Pokhara,28,Female,2026-02-10,7000,20,Pending,86.0,93,79,3,Manish,9824957703,user173@gmail.com,Completed
+175,Nabin,MERN Stack,Biratnagar,30,Female,2026-05-09,10000,0,Paid,77.0,74,48,3,Samriddha,9889958050,user174@gmail.com,Completed
+176,Anisha,Flutter,Kathmandu,24,Female,2026-03-18,5000,0,Pending,70.0,74,85,4,Samriddha,9837341599,user175@gmail.com,Completed
+177,Suman,Data Science,Kathmandu,35,Male,2026-02-26,10000,20,Paid,70.0,83,71,3,Ishan,9890545949,user176@gmail.com,Completed
+178,Hari,Flutter,Biratnagar,34,Female,2026-05-01,7000,0,Pending,70.0,76,34,4,Manish,9818009552,user177@gmail.com,Ongoing
+179,Nabin,Python with AI/ML,Biratnagar,17,Male,2026-05-14,7000,0,Paid,66.0,93,61,4,Manish,9856777722,user178@gmail.com,Completed
+180,Nabin,MERN Stack,Itahari,29,Female,2026-03-13,5000,0,Pending,94.0,57,46,4,Manish,9844504309,user179@gmail.com,Completed
+181,Gita,Data Science,Dharan,17,Female,2026-04-03,10000,10,Pending,94.0,43,51,5,Ishan,9871542781,user180@gmail.com,Ongoing
+182,Aarav,UI/UX,Biratnagar,35,Female,2026-03-03,7000,20,Pending,98.0,69,98,4,Ishan,9828346080,user181@gmail.com,Ongoing
+183,Nabin,Digital Marketing,Dharan,23,Male,2026-05-12,5000,0,Paid,71.0,77,73,5,Manish,9866252926,user182@gmail.com,Ongoing
+184,Suman,Python with AI/ML,Biratnagar,21,Female,2026-03-18,10000,20,Paid,70.0,86,96,5,Samriddha,9813346250,user183@gmail.com,Completed
+185,Sita,UI/UX,Dharan,35,Male,2026-02-23,5000,10,Pending,43.0,72,85,5,Ishan,9882073569,user184@gmail.com,Ongoing
+186,Gita,MERN Stack,Biratnagar,22,Male,2026-06-10,5000,10,Paid,66.0,95,79,3,Samriddha,9848153049,user185@gmail.com,Ongoing
+187,Anisha,UI/UX,Biratnagar,19,Female,2026-04-05,10000,0,Paid,60.0,67,67,5,Samriddha,9845393007,user186@gmail.com,Ongoing
+188,Suman,Flutter,Dharan,27,Female,2026-03-18,10000,0,Pending,91.0,76,74,3,Manish,9887966548,user187@gmail.com,Completed
+189,Nabin,Data Science,Pokhara,27,Male,2026-06-11,5000,20,Paid,62.0,43,63,4,Samriddha,9880879160,user188@gmail.com,Ongoing
+190,Nabin,Python with AI/ML,Dharan,29,Female,2026-05-25,10000,10,Paid,87.0,38,47,3,Samriddha,9856087618,user189@gmail.com,Ongoing
+191,Sita,Python with AI/ML,Dharan,31,Female,2026-04-21,7000,20,Pending,70.0,72,54,5,Samriddha,9873256867,user190@gmail.com,Ongoing
+192,Anisha,MERN Stack,Itahari,28,Female,2026-01-04,10000,10,Pending,50.0,43,95,4,Ishan,9845854705,user191@gmail.com,Completed
+193,Sita,Digital Marketing,Biratnagar,28,Female,2026-02-02,5000,20,Pending,46.0,32,100,3,Samriddha,9842613811,user192@gmail.com,Completed
+194,Hari,UI/UX,Pokhara,28,Female,2026-04-17,10000,20,Paid,41.0,70,79,3,Ishan,9839180249,user193@gmail.com,Completed
+195,Hari,UI/UX,Biratnagar,31,Female,2026-01-25,10000,0,Pending,63.0,91,41,3,Samriddha,9855849440,user194@gmail.com,Completed
+196,Suman,UI/UX,Pokhara,23,Male,2026-05-05,10000,20,Paid,45.0,55,89,5,Manish,9862929085,user195@gmail.com,Ongoing
+197,Anisha,Data Science,Kathmandu,29,Female,2026-06-22,5000,0,Paid,84.0,86,67,4,Ishan,9841367782,user196@gmail.com,Completed
+198,Hari,Digital Marketing,Kathmandu,24,Female,2026-01-14,10000,0,Pending,82.0,83,88,4,Ishan,9881856781,user197@gmail.com,Ongoing
+199,Aarav,Data Science,Itahari,29,Female,2026-02-01,7000,10,Pending,68.0,99,39,5,Manish,9813798072,user198@gmail.com,Ongoing
+200,Sita,Data Science,Dharan,29,Female,2026-01-26,7000,10,Pending,58.0,57,63,4,Samriddha,9868238283,user199@gmail.com,Completed
+201,Sita,Data Science,Itahari,25,Male,2026-02-01,5000,20,Pending,54.0,76,96,5,Manish,9860810445,user200@gmail.com,Completed
+202,Aarav,Data Science,Biratnagar,34,Male,2026-04-06,5000,20,Pending,81.0,39,80,4,Ishan,9873030211,user201@gmail.com,Completed
+203,Hari,Flutter,Itahari,18,Male,2026-06-24,7000,10,Paid,100.0,68,63,5,Manish,9811135050,user202@gmail.com,Completed
+204,Hari,Flutter,Itahari,31,Female,2026-01-27,5000,0,Paid,46.0,36,67,5,Samriddha,9838497978,user203@gmail.com,Ongoing
+205,Aarav,Data Science,Biratnagar,35,Female,2026-03-16,10000,0,Pending,61.0,64,73,3,Manish,9848630723,user204@gmail.com,Ongoing
+206,Nabin,MERN Stack,Pokhara,21,Male,2026-03-23,5000,0,Pending,63.0,90,30,5,Manish,9827111833,user205@gmail.com,Ongoing
+207,Ram,Digital Marketing,Pokhara,26,Male,2026-01-17,10000,20,Pending,75.0,87,40,3,Ishan,9819339650,user206@gmail.com,Completed
+208,Gita,Digital Marketing,Dharan,32,Male,2026-04-13,7000,10,Paid,90.0,67,35,5,Manish,9866617753,user207@gmail.com,Ongoing
+209,Aarav,Python with AI/ML,Itahari,18,Male,2026-05-30,5000,20,Paid,42.0,54,55,5,Samriddha,9844012087,user208@gmail.com,Completed
+210,Hari,UI/UX,Dharan,34,Female,2026-05-13,5000,10,Paid,77.0,89,59,4,Manish,9864940213,user209@gmail.com,Ongoing
+211,Sita,UI/UX,Dharan,17,Female,2026-01-02,10000,0,Pending,41.0,97,49,4,Manish,9815395744,user210@gmail.com,Ongoing
+212,Ram,Python with AI/ML,Pokhara,19,Female,2026-04-15,7000,10,Pending,58.0,72,72,4,Manish,9847597286,user211@gmail.com,Ongoing
+213,Gita,Digital Marketing,Pokhara,28,Female,2026-05-06,10000,10,Paid,52.0,69,43,4,Samriddha,9802255948,user212@gmail.com,Ongoing
+214,Suman,Data Science,Kathmandu,24,Male,2026-01-02,7000,20,Pending,53.0,75,32,5,Manish,9840889901,user213@gmail.com,Ongoing
+215,Hari,Flutter,Itahari,24,Male,2026-05-24,5000,0,Paid,59.0,89,62,3,Manish,9822278825,user214@gmail.com,Completed
+216,Aarav,Digital Marketing,Dharan,25,Male,2026-03-24,10000,20,Paid,80.0,100,75,3,Samriddha,9889436735,user215@gmail.com,Ongoing
+217,Hari,Digital Marketing,Itahari,31,Female,2026-05-16,5000,0,Paid,74.0,30,71,5,Ishan,9834390388,user216@gmail.com,Completed
+218,Suman,Data Science,Dharan,35,Male,2026-02-23,5000,20,Paid,74.0,46,77,5,Ishan,9834551004,user217@gmail.com,Completed
+219,Aarav,Flutter,Pokhara,27,Female,2026-01-05,10000,10,Pending,71.0,39,61,3,Ishan,9859701918,user218@gmail.com,Ongoing
+220,Nabin,Data Science,Dharan,22,Male,2026-02-10,10000,0,Paid,83.0,80,69,4,Samriddha,9806516386,user219@gmail.com,Ongoing
+221,Hari,UI/UX,Kathmandu,17,Male,2026-06-10,5000,20,Paid,70.0,75,36,3,Manish,9858517769,user220@gmail.com,Completed
+222,Sita,Flutter,Biratnagar,33,Female,2026-04-30,7000,10,Pending,55.0,86,65,3,Samriddha,9801977596,user221@gmail.com,Completed
+223,Suman,Flutter,Dharan,18,Male,2026-04-22,10000,0,Pending,74.0,84,50,3,Samriddha,9818692927,user222@gmail.com,Ongoing
+224,Suman,Flutter,Dharan,32,Female,2026-06-06,10000,10,Paid,90.0,50,59,5,Ishan,9895745934,user223@gmail.com,Completed
+225,Suman,MERN Stack,Dharan,26,Male,2026-05-18,5000,0,Paid,58.0,40,41,3,Manish,9891585284,user224@gmail.com,Ongoing
+226,Anisha,Digital Marketing,Kathmandu,22,Male,2026-05-26,7000,10,Pending,53.0,31,43,3,Samriddha,9865946483,user225@gmail.com,Ongoing
+227,Ram,MERN Stack,Pokhara,29,Male,2026-05-17,7000,10,Paid,100.0,74,87,5,Ishan,9881506989,user226@gmail.com,Completed
+228,Ram,Digital Marketing,Kathmandu,29,Female,2026-03-27,7000,20,Paid,66.0,50,88,5,Ishan,9833624553,user227@gmail.com,Completed
+229,Sita,UI/UX,Kathmandu,35,Male,2026-01-14,10000,0,Pending,68.0,36,99,3,Manish,9833392435,user228@gmail.com,Completed
+230,Ram,Python with AI/ML,Itahari,21,Female,2026-02-03,10000,10,Paid,66.0,40,97,4,Manish,9847951429,user229@gmail.com,Ongoing
+231,Gita,Data Science,Kathmandu,34,Male,2026-04-01,7000,0,Pending,53.0,82,55,5,Manish,9870475942,user230@gmail.com,Completed
+232,Gita,UI/UX,Kathmandu,30,Male,2026-03-28,7000,20,Paid,65.0,88,46,3,Manish,9828820834,user231@gmail.com,Completed
+233,Nabin,Python with AI/ML,Biratnagar,22,Female,2026-02-18,5000,20,Pending,49.0,56,37,3,Manish,9855137608,user232@gmail.com,Completed
+234,Aarav,UI/UX,Pokhara,29,Female,2026-03-29,5000,20,Paid,75.0,97,84,5,Manish,9885101311,user233@gmail.com,Completed
+235,Nabin,Flutter,Itahari,24,Male,2026-04-08,5000,0,Pending,75.0,93,80,3,Manish,9829511449,user234@gmail.com,Ongoing
+236,Gita,Digital Marketing,Dharan,23,Female,2026-03-08,10000,10,Paid,71.0,47,64,3,Manish,9841039004,user235@gmail.com,Completed
+237,Sita,Digital Marketing,Kathmandu,28,Female,2026-02-17,5000,10,Paid,76.0,71,57,5,Manish,9816580878,user236@gmail.com,Completed
+238,Sita,Flutter,Biratnagar,18,Female,2026-05-02,7000,10,Pending,73.0,93,65,3,Manish,9897155667,user237@gmail.com,Ongoing
+239,Sita,Data Science,Pokhara,26,Female,2026-04-15,10000,10,Pending,97.0,88,58,4,Manish,9854433348,user238@gmail.com,Ongoing
+240,Anisha,Flutter,Biratnagar,29,Male,2026-04-02,7000,10,Paid,80.0,50,38,3,Samriddha,9848249588,user239@gmail.com,Ongoing
+241,Ram,Digital Marketing,Dharan,17,Male,2026-03-25,7000,10,Pending,57.0,31,40,5,Samriddha,9897170795,user240@gmail.com,Completed
+242,Aarav,Python with AI/ML,Biratnagar,20,Male,2026-01-09,10000,20,Pending,68.0,52,41,3,Samriddha,9803870652,user241@gmail.com,Ongoing
+243,Sita,Flutter,Kathmandu,32,Female,2026-04-01,7000,0,Pending,44.0,60,50,5,Ishan,9840685646,user242@gmail.com,Ongoing
+244,Ram,UI/UX,Dharan,18,Female,2026-04-22,7000,20,Pending,94.0,72,37,4,Manish,9842207369,user243@gmail.com,Ongoing
+245,Hari,Digital Marketing,Biratnagar,17,Male,2026-04-07,10000,20,Paid,73.0,63,32,5,Manish,9864970124,user244@gmail.com,Ongoing
+246,Hari,UI/UX,Dharan,18,Male,2026-02-12,5000,0,Paid,58.0,57,84,3,Ishan,9852191018,user245@gmail.com,Completed
+247,Anisha,Flutter,Biratnagar,19,Male,2026-05-11,7000,20,Paid,85.0,85,99,5,Manish,9899474438,user246@gmail.com,Ongoing
+248,Nabin,Digital Marketing,Dharan,29,Male,2026-04-03,5000,0,Paid,94.0,66,57,4,Manish,9857118213,user247@gmail.com,Completed
+249,Nabin,UI/UX,Biratnagar,35,Female,2026-04-09,5000,0,Pending,64.0,50,82,5,Ishan,9858028323,user248@gmail.com,Ongoing
+250,Anisha,UI/UX,Biratnagar,17,Female,2026-02-01,10000,0,Paid,89.0,31,37,3,Ishan,9803184107,user249@gmail.com,Completed
+251,Sita,Data Science,Biratnagar,20,Female,2026-01-19,7000,0,Pending,81.0,100,86,3,Manish,9837716287,user250@gmail.com,Completed
+252,Hari,Data Science,Pokhara,23,Male,2026-02-04,5000,10,Paid,53.0,64,69,3,Ishan,9853738211,user251@gmail.com,Completed
+253,Nabin,Digital Marketing,Pokhara,23,Male,2026-01-07,5000,10,Pending,91.0,94,61,5,Manish,9871625712,user252@gmail.com,Completed
+254,Hari,Python with AI/ML,Dharan,19,Male,2026-05-18,10000,20,Pending,59.0,83,51,4,Manish,9846058087,user253@gmail.com,Completed
+255,Nabin,Python with AI/ML,Kathmandu,26,Female,2026-06-23,7000,20,Pending,66.0,70,89,3,Ishan,9814670372,user254@gmail.com,Ongoing
+256,Gita,Flutter,Dharan,25,Male,2026-06-27,10000,10,Paid,69.0,38,75,4,Samriddha,9871957324,user255@gmail.com,Completed
+257,Gita,Python with AI/ML,Biratnagar,20,Male,2026-02-27,5000,20,Paid,61.0,98,65,5,Samriddha,9871355213,user256@gmail.com,Completed
+258,Nabin,UI/UX,Pokhara,23,Female,2026-02-14,10000,0,Paid,46.0,100,77,3,Ishan,9834920629,user257@gmail.com,Completed
+259,Suman,Data Science,Pokhara,27,Male,2026-05-12,10000,0,Pending,70.0,34,31,4,Manish,9800428055,user258@gmail.com,Ongoing
+260,Nabin,MERN Stack,Biratnagar,29,Male,2026-04-18,10000,10,Paid,61.0,66,63,3,Manish,9866640197,user259@gmail.com,Ongoing
+261,Gita,Python with AI/ML,Itahari,29,Female,2026-02-20,7000,10,Paid,58.0,70,35,4,Manish,9831377579,user260@gmail.com,Ongoing
+262,Gita,Data Science,Dharan,30,Female,2026-05-24,10000,10,Paid,75.0,51,44,5,Samriddha,9804258047,user261@gmail.com,Completed
+263,Gita,MERN Stack,Pokhara,35,Female,2026-02-08,7000,10,Pending,67.0,34,55,3,Ishan,9869512516,user262@gmail.com,Ongoing
+264,Sita,UI/UX,Pokhara,20,Male,2026-03-03,10000,10,Paid,60.0,47,52,5,Manish,9895349824,user263@gmail.com,Ongoing
+265,Sita,Digital Marketing,Dharan,24,Female,2026-03-27,7000,10,Paid,80.0,65,64,5,Manish,9862426187,user264@gmail.com,Completed
+266,Ram,MERN Stack,Biratnagar,23,Female,2026-06-15,7000,10,Pending,76.0,91,56,3,Samriddha,9820700236,user265@gmail.com,Ongoing
+267,Hari,Data Science,Kathmandu,25,Male,2026-05-01,7000,10,Paid,98.0,86,39,4,Ishan,9863080418,user266@gmail.com,Completed
+268,Suman,Python with AI/ML,Itahari,31,Female,2026-02-26,5000,10,Paid,74.0,71,100,5,Ishan,9896421113,user267@gmail.com,Ongoing
+269,Suman,Flutter,Biratnagar,23,Female,2026-04-23,7000,10,Pending,55.0,39,38,3,Samriddha,9806686336,user268@gmail.com,Completed
+270,Anisha,MERN Stack,Biratnagar,32,Female,2026-03-08,5000,10,Paid,84.0,98,58,3,Samriddha,9829684284,user269@gmail.com,Completed
+271,Anisha,Flutter,Dharan,19,Male,2026-03-07,7000,20,Pending,63.0,54,82,5,Samriddha,9819718313,user270@gmail.com,Ongoing
+272,Gita,MERN Stack,Itahari,34,Female,2026-06-25,7000,10,Paid,90.0,39,60,3,Samriddha,9836388398,user271@gmail.com,Completed
+273,Sita,Python with AI/ML,Kathmandu,30,Female,2026-04-06,7000,0,Pending,70.0,63,53,4,Samriddha,9887462232,user272@gmail.com,Completed
+274,Hari,MERN Stack,Biratnagar,28,Female,2026-05-14,10000,20,Paid,83.0,32,37,4,Samriddha,9803413878,user273@gmail.com,Completed
+275,Gita,Python with AI/ML,Kathmandu,27,Male,2026-01-03,5000,20,Paid,84.0,74,70,3,Manish,9853176763,user274@gmail.com,Ongoing
+276,Sita,Flutter,Itahari,20,Male,2026-02-02,7000,20,Pending,89.0,30,58,3,Ishan,9829822147,user275@gmail.com,Ongoing
+277,Nabin,UI/UX,Kathmandu,21,Male,2026-04-23,7000,0,Pending,63.0,62,42,4,Ishan,9845870935,user276@gmail.com,Ongoing
+278,Anisha,MERN Stack,Pokhara,31,Male,2026-02-09,10000,10,Pending,58.0,93,52,5,Ishan,9832005964,user277@gmail.com,Ongoing
+279,Suman,Python with AI/ML,Biratnagar,30,Female,2026-04-09,10000,10,Pending,61.0,83,82,3,Ishan,9849193343,user278@gmail.com,Completed
+280,Gita,Digital Marketing,Biratnagar,25,Male,2026-04-02,5000,20,Paid,45.0,97,96,4,Samriddha,9847071262,user279@gmail.com,Completed
+281,Gita,Python with AI/ML,Kathmandu,21,Male,2026-03-13,5000,0,Paid,66.0,96,33,4,Manish,9806274808,user280@gmail.com,Completed
+282,Aarav,Digital Marketing,Pokhara,17,Female,2026-06-01,7000,10,Paid,97.0,56,93,5,Ishan,9848876270,user281@gmail.com,Ongoing
+283,Suman,Data Science,Itahari,28,Female,2026-04-16,10000,10,Paid,84.0,62,94,3,Ishan,9837905639,user282@gmail.com,Ongoing
+284,Aarav,Digital Marketing,Pokhara,18,Male,2026-04-24,7000,10,Paid,75.0,70,44,4,Ishan,9829776433,user283@gmail.com,Completed
+285,Ram,Python with AI/ML,Dharan,35,Female,2026-05-03,10000,20,Paid,83.0,69,61,4,Ishan,9806593769,user284@gmail.com,Completed
+286,Gita,Flutter,Kathmandu,31,Male,2026-04-06,5000,20,Pending,99.0,96,48,4,Ishan,9800647837,user285@gmail.com,Ongoing
+287,Ram,Flutter,Dharan,26,Female,2026-02-01,5000,20,Pending,81.0,93,86,4,Samriddha,9821063540,user286@gmail.com,Ongoing
+288,Hari,UI/UX,Pokhara,30,Female,2026-05-06,10000,10,Pending,80.0,56,50,5,Ishan,9800523489,user287@gmail.com,Ongoing
+289,Gita,UI/UX,Kathmandu,25,Female,2026-06-01,7000,0,Paid,73.0,65,82,5,Ishan,9816577834,user288@gmail.com,Completed
+290,Suman,Digital Marketing,Kathmandu,27,Male,2026-06-27,7000,20,Pending,93.0,83,69,4,Manish,9838442966,user289@gmail.com,Completed
+291,Aarav,Flutter,Dharan,32,Female,2026-05-30,5000,20,Pending,74.0,60,44,5,Ishan,9830919687,user290@gmail.com,Completed
+292,Nabin,Python with AI/ML,Itahari,22,Female,2026-02-02,7000,10,Paid,62.0,36,60,4,Manish,9880346977,user291@gmail.com,Ongoing
+293,Sita,Data Science,Pokhara,18,Female,2026-03-16,7000,10,Pending,47.0,96,69,3,Ishan,9826303026,user292@gmail.com,Completed
+294,Ram,MERN Stack,Kathmandu,33,Female,2026-06-05,5000,10,Paid,48.0,41,81,5,Samriddha,9804809353,user293@gmail.com,Completed
+295,Nabin,Flutter,Biratnagar,26,Male,2026-05-07,10000,10,Paid,71.0,86,65,4,Ishan,9848814235,user294@gmail.com,Completed
+296,Gita,Python with AI/ML,Kathmandu,34,Male,2026-03-15,5000,0,Pending,92.0,32,92,4,Samriddha,9859885482,user295@gmail.com,Ongoing
+297,Sita,MERN Stack,Pokhara,18,Male,2026-03-11,7000,10,Paid,66.0,91,37,4,Manish,9865840620,user296@gmail.com,Ongoing
+298,Suman,Digital Marketing,Pokhara,33,Male,2026-02-26,7000,10,Pending,61.0,79,97,5,Ishan,9802788762,user297@gmail.com,Ongoing
+299,Suman,Data Science,Dharan,34,Male,2026-01-06,7000,20,Paid,67.0,73,87,3,Manish,9865044701,user298@gmail.com,Completed
+300,Anisha,Data Science,Kathmandu,17,Male,2026-06-27,7000,10,Pending,89.0,67,78,4,Samriddha,9868962770,user299@gmail.com,Ongoing
+301,Hari,Flutter,Dharan,32,Male,2026-03-19,10000,10,Pending,51.0,75,70,4,Ishan,9839128803,user300@gmail.com,Completed
+302,Gita,MERN Stack,Biratnagar,30,Female,2026-03-22,5000,0,Paid,82.0,46,63,4,Samriddha,9871230433,user301@gmail.com,Ongoing
+303,Suman,Python with AI/ML,Dharan,31,Female,2026-04-10,5000,20,Paid,90.0,91,95,4,Ishan,9894509537,user302@gmail.com,Completed
+304,Gita,Python with AI/ML,Biratnagar,35,Male,2026-05-27,10000,0,Paid,48.0,89,66,3,Ishan,9899658046,user303@gmail.com,Ongoing
+305,Suman,Digital Marketing,Pokhara,28,Female,2026-04-05,7000,10,Paid,79.0,73,50,5,Samriddha,9808805271,user304@gmail.com,Ongoing
+306,Gita,Digital Marketing,Kathmandu,21,Female,2026-04-19,7000,10,Paid,46.0,42,34,5,Manish,9819627445,user305@gmail.com,Ongoing
+307,Nabin,Data Science,Itahari,17,Female,2026-04-03,5000,0,Pending,76.0,66,70,4,Manish,9825583895,user306@gmail.com,Ongoing
+308,Nabin,UI/UX,Pokhara,22,Male,2026-06-08,5000,0,Paid,74.0,72,80,5,Samriddha,9860556779,user307@gmail.com,Completed
+309,Suman,Data Science,Itahari,24,Female,2026-04-25,7000,20,Paid,45.0,33,85,4,Samriddha,9820668267,user308@gmail.com,Completed
+310,Ram,Digital Marketing,Itahari,34,Male,2026-06-27,10000,10,Paid,64.0,88,58,4,Ishan,9812914231,user309@gmail.com,Ongoing
+311,Suman,Python with AI/ML,Itahari,18,Male,2026-03-29,5000,0,Paid,89.0,48,56,4,Samriddha,9816561768,user310@gmail.com,Ongoing
+312,Suman,Flutter,Itahari,22,Female,2026-01-30,10000,20,Pending,85.0,67,90,3,Samriddha,9807224827,user311@gmail.com,Completed
+313,Ram,MERN Stack,Biratnagar,30,Female,2026-06-25,5000,20,Pending,99.0,52,89,4,Samriddha,9871980025,user312@gmail.com,Ongoing
+314,Suman,Data Science,Itahari,18,Female,2026-05-04,5000,10,Paid,83.0,51,33,3,Ishan,9850786193,user313@gmail.com,Ongoing
+315,Sita,Python with AI/ML,Dharan,28,Male,2026-06-20,10000,20,Pending,100.0,76,47,3,Ishan,9871754820,user314@gmail.com,Completed
+316,Ram,UI/UX,Pokhara,32,Female,2026-02-05,10000,0,Paid,67.0,74,72,3,Samriddha,9843017774,user315@gmail.com,Completed
+317,Hari,UI/UX,Kathmandu,27,Male,2026-05-19,5000,0,Paid,92.0,95,80,5,Samriddha,9852721078,user316@gmail.com,Ongoing
+318,Gita,Python with AI/ML,Dharan,26,Female,2026-03-04,7000,10,Pending,92.0,90,68,3,Manish,9802703785,user317@gmail.com,Completed
+319,Aarav,Python with AI/ML,Dharan,23,Male,2026-03-19,7000,0,Pending,43.0,67,69,5,Manish,9811951425,user318@gmail.com,Completed
+320,Suman,Digital Marketing,Itahari,26,Male,2026-04-07,7000,20,Paid,71.0,80,34,5,Samriddha,9808134657,user319@gmail.com,Ongoing
+321,Suman,Digital Marketing,Itahari,33,Female,2026-01-27,10000,20,Pending,40.0,88,39,3,Manish,9847774908,user320@gmail.com,Completed
+322,Hari,UI/UX,Kathmandu,32,Female,2026-04-17,10000,10,Pending,55.0,47,88,3,Manish,9851839088,user321@gmail.com,Completed
+323,Anisha,Digital Marketing,Kathmandu,17,Male,2026-03-03,7000,10,Pending,63.0,38,87,4,Manish,9862849897,user322@gmail.com,Ongoing
+324,Nabin,Data Science,Kathmandu,30,Female,2026-03-02,7000,10,Pending,60.0,99,78,5,Samriddha,9814934857,user323@gmail.com,Ongoing
+325,Sita,Data Science,Pokhara,24,Male,2026-05-01,5000,20,Paid,66.0,58,41,4,Samriddha,9834163380,user324@gmail.com,Completed
+326,Hari,Data Science,Dharan,32,Male,2026-06-20,10000,20,Paid,65.0,64,35,3,Manish,9839860825,user325@gmail.com,Completed
+327,Hari,Flutter,Biratnagar,35,Female,2026-05-02,10000,0,Pending,95.0,97,64,5,Manish,9880416604,user326@gmail.com,Ongoing
+328,Suman,Data Science,Pokhara,26,Male,2026-02-13,10000,0,Pending,40.0,97,82,5,Samriddha,9863078333,user327@gmail.com,Ongoing
+329,Suman,Digital Marketing,Pokhara,32,Female,2026-03-28,7000,10,Paid,44.0,74,91,5,Samriddha,9850799830,user328@gmail.com,Completed
+330,Nabin,UI/UX,Itahari,19,Female,2026-04-12,10000,0,Pending,56.0,79,73,3,Ishan,9851567969,user329@gmail.com,Ongoing
+331,Suman,UI/UX,Itahari,23,Male,2026-05-14,7000,10,Paid,63.0,98,79,5,Manish,9814793416,user330@gmail.com,Ongoing
+332,Suman,MERN Stack,Pokhara,19,Female,2026-01-04,5000,0,Paid,93.0,43,75,3,Ishan,9849590942,user331@gmail.com,Ongoing
+333,Sita,Python with AI/ML,Dharan,25,Female,2026-06-14,7000,0,Paid,59.0,76,78,3,Manish,9870884329,user332@gmail.com,Completed
+334,Gita,Data Science,Dharan,23,Male,2026-04-13,10000,10,Pending,50.0,31,55,5,Manish,9870900500,user333@gmail.com,Ongoing
+335,Suman,Flutter,Itahari,32,Female,2026-03-16,10000,10,Paid,82.0,61,48,3,Ishan,9861476107,user334@gmail.com,Completed
+336,Gita,Flutter,Biratnagar,27,Male,2026-04-10,7000,20,Paid,77.0,34,80,4,Ishan,9895351442,user335@gmail.com,Completed
+337,Sita,Digital Marketing,Itahari,25,Female,2026-03-01,10000,20,Paid,42.0,75,95,5,Manish,9824433481,user336@gmail.com,Ongoing
+338,Gita,MERN Stack,Pokhara,20,Male,2026-03-07,7000,10,Pending,76.0,55,84,5,Manish,9802421214,user337@gmail.com,Ongoing
+339,Hari,Data Science,Dharan,17,Male,2026-04-22,5000,10,Pending,41.0,91,93,3,Samriddha,9817310408,user338@gmail.com,Ongoing
+340,Anisha,Flutter,Pokhara,31,Female,2026-06-13,5000,20,Pending,73.0,65,90,3,Samriddha,9814802400,user339@gmail.com,Completed
+341,Hari,Digital Marketing,Biratnagar,31,Female,2026-06-10,5000,20,Pending,96.0,38,71,5,Ishan,9831430348,user340@gmail.com,Ongoing
+342,Gita,Flutter,Biratnagar,32,Female,2026-04-16,5000,10,Paid,54.0,33,61,5,Ishan,9865928299,user341@gmail.com,Ongoing
+343,Aarav,UI/UX,Itahari,18,Male,2026-03-01,7000,10,Paid,45.0,85,46,5,Manish,9832055006,user342@gmail.com,Completed
+344,Gita,Python with AI/ML,Kathmandu,33,Male,2026-05-07,5000,20,Paid,67.0,57,30,4,Samriddha,9828498406,user343@gmail.com,Ongoing
+345,Gita,Digital Marketing,Pokhara,29,Male,2026-05-18,10000,10,Paid,71.0,45,89,4,Manish,9847970014,user344@gmail.com,Completed
+346,Hari,UI/UX,Dharan,21,Female,2026-06-17,10000,20,Paid,98.0,87,56,5,Samriddha,9873827203,user345@gmail.com,Ongoing
+347,Anisha,Digital Marketing,Biratnagar,31,Female,2026-03-21,5000,10,Paid,45.0,51,44,3,Samriddha,9864328504,user346@gmail.com,Ongoing
+348,Sita,Flutter,Biratnagar,19,Male,2026-02-05,5000,20,Paid,80.0,89,39,5,Samriddha,9821459197,user347@gmail.com,Completed
+349,Anisha,UI/UX,Itahari,27,Male,2026-05-05,5000,10,Paid,63.0,58,52,5,Ishan,9862269669,user348@gmail.com,Completed
+350,Hari,Python with AI/ML,Dharan,19,Female,2026-04-04,5000,20,Pending,84.0,57,62,3,Manish,9803556080,user349@gmail.com,Ongoing
