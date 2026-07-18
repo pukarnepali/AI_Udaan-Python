@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
 ![Status](https://img.shields.io/badge/Status-Learning-success)
-![License](https://img.shields.io/badge/License-MIT-green)
+
 
 ---
 
@@ -238,6 +238,3 @@ GitHub: https://github.com/pukarnepali
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
