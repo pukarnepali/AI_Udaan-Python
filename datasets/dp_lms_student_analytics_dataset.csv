@@ -1,0 +1,501 @@
+StudentID,StudentName,Gender,Age,City,Course,Instructor,EnrollmentDate,Batch,CourseFee,PaymentMethod,AttendancePercentage,AssignmentScore,QuizScore,FinalScore,CourseProgress,StudyHoursPerWeek,LoginCount,CertificateIssued,StudentStatus,Revenue
+1,Bikash Karki,Male,18,Pokhara,Advanced Excel,Sanjeev Shrestha,2025-03-31,AI-02,3000,eSewa,93,90,72,81,100,19,30,Yes,Inactive,3000
+2,Nabin Rai,Male,24,Butwal,MERN Stack,Manish Basnet,2026-03-09,AI-01,7000,Cash,84,63,76,69,79,5,50,No,Inactive,7000
+3,Asmita Thapa,Female,24,Pokhara,Digital Marketing,Manish Basnet,2025-10-28,AI-02,4000,Bank Transfer,77,79,64,74,69,4,114,No,Active,4000
+4,Nabin Basnet,Female,20,Itahari,Python with AI/ML,Sanjeev Shrestha,2026-01-15,AI-02,5000,Cash,79,62,84,75,74,14,39,No,Active,5000
+5,Sita Basnet,Female,24,Janakpur,Advanced Excel,Samriddha Pathak,2025-10-02,FLT-01,3000,Khalti,68,97,99,88,70,10,22,No,Active,3000
+6,Nabin Basnet,Male,34,Janakpur,Advanced Excel,Manish Basnet,2026-02-13,AI-01,3000,eSewa,85,64,67,76,88,6,85,Yes,Active,3000
+7,Asmita Adhikari,Male,35,Dharan,Advanced Excel,Ishan Kafle,2025-01-12,AI-01,3000,Bank Transfer,74,77,32,64,72,15,25,No,Inactive,3000
+8,Puja Sharma,Female,34,Biratnagar,Python with AI/ML,Sanjeev Shrestha,2025-07-02,MRN-01,5000,Khalti,100,100,62,86,100,19,104,Yes,Active,5000
+9,Hari Thapa,Male,20,Janakpur,Digital Marketing,Manish Basnet,2025-03-01,DM-01,4000,Khalti,76,77,100,83,73,6,89,No,Inactive,4000
+10,Puja Adhikari,Male,27,Chitwan,Digital Marketing,Ishan Kafle,2025-08-05,FLT-01,4000,Cash,67,84,88,83,70,5,36,No,Active,4000
+11,Hari Sharma,Male,28,Pokhara,Python with AI/ML,Sanjeev Shrestha,2025-03-02,MRN-01,5000,Cash,69,92,73,74,79,8,74,No,Active,5000
+12,Anisha Basnet,Male,21,Chitwan,Advanced Excel,Ishan Kafle,2026-04-30,FLT-01,3000,Cash,86,92,63,82,83,16,115,Yes,Active,3000
+13,Hari Thapa,Female,22,Chitwan,Advanced Excel,Sanjeev Shrestha,2025-07-16,MRN-01,3000,Cash,68,57,95,69,65,9,116,No,Active,3000
+14,Sita Basnet,Male,31,Janakpur,UI/UX,Samriddha Pathak,2025-01-16,AI-02,4500,Cash,85,85,42,66,76,3,26,No,Inactive,4500
+15,Ram Basnet,Female,24,Kathmandu,Python with AI/ML,Manish Basnet,2026-05-14,MRN-01,5000,eSewa,87,73,75,79,94,3,79,Yes,Inactive,5000
+16,Ram Sharma,Male,25,Chitwan,Digital Marketing,Manish Basnet,2025-03-24,DM-01,4000,Khalti,65,91,62,67,71,20,81,No,Active,4000
+17,Hari Rai,Female,22,Dharan,Digital Marketing,Samriddha Pathak,2025-11-18,MRN-01,4000,eSewa,93,85,59,78,89,2,63,Yes,Active,4000
+18,Hari Rai,Female,23,Janakpur,Python with AI/ML,Ishan Kafle,2025-03-12,DM-01,5000,eSewa,73,57,67,62,74,19,43,No,Active,5000
+19,Prakash Rai,Male,26,Janakpur,MERN Stack,Ishan Kafle,2025-08-04,AI-01,7000,eSewa,75,100,71,81,84,15,111,Yes,Inactive,7000
+20,Prakash Karki,Female,35,Kathmandu,Python with AI/ML,Manish Basnet,2025-06-15,AI-01,5000,Khalti,71,100,72,86,69,19,9,No,Inactive,5000
+21,Asmita Basnet,Male,29,Chitwan,Digital Marketing,Sanjeev Shrestha,2025-08-04,AI-02,4000,Khalti,65,69,86,68,66,7,117,No,Inactive,4000
+22,Ram Adhikari,Male,30,Kathmandu,Python with AI/ML,Samriddha Pathak,2025-10-01,AI-02,5000,Khalti,80,89,100,90,77,16,49,No,Inactive,5000
+23,Asmita Thapa,Female,35,Butwal,MERN Stack,Manish Basnet,2025-12-26,AI-01,7000,Bank Transfer,80,96,61,75,78,7,79,No,Inactive,7000
+24,Sita Karki,Male,26,Kathmandu,Python with AI/ML,Samriddha Pathak,2026-06-08,AI-01,5000,Khalti,83,87,82,84,86,13,60,Yes,Active,5000
+25,Asmita Karki,Female,30,Dharan,Advanced Excel,Sanjeev Shrestha,2025-11-13,AI-02,3000,Cash,92,64,67,73,98,14,91,Yes,Active,3000
+26,Hari Karki,Female,32,Janakpur,Digital Marketing,Samriddha Pathak,2025-10-21,AI-02,4000,Cash,72,61,65,61,71,7,89,No,Active,4000
+27,Hari Basnet,Male,19,Biratnagar,Flutter,Samriddha Pathak,2025-08-19,DM-01,6500,eSewa,61,72,56,61,60,16,58,No,Active,6500
+28,Sita Karki,Male,23,Janakpur,Advanced Excel,Manish Basnet,2025-01-06,DM-01,3000,Khalti,97,69,54,71,91,5,63,Yes,Active,3000
+29,Anisha Thapa,Female,23,Janakpur,UI/UX,Samriddha Pathak,2026-06-01,MRN-01,4500,Khalti,60,36,39,47,69,10,103,No,Inactive,4500
+30,Nabin Rai,Male,22,Itahari,Advanced Excel,Sanjeev Shrestha,2025-10-06,FLT-01,3000,Khalti,61,76,89,74,58,8,13,No,Inactive,3000
+31,Bikash Karki,Female,18,Butwal,UI/UX,Ishan Kafle,2025-01-21,FLT-01,4500,Cash,71,89,99,87,79,19,100,No,Active,4500
+32,Asmita Adhikari,Female,23,Janakpur,UI/UX,Sanjeev Shrestha,2025-12-11,DM-01,4500,eSewa,86,78,88,79,88,14,80,Yes,Active,4500
+33,Rohan Rai,Female,30,Dharan,Python with AI/ML,Samriddha Pathak,2025-08-05,MRN-01,5000,eSewa,73,68,67,70,73,17,7,No,Active,5000
+34,Hari Basnet,Male,22,Biratnagar,Flutter,Sanjeev Shrestha,2025-02-01,FLT-01,6500,eSewa,78,75,77,81,69,20,32,No,Inactive,6500
+35,Sita Thapa,Male,27,Chitwan,Advanced Excel,Samriddha Pathak,2025-11-15,AI-02,3000,eSewa,77,89,39,64,72,20,93,No,Active,3000
+36,Bikash Sharma,Female,35,Chitwan,Python with AI/ML,Ishan Kafle,2025-05-04,AI-01,5000,Bank Transfer,58,70,59,67,67,2,113,No,Inactive,5000
+37,Prakash Thapa,Female,35,Janakpur,UI/UX,Samriddha Pathak,2025-06-30,FLT-01,4500,Bank Transfer,100,98,52,80,100,12,114,Yes,Active,4500
+38,Nabin Sharma,Female,28,Itahari,Python with AI/ML,Samriddha Pathak,2026-01-24,AI-02,5000,Bank Transfer,61,72,89,76,69,10,48,No,Inactive,5000
+39,Rohan Thapa,Male,33,Janakpur,Digital Marketing,Samriddha Pathak,2026-02-21,AI-01,4000,eSewa,75,63,100,75,72,11,33,No,Inactive,4000
+40,Anisha Adhikari,Female,29,Janakpur,Advanced Excel,Ishan Kafle,2025-12-19,MRN-01,3000,Bank Transfer,79,75,95,83,84,9,20,Yes,Active,3000
+41,Prakash Thapa,Female,21,Biratnagar,Flutter,Ishan Kafle,2025-10-11,AI-02,6500,Bank Transfer,88,87,72,80,93,7,43,Yes,Active,6500
+42,Prakash Basnet,Female,21,Kathmandu,Advanced Excel,Ishan Kafle,2025-10-27,FLT-01,3000,Cash,70,63,69,62,77,16,48,No,Active,3000
+43,Ram Basnet,Female,20,Biratnagar,Python with AI/ML,Manish Basnet,2025-02-24,DM-01,5000,Cash,77,100,76,86,69,9,104,No,Inactive,5000
+44,Bikash Thapa,Male,21,Biratnagar,UI/UX,Sanjeev Shrestha,2025-11-09,MRN-01,4500,eSewa,80,85,64,80,83,7,35,Yes,Active,4500
+45,Gita Adhikari,Female,32,Pokhara,Digital Marketing,Sanjeev Shrestha,2025-08-26,MRN-01,4000,Khalti,78,75,51,67,69,15,19,No,Active,4000
+46,Ram Rai,Female,32,Pokhara,Advanced Excel,Samriddha Pathak,2025-03-03,MRN-01,3000,Cash,82,81,82,78,74,10,69,No,Inactive,3000
+47,Hari Adhikari,Male,26,Kathmandu,UI/UX,Sanjeev Shrestha,2025-04-04,FLT-01,4500,Cash,80,77,59,71,70,10,28,No,Inactive,4500
+48,Nabin Rai,Male,23,Butwal,Advanced Excel,Samriddha Pathak,2026-02-23,FLT-01,3000,Bank Transfer,82,90,33,70,83,14,109,Yes,Active,3000
+49,Anisha Sharma,Male,34,Butwal,UI/UX,Samriddha Pathak,2026-04-19,FLT-01,4500,eSewa,85,81,92,89,75,8,39,No,Active,4500
+50,Prakash Basnet,Female,35,Kathmandu,Flutter,Samriddha Pathak,2025-09-03,AI-01,6500,Khalti,91,53,81,71,81,5,64,Yes,Active,6500
+51,Rohan Basnet,Female,35,Itahari,Advanced Excel,Samriddha Pathak,2026-05-10,AI-02,3000,Khalti,84,59,68,69,87,4,40,Yes,Inactive,3000
+52,Bikash Thapa,Female,22,Janakpur,Flutter,Samriddha Pathak,2025-11-02,MRN-01,6500,Bank Transfer,64,91,64,68,63,19,102,No,Inactive,6500
+53,Aarav Rai,Female,30,Chitwan,UI/UX,Sanjeev Shrestha,2026-02-25,FLT-01,4500,eSewa,100,62,83,82,97,6,69,Yes,Inactive,4500
+54,Prakash Basnet,Female,22,Pokhara,Python with AI/ML,Samriddha Pathak,2025-01-16,MRN-01,5000,Bank Transfer,76,86,59,76,80,14,88,No,Active,5000
+55,Bikash Sharma,Male,27,Biratnagar,Flutter,Manish Basnet,2025-02-06,FLT-01,6500,eSewa,92,51,61,70,99,5,61,Yes,Active,6500
+56,Nabin Rai,Female,22,Biratnagar,Advanced Excel,Samriddha Pathak,2025-10-28,DM-01,3000,Khalti,85,73,75,77,76,7,27,No,Active,3000
+57,Asmita Rai,Female,26,Kathmandu,Digital Marketing,Samriddha Pathak,2026-04-18,MRN-01,4000,Khalti,89,59,74,71,86,4,61,Yes,Inactive,4000
+58,Hari Karki,Female,21,Biratnagar,Digital Marketing,Samriddha Pathak,2025-11-06,DM-01,4000,Bank Transfer,100,63,100,86,100,20,42,Yes,Inactive,4000
+59,Gita Basnet,Female,25,Biratnagar,Python with AI/ML,Ishan Kafle,2026-05-24,AI-02,5000,eSewa,95,71,68,83,86,3,44,Yes,Inactive,5000
+60,Prakash Karki,Male,24,Itahari,Python with AI/ML,Ishan Kafle,2025-12-01,DM-01,5000,Bank Transfer,93,53,59,64,92,7,37,Yes,Inactive,5000
+61,Puja Rai,Male,30,Kathmandu,Flutter,Ishan Kafle,2026-02-11,DM-01,6500,eSewa,77,61,100,76,74,16,52,No,Inactive,6500
+62,Rohan Sharma,Female,25,Pokhara,Digital Marketing,Samriddha Pathak,2025-08-28,MRN-01,4000,Cash,98,59,87,81,91,5,22,Yes,Active,4000
+63,Nabin Adhikari,Female,22,Chitwan,Python with AI/ML,Manish Basnet,2026-04-10,FLT-01,5000,Cash,73,91,99,84,75,10,9,No,Inactive,5000
+64,Puja Adhikari,Female,19,Chitwan,MERN Stack,Ishan Kafle,2026-01-12,AI-02,7000,eSewa,92,40,85,72,85,16,16,Yes,Active,7000
+65,Sita Thapa,Male,24,Biratnagar,Advanced Excel,Ishan Kafle,2025-07-30,AI-02,3000,eSewa,57,44,85,59,65,10,114,No,Active,3000
+66,Aarav Rai,Male,28,Kathmandu,MERN Stack,Sanjeev Shrestha,2025-05-15,MRN-01,7000,eSewa,81,49,64,60,71,6,99,No,Inactive,7000
+67,Puja Basnet,Male,34,Dharan,Digital Marketing,Samriddha Pathak,2026-04-08,AI-01,4000,eSewa,81,78,57,76,74,17,113,No,Inactive,4000
+68,Nabin Thapa,Male,20,Itahari,UI/UX,Ishan Kafle,2025-03-24,DM-01,4500,Bank Transfer,81,68,54,69,73,14,81,No,Inactive,4500
+69,Anisha Karki,Male,31,Butwal,UI/UX,Samriddha Pathak,2025-08-09,FLT-01,4500,Cash,65,74,74,76,75,5,45,No,Inactive,4500
+70,Sita Sharma,Male,31,Pokhara,Flutter,Ishan Kafle,2025-03-10,AI-02,6500,eSewa,72,67,58,62,77,20,76,No,Inactive,6500
+71,Nabin Sharma,Male,22,Janakpur,Advanced Excel,Sanjeev Shrestha,2025-11-16,AI-01,3000,Bank Transfer,86,84,58,71,85,19,52,Yes,Active,3000
+72,Bikash Adhikari,Female,18,Itahari,Flutter,Ishan Kafle,2025-01-27,MRN-01,6500,Bank Transfer,60,50,58,59,69,13,5,No,Active,6500
+73,Anisha Karki,Female,28,Itahari,MERN Stack,Ishan Kafle,2025-08-09,MRN-01,7000,Bank Transfer,66,68,86,68,58,20,81,No,Active,7000
+74,Rohan Adhikari,Female,33,Janakpur,Python with AI/ML,Samriddha Pathak,2025-10-06,MRN-01,5000,Khalti,91,89,94,86,83,18,19,Yes,Inactive,5000
+75,Anisha Thapa,Male,18,Biratnagar,UI/UX,Ishan Kafle,2025-08-14,AI-02,4500,Khalti,91,89,55,77,82,10,42,Yes,Inactive,4500
+76,Puja Adhikari,Male,34,Butwal,Python with AI/ML,Manish Basnet,2026-01-25,FLT-01,5000,eSewa,69,99,73,77,63,15,7,No,Inactive,5000
+77,Anisha Sharma,Female,23,Janakpur,Python with AI/ML,Ishan Kafle,2025-04-28,AI-01,5000,Cash,88,60,49,66,87,5,36,Yes,Inactive,5000
+78,Nabin Basnet,Male,34,Pokhara,Digital Marketing,Sanjeev Shrestha,2025-08-15,MRN-01,4000,Bank Transfer,69,70,75,70,69,6,35,No,Active,4000
+79,Rohan Thapa,Female,28,Butwal,MERN Stack,Sanjeev Shrestha,2026-05-21,FLT-01,7000,eSewa,77,84,87,78,72,17,61,No,Inactive,7000
+80,Rohan Sharma,Male,29,Dharan,Flutter,Manish Basnet,2026-04-18,AI-01,6500,Cash,94,63,63,69,93,16,79,Yes,Active,6500
+81,Rohan Sharma,Female,20,Itahari,UI/UX,Manish Basnet,2025-03-05,AI-02,4500,Cash,91,64,80,81,85,16,72,Yes,Active,4500
+82,Asmita Adhikari,Female,20,Butwal,Flutter,Manish Basnet,2025-02-23,DM-01,6500,Cash,93,66,81,81,93,11,37,Yes,Active,6500
+83,Bikash Adhikari,Male,27,Chitwan,Flutter,Ishan Kafle,2025-05-13,AI-02,6500,eSewa,93,85,83,92,95,15,70,Yes,Inactive,6500
+84,Hari Basnet,Male,22,Pokhara,Python with AI/ML,Ishan Kafle,2026-05-13,AI-01,5000,eSewa,72,68,79,71,72,12,117,No,Active,5000
+85,Anisha Rai,Male,32,Dharan,Digital Marketing,Samriddha Pathak,2025-02-14,AI-02,4000,Khalti,72,81,85,76,76,11,108,No,Inactive,4000
+86,Anisha Thapa,Female,23,Biratnagar,MERN Stack,Sanjeev Shrestha,2025-10-16,MRN-01,7000,eSewa,60,50,100,72,64,17,116,No,Inactive,7000
+87,Rohan Thapa,Male,31,Pokhara,Digital Marketing,Sanjeev Shrestha,2025-10-07,FLT-01,4000,Bank Transfer,95,65,63,70,90,2,58,Yes,Active,4000
+88,Aarav Rai,Male,28,Itahari,UI/UX,Sanjeev Shrestha,2025-08-18,AI-01,4500,Bank Transfer,77,64,71,66,78,17,94,No,Active,4500
+89,Anisha Sharma,Female,25,Dharan,Advanced Excel,Manish Basnet,2026-06-25,AI-01,3000,Khalti,61,78,74,69,55,15,86,No,Inactive,3000
+90,Asmita Thapa,Male,22,Dharan,Python with AI/ML,Samriddha Pathak,2025-01-17,AI-01,5000,Bank Transfer,76,99,94,93,83,9,78,Yes,Inactive,5000
+91,Puja Thapa,Male,30,Janakpur,MERN Stack,Manish Basnet,2026-06-04,FLT-01,7000,Bank Transfer,75,69,77,76,82,10,100,Yes,Active,7000
+92,Bikash Adhikari,Female,22,Kathmandu,Flutter,Ishan Kafle,2025-04-17,DM-01,6500,Bank Transfer,77,78,57,75,87,7,111,Yes,Inactive,6500
+93,Hari Sharma,Male,19,Butwal,Advanced Excel,Ishan Kafle,2025-10-28,DM-01,3000,Cash,70,76,88,80,61,19,65,No,Inactive,3000
+94,Gita Sharma,Female,31,Chitwan,Python with AI/ML,Samriddha Pathak,2025-12-06,FLT-01,5000,Bank Transfer,92,75,61,76,83,7,68,Yes,Inactive,5000
+95,Puja Rai,Female,21,Pokhara,Flutter,Ishan Kafle,2025-07-04,MRN-01,6500,Bank Transfer,90,66,80,74,93,16,82,Yes,Inactive,6500
+96,Gita Adhikari,Male,20,Chitwan,MERN Stack,Ishan Kafle,2026-03-22,DM-01,7000,Khalti,59,69,58,57,60,2,23,No,Inactive,7000
+97,Asmita Karki,Female,29,Janakpur,Python with AI/ML,Manish Basnet,2025-06-07,DM-01,5000,Khalti,84,82,62,80,75,18,51,No,Inactive,5000
+98,Rohan Thapa,Female,35,Pokhara,Flutter,Ishan Kafle,2025-07-10,MRN-01,6500,Cash,69,68,62,62,59,8,83,No,Inactive,6500
+99,Sita Adhikari,Female,29,Pokhara,Advanced Excel,Ishan Kafle,2026-04-01,MRN-01,3000,Khalti,90,66,94,85,85,7,106,Yes,Inactive,3000
+100,Aarav Rai,Female,32,Itahari,Digital Marketing,Manish Basnet,2026-05-21,AI-01,4000,Bank Transfer,94,82,100,89,91,14,96,Yes,Inactive,4000
+101,Rohan Karki,Female,22,Itahari,Digital Marketing,Sanjeev Shrestha,2025-03-17,FLT-01,4000,eSewa,67,83,64,71,77,5,71,No,Active,4000
+102,Gita Sharma,Female,24,Dharan,Flutter,Sanjeev Shrestha,2026-06-16,MRN-01,6500,eSewa,75,81,84,78,76,18,87,No,Active,6500
+103,Aarav Sharma,Male,26,Biratnagar,Digital Marketing,Samriddha Pathak,2025-02-12,DM-01,4000,eSewa,84,71,58,75,84,17,118,Yes,Inactive,4000
+104,Rohan Sharma,Male,23,Janakpur,Advanced Excel,Samriddha Pathak,2025-11-01,FLT-01,3000,Cash,61,91,67,78,63,8,48,No,Active,3000
+105,Puja Thapa,Male,28,Biratnagar,Flutter,Samriddha Pathak,2026-01-15,AI-01,6500,Bank Transfer,84,64,86,79,78,16,36,No,Active,6500
+106,Ram Rai,Female,24,Itahari,Python with AI/ML,Samriddha Pathak,2025-09-12,DM-01,5000,Cash,77,100,84,91,80,17,117,No,Inactive,5000
+107,Aarav Sharma,Female,33,Janakpur,UI/UX,Ishan Kafle,2025-12-28,DM-01,4500,eSewa,100,80,30,68,100,5,60,Yes,Active,4500
+108,Aarav Thapa,Male,29,Dharan,Flutter,Manish Basnet,2026-02-15,FLT-01,6500,Cash,76,71,45,64,67,19,40,No,Active,6500
+109,Bikash Thapa,Female,34,Kathmandu,MERN Stack,Manish Basnet,2025-07-23,AI-01,7000,Khalti,89,72,76,79,83,12,107,Yes,Inactive,7000
+110,Bikash Rai,Male,30,Dharan,Digital Marketing,Ishan Kafle,2025-12-02,DM-01,4000,Cash,67,55,77,69,61,20,43,No,Inactive,4000
+111,Gita Adhikari,Male,19,Janakpur,Python with AI/ML,Sanjeev Shrestha,2026-05-01,DM-01,5000,Cash,65,91,93,88,55,6,110,No,Active,5000
+112,Nabin Karki,Male,31,Biratnagar,Python with AI/ML,Samriddha Pathak,2026-03-28,DM-01,5000,Cash,75,54,61,61,65,3,95,No,Active,5000
+113,Puja Rai,Female,26,Janakpur,Digital Marketing,Sanjeev Shrestha,2026-04-16,AI-02,4000,Bank Transfer,80,87,61,76,75,19,43,No,Active,4000
+114,Nabin Thapa,Female,27,Pokhara,Flutter,Samriddha Pathak,2026-05-07,FLT-01,6500,Bank Transfer,65,78,47,65,65,6,42,No,Active,6500
+115,Puja Rai,Female,22,Pokhara,Flutter,Sanjeev Shrestha,2025-07-26,AI-02,6500,eSewa,82,73,92,84,78,18,33,No,Active,6500
+116,Aarav Thapa,Male,31,Janakpur,Python with AI/ML,Samriddha Pathak,2025-05-21,AI-02,5000,Bank Transfer,69,85,80,80,62,12,41,No,Active,5000
+117,Ram Sharma,Female,33,Itahari,Python with AI/ML,Ishan Kafle,2026-03-04,AI-01,5000,eSewa,72,66,69,64,67,11,77,No,Active,5000
+118,Ram Thapa,Female,26,Biratnagar,Flutter,Manish Basnet,2026-05-21,MRN-01,6500,Khalti,54,65,100,76,60,16,87,No,Inactive,6500
+119,Anisha Thapa,Female,20,Chitwan,Advanced Excel,Manish Basnet,2026-02-20,AI-02,3000,Khalti,85,97,77,84,80,17,46,No,Active,3000
+120,Bikash Adhikari,Male,26,Butwal,Python with AI/ML,Sanjeev Shrestha,2025-11-06,AI-01,5000,eSewa,62,74,83,72,62,16,44,No,Active,5000
+121,Nabin Thapa,Male,25,Itahari,UI/UX,Samriddha Pathak,2025-10-30,AI-02,4500,Cash,67,43,92,63,77,13,58,No,Inactive,4500
+122,Puja Karki,Female,20,Pokhara,Digital Marketing,Manish Basnet,2025-03-25,DM-01,4000,Khalti,64,83,43,61,73,20,73,No,Active,4000
+123,Puja Karki,Male,32,Itahari,MERN Stack,Samriddha Pathak,2025-04-04,FLT-01,7000,eSewa,71,91,80,84,76,19,64,No,Inactive,7000
+124,Aarav Karki,Female,20,Kathmandu,Advanced Excel,Manish Basnet,2025-03-16,FLT-01,3000,eSewa,83,86,73,75,79,11,57,No,Active,3000
+125,Anisha Sharma,Male,29,Pokhara,MERN Stack,Sanjeev Shrestha,2026-01-22,DM-01,7000,Cash,81,33,61,59,85,18,21,No,Active,7000
+126,Puja Karki,Male,25,Janakpur,Python with AI/ML,Ishan Kafle,2026-03-11,AI-02,5000,Bank Transfer,68,76,27,59,75,8,117,No,Active,5000
+127,Sita Sharma,Male,32,Kathmandu,Python with AI/ML,Sanjeev Shrestha,2025-07-31,AI-01,5000,Cash,82,60,75,67,79,16,34,No,Active,5000
+128,Bikash Thapa,Female,25,Dharan,Python with AI/ML,Sanjeev Shrestha,2025-11-23,DM-01,5000,Khalti,53,100,100,82,61,15,43,No,Inactive,5000
+129,Aarav Rai,Female,34,Butwal,Python with AI/ML,Samriddha Pathak,2026-05-23,FLT-01,5000,Khalti,62,67,71,71,65,11,53,No,Active,5000
+130,Aarav Thapa,Female,31,Itahari,Digital Marketing,Samriddha Pathak,2026-04-20,AI-02,4000,Bank Transfer,70,46,77,63,64,8,47,No,Active,4000
+131,Sita Basnet,Male,33,Biratnagar,UI/UX,Ishan Kafle,2025-02-10,MRN-01,4500,eSewa,81,69,70,72,83,8,29,Yes,Active,4500
+132,Anisha Basnet,Female,27,Chitwan,Advanced Excel,Samriddha Pathak,2025-07-29,DM-01,3000,Bank Transfer,70,92,71,75,79,11,38,No,Inactive,3000
+133,Nabin Karki,Male,25,Itahari,Digital Marketing,Manish Basnet,2026-01-15,MRN-01,4000,Cash,87,63,80,76,83,11,24,Yes,Active,4000
+134,Gita Karki,Female,32,Itahari,Flutter,Ishan Kafle,2025-12-12,AI-02,6500,Khalti,59,77,92,74,64,19,67,No,Active,6500
+135,Anisha Basnet,Male,20,Itahari,Digital Marketing,Manish Basnet,2025-01-07,AI-02,4000,Cash,100,72,41,67,91,13,12,Yes,Inactive,4000
+136,Aarav Thapa,Female,35,Dharan,Advanced Excel,Manish Basnet,2025-01-13,DM-01,3000,Cash,74,73,72,76,77,7,18,No,Active,3000
+137,Nabin Karki,Female,25,Biratnagar,Digital Marketing,Ishan Kafle,2025-03-22,AI-01,4000,eSewa,82,82,43,68,84,4,56,Yes,Inactive,4000
+138,Rohan Karki,Female,21,Kathmandu,UI/UX,Sanjeev Shrestha,2025-03-26,AI-02,4500,Cash,74,70,70,66,69,10,10,No,Active,4500
+139,Bikash Basnet,Female,20,Dharan,Advanced Excel,Sanjeev Shrestha,2025-08-01,DM-01,3000,Khalti,100,60,68,76,90,20,111,Yes,Inactive,3000
+140,Prakash Rai,Male,21,Chitwan,Advanced Excel,Sanjeev Shrestha,2026-05-28,AI-01,3000,Bank Transfer,76,85,63,71,68,14,104,No,Inactive,3000
+141,Ram Adhikari,Female,20,Dharan,Python with AI/ML,Sanjeev Shrestha,2026-03-19,AI-01,5000,eSewa,64,55,61,63,66,10,24,No,Inactive,5000
+142,Sita Sharma,Male,27,Janakpur,Advanced Excel,Ishan Kafle,2026-01-05,MRN-01,3000,eSewa,80,76,62,73,80,6,16,No,Active,3000
+143,Bikash Thapa,Female,30,Kathmandu,UI/UX,Ishan Kafle,2025-04-06,FLT-01,4500,Cash,63,81,68,70,70,4,97,No,Active,4500
+144,Gita Rai,Female,22,Pokhara,Digital Marketing,Sanjeev Shrestha,2025-10-03,FLT-01,4000,Bank Transfer,79,52,68,63,73,15,43,No,Inactive,4000
+145,Sita Basnet,Female,18,Chitwan,Python with AI/ML,Ishan Kafle,2026-04-14,DM-01,5000,Cash,59,100,68,79,55,12,61,No,Inactive,5000
+146,Nabin Thapa,Male,33,Butwal,UI/UX,Sanjeev Shrestha,2025-11-04,FLT-01,4500,Bank Transfer,64,86,42,68,58,11,99,No,Inactive,4500
+147,Bikash Thapa,Male,35,Kathmandu,Digital Marketing,Samriddha Pathak,2025-07-24,AI-02,4000,Cash,80,61,66,69,73,11,111,No,Active,4000
+148,Asmita Basnet,Female,30,Pokhara,UI/UX,Samriddha Pathak,2025-09-16,DM-01,4500,Cash,98,71,64,76,95,20,56,Yes,Inactive,4500
+149,Sita Basnet,Female,23,Kathmandu,Digital Marketing,Samriddha Pathak,2025-03-29,MRN-01,4000,Cash,100,84,63,86,100,5,6,Yes,Active,4000
+150,Rohan Rai,Female,32,Itahari,Flutter,Ishan Kafle,2025-08-15,AI-01,6500,Cash,57,79,98,81,65,5,42,No,Inactive,6500
+151,Rohan Rai,Female,21,Janakpur,Python with AI/ML,Samriddha Pathak,2026-06-18,MRN-01,5000,eSewa,99,98,80,94,95,11,10,Yes,Active,5000
+152,Puja Basnet,Male,28,Chitwan,Python with AI/ML,Samriddha Pathak,2025-09-07,AI-02,5000,Cash,86,87,53,80,81,7,28,Yes,Inactive,5000
+153,Hari Rai,Male,21,Itahari,UI/UX,Ishan Kafle,2025-08-08,MRN-01,4500,Khalti,94,78,78,84,84,16,19,Yes,Inactive,4500
+154,Bikash Karki,Male,29,Butwal,Advanced Excel,Samriddha Pathak,2026-02-02,DM-01,3000,Khalti,93,86,57,83,93,11,83,Yes,Active,3000
+155,Anisha Thapa,Male,30,Chitwan,Advanced Excel,Sanjeev Shrestha,2026-02-02,FLT-01,3000,Khalti,82,80,68,73,88,19,26,Yes,Inactive,3000
+156,Nabin Sharma,Female,22,Biratnagar,Flutter,Samriddha Pathak,2025-02-24,DM-01,6500,Cash,85,83,82,85,94,15,92,Yes,Inactive,6500
+157,Gita Basnet,Female,23,Janakpur,UI/UX,Samriddha Pathak,2025-02-03,DM-01,4500,eSewa,74,59,82,69,73,20,19,No,Inactive,4500
+158,Anisha Sharma,Male,27,Kathmandu,Digital Marketing,Samriddha Pathak,2025-08-12,MRN-01,4000,Bank Transfer,91,81,58,71,95,4,61,Yes,Active,4000
+159,Ram Thapa,Male,24,Biratnagar,MERN Stack,Manish Basnet,2026-03-15,DM-01,7000,Bank Transfer,82,98,60,84,92,19,40,Yes,Active,7000
+160,Asmita Sharma,Male,31,Kathmandu,Flutter,Ishan Kafle,2026-06-11,AI-02,6500,Khalti,55,87,70,74,53,9,23,No,Inactive,6500
+161,Anisha Karki,Male,20,Chitwan,MERN Stack,Ishan Kafle,2026-03-01,MRN-01,7000,Cash,79,52,51,59,89,17,46,No,Active,7000
+162,Puja Karki,Male,31,Biratnagar,Advanced Excel,Samriddha Pathak,2025-03-06,MRN-01,3000,Bank Transfer,79,100,95,96,80,11,48,No,Active,3000
+163,Aarav Sharma,Male,32,Janakpur,Digital Marketing,Manish Basnet,2026-04-16,FLT-01,4000,Khalti,90,53,93,73,83,6,117,Yes,Inactive,4000
+164,Gita Sharma,Female,23,Kathmandu,MERN Stack,Samriddha Pathak,2026-01-05,MRN-01,7000,Khalti,65,96,48,65,75,15,88,No,Active,7000
+165,Aarav Adhikari,Female,21,Chitwan,Advanced Excel,Sanjeev Shrestha,2025-01-10,FLT-01,3000,eSewa,84,80,90,87,88,9,54,Yes,Active,3000
+166,Anisha Basnet,Male,20,Kathmandu,Advanced Excel,Sanjeev Shrestha,2025-05-21,FLT-01,3000,Bank Transfer,85,77,64,75,84,8,85,Yes,Active,3000
+167,Nabin Karki,Female,22,Biratnagar,UI/UX,Ishan Kafle,2026-01-29,AI-01,4500,Khalti,68,64,78,67,61,19,81,No,Inactive,4500
+168,Bikash Thapa,Male,30,Dharan,Advanced Excel,Manish Basnet,2026-06-15,AI-02,3000,Cash,100,100,77,91,96,14,19,Yes,Active,3000
+169,Anisha Thapa,Female,29,Itahari,UI/UX,Samriddha Pathak,2025-05-16,AI-01,4500,eSewa,75,70,73,72,75,20,13,No,Active,4500
+170,Asmita Adhikari,Female,31,Chitwan,Flutter,Manish Basnet,2025-10-21,DM-01,6500,Khalti,76,82,100,87,82,10,15,Yes,Inactive,6500
+171,Gita Adhikari,Female,25,Kathmandu,Python with AI/ML,Sanjeev Shrestha,2025-03-09,AI-01,5000,Cash,69,74,79,75,77,5,63,No,Active,5000
+172,Prakash Basnet,Male,23,Janakpur,Flutter,Ishan Kafle,2025-01-13,DM-01,6500,Bank Transfer,64,63,51,56,57,7,52,No,Active,6500
+173,Gita Thapa,Male,26,Pokhara,Advanced Excel,Samriddha Pathak,2026-03-16,FLT-01,3000,Bank Transfer,79,63,92,73,79,3,68,No,Active,3000
+174,Prakash Thapa,Male,19,Kathmandu,Flutter,Sanjeev Shrestha,2025-08-22,AI-01,6500,Cash,64,89,95,86,57,13,54,No,Active,6500
+175,Nabin Basnet,Female,28,Dharan,MERN Stack,Manish Basnet,2025-08-18,DM-01,7000,Bank Transfer,99,62,38,71,100,5,69,Yes,Active,7000
+176,Rohan Rai,Female,28,Pokhara,MERN Stack,Samriddha Pathak,2025-03-12,AI-01,7000,Bank Transfer,69,78,90,74,71,8,42,No,Inactive,7000
+177,Ram Sharma,Female,18,Biratnagar,Advanced Excel,Ishan Kafle,2025-09-09,AI-01,3000,Bank Transfer,68,63,56,60,75,2,102,No,Inactive,3000
+178,Rohan Sharma,Male,26,Pokhara,Advanced Excel,Manish Basnet,2026-03-06,AI-02,3000,Cash,70,73,64,72,67,13,63,No,Active,3000
+179,Asmita Basnet,Male,27,Dharan,Digital Marketing,Ishan Kafle,2026-03-22,FLT-01,4000,Bank Transfer,83,79,74,82,74,12,62,No,Inactive,4000
+180,Sita Basnet,Female,32,Butwal,MERN Stack,Samriddha Pathak,2025-06-09,AI-01,7000,Bank Transfer,73,84,76,81,66,8,62,No,Inactive,7000
+181,Nabin Basnet,Male,25,Butwal,UI/UX,Samriddha Pathak,2025-08-09,DM-01,4500,eSewa,77,82,85,85,68,11,38,No,Active,4500
+182,Sita Karki,Male,22,Pokhara,Python with AI/ML,Manish Basnet,2025-09-13,AI-01,5000,Khalti,93,100,62,88,100,6,30,Yes,Inactive,5000
+183,Hari Adhikari,Female,22,Pokhara,Flutter,Ishan Kafle,2025-03-08,AI-01,6500,eSewa,66,42,90,62,56,16,11,No,Active,6500
+184,Asmita Karki,Male,29,Biratnagar,Digital Marketing,Sanjeev Shrestha,2026-01-27,MRN-01,4000,Bank Transfer,86,53,82,75,76,16,118,No,Active,4000
+185,Sita Rai,Female,22,Chitwan,Python with AI/ML,Sanjeev Shrestha,2025-03-04,DM-01,5000,Khalti,65,61,60,65,70,19,106,No,Active,5000
+186,Bikash Thapa,Female,30,Dharan,UI/UX,Sanjeev Shrestha,2025-12-19,AI-01,4500,Bank Transfer,66,77,57,69,71,9,8,No,Inactive,4500
+187,Hari Adhikari,Male,26,Kathmandu,Python with AI/ML,Sanjeev Shrestha,2025-04-13,DM-01,5000,Cash,82,59,58,64,77,13,112,No,Active,5000
+188,Prakash Adhikari,Female,22,Biratnagar,MERN Stack,Samriddha Pathak,2025-01-29,DM-01,7000,Bank Transfer,90,76,85,83,98,7,67,Yes,Active,7000
+189,Ram Rai,Male,28,Kathmandu,Python with AI/ML,Manish Basnet,2025-07-26,AI-02,5000,Khalti,93,82,90,88,100,5,113,Yes,Inactive,5000
+190,Nabin Rai,Female,22,Itahari,Python with AI/ML,Samriddha Pathak,2025-04-14,FLT-01,5000,Bank Transfer,79,49,99,76,87,7,95,Yes,Inactive,5000
+191,Prakash Sharma,Female,19,Itahari,MERN Stack,Ishan Kafle,2025-07-01,DM-01,7000,Khalti,66,51,53,55,60,20,18,No,Inactive,7000
+192,Asmita Sharma,Female,32,Kathmandu,MERN Stack,Ishan Kafle,2025-06-21,AI-02,7000,Khalti,91,72,77,80,91,4,49,Yes,Inactive,7000
+193,Anisha Rai,Female,21,Janakpur,Python with AI/ML,Sanjeev Shrestha,2026-05-20,AI-02,5000,Cash,77,70,56,64,80,4,107,No,Active,5000
+194,Ram Karki,Male,20,Pokhara,Flutter,Ishan Kafle,2025-12-17,DM-01,6500,Cash,82,86,73,76,74,2,60,No,Active,6500
+195,Asmita Rai,Female,25,Pokhara,Digital Marketing,Manish Basnet,2025-09-29,FLT-01,4000,Cash,83,69,80,75,86,6,11,Yes,Inactive,4000
+196,Hari Sharma,Male,24,Itahari,Python with AI/ML,Ishan Kafle,2026-05-07,AI-01,5000,Cash,82,63,77,79,92,5,44,Yes,Inactive,5000
+197,Nabin Basnet,Female,19,Dharan,UI/UX,Samriddha Pathak,2026-01-26,FLT-01,4500,Bank Transfer,60,76,88,71,61,9,112,No,Inactive,4500
+198,Asmita Rai,Female,25,Kathmandu,Digital Marketing,Samriddha Pathak,2025-03-29,DM-01,4000,Cash,86,98,82,93,79,19,92,No,Inactive,4000
+199,Bikash Adhikari,Male,21,Janakpur,Digital Marketing,Sanjeev Shrestha,2026-06-14,AI-02,4000,Khalti,88,63,100,78,94,8,21,Yes,Active,4000
+200,Bikash Rai,Female,20,Pokhara,UI/UX,Samriddha Pathak,2025-06-01,DM-01,4500,Cash,90,95,83,87,100,19,46,Yes,Inactive,4500
+201,Anisha Basnet,Male,21,Pokhara,Digital Marketing,Manish Basnet,2025-04-26,MRN-01,4000,Bank Transfer,54,82,77,74,57,15,38,No,Inactive,4000
+202,Anisha Basnet,Female,19,Chitwan,Advanced Excel,Ishan Kafle,2025-10-10,AI-02,3000,eSewa,61,54,73,57,56,17,39,No,Inactive,3000
+203,Ram Rai,Female,28,Dharan,Python with AI/ML,Samriddha Pathak,2025-08-22,DM-01,5000,eSewa,66,97,60,79,59,8,61,No,Active,5000
+204,Ram Sharma,Female,34,Chitwan,UI/UX,Sanjeev Shrestha,2026-06-12,DM-01,4500,eSewa,99,73,45,72,90,7,29,Yes,Active,4500
+205,Puja Karki,Male,18,Biratnagar,Python with AI/ML,Ishan Kafle,2026-04-21,FLT-01,5000,Cash,78,91,93,86,79,7,116,No,Inactive,5000
+206,Aarav Karki,Male,23,Biratnagar,Digital Marketing,Sanjeev Shrestha,2025-10-19,AI-02,4000,Khalti,68,61,67,64,60,10,88,No,Inactive,4000
+207,Bikash Sharma,Male,26,Dharan,Digital Marketing,Ishan Kafle,2025-06-27,FLT-01,4000,Cash,98,78,72,79,100,13,63,Yes,Inactive,4000
+208,Aarav Thapa,Female,35,Dharan,MERN Stack,Ishan Kafle,2025-04-15,AI-01,7000,Cash,76,52,76,72,78,4,48,No,Inactive,7000
+209,Ram Thapa,Male,19,Chitwan,Advanced Excel,Ishan Kafle,2025-07-12,AI-02,3000,eSewa,73,85,50,74,72,17,42,No,Inactive,3000
+210,Nabin Adhikari,Male,35,Janakpur,UI/UX,Ishan Kafle,2025-07-14,DM-01,4500,Bank Transfer,53,54,86,68,61,7,112,No,Active,4500
+211,Hari Rai,Male,27,Chitwan,Flutter,Ishan Kafle,2025-04-02,MRN-01,6500,Bank Transfer,83,79,70,74,83,20,42,Yes,Inactive,6500
+212,Rohan Basnet,Male,30,Dharan,Python with AI/ML,Samriddha Pathak,2025-03-14,AI-01,5000,Khalti,99,45,77,77,100,6,30,Yes,Inactive,5000
+213,Nabin Adhikari,Male,28,Kathmandu,UI/UX,Manish Basnet,2026-05-15,FLT-01,4500,Bank Transfer,100,72,80,81,92,8,102,Yes,Active,4500
+214,Asmita Karki,Female,31,Janakpur,Digital Marketing,Samriddha Pathak,2026-03-21,AI-01,4000,eSewa,77,76,53,64,71,19,30,No,Inactive,4000
+215,Hari Adhikari,Female,27,Itahari,Python with AI/ML,Manish Basnet,2025-09-12,FLT-01,5000,Bank Transfer,93,59,69,68,100,7,13,Yes,Active,5000
+216,Nabin Karki,Male,28,Janakpur,Flutter,Ishan Kafle,2026-06-21,AI-02,6500,Khalti,77,90,66,80,86,14,7,Yes,Active,6500
+217,Prakash Adhikari,Male,30,Dharan,MERN Stack,Manish Basnet,2026-01-11,DM-01,7000,eSewa,77,67,69,68,70,5,88,No,Active,7000
+218,Rohan Adhikari,Male,24,Kathmandu,Python with AI/ML,Ishan Kafle,2025-09-16,FLT-01,5000,eSewa,62,69,56,63,55,18,39,No,Active,5000
+219,Hari Thapa,Male,26,Biratnagar,UI/UX,Ishan Kafle,2026-05-25,FLT-01,4500,Bank Transfer,80,68,70,68,73,7,10,No,Inactive,4500
+220,Asmita Sharma,Male,33,Itahari,MERN Stack,Manish Basnet,2025-01-14,DM-01,7000,eSewa,72,68,55,63,62,5,120,No,Inactive,7000
+221,Gita Rai,Female,31,Pokhara,Advanced Excel,Manish Basnet,2025-02-10,AI-01,3000,eSewa,82,100,66,78,77,6,89,No,Active,3000
+222,Nabin Rai,Male,21,Chitwan,Flutter,Samriddha Pathak,2025-04-06,FLT-01,6500,Bank Transfer,90,64,85,83,88,14,93,Yes,Inactive,6500
+223,Anisha Thapa,Female,32,Itahari,UI/UX,Samriddha Pathak,2025-04-17,MRN-01,4500,eSewa,65,53,90,64,60,6,66,No,Inactive,4500
+224,Aarav Adhikari,Male,28,Pokhara,Python with AI/ML,Samriddha Pathak,2025-11-18,AI-02,5000,Cash,90,87,60,75,88,13,89,Yes,Inactive,5000
+225,Rohan Karki,Male,20,Janakpur,MERN Stack,Ishan Kafle,2026-06-02,AI-02,7000,Bank Transfer,86,58,77,78,81,10,11,Yes,Active,7000
+226,Rohan Thapa,Female,20,Janakpur,Digital Marketing,Samriddha Pathak,2026-04-16,MRN-01,4000,eSewa,77,65,59,65,69,17,100,No,Active,4000
+227,Puja Thapa,Male,32,Butwal,Python with AI/ML,Ishan Kafle,2025-11-08,AI-01,5000,Khalti,75,77,43,69,84,16,47,Yes,Inactive,5000
+228,Aarav Rai,Female,27,Butwal,Advanced Excel,Manish Basnet,2025-08-16,AI-01,3000,Khalti,71,61,50,56,64,17,22,No,Inactive,3000
+229,Prakash Rai,Male,31,Kathmandu,Python with AI/ML,Manish Basnet,2025-07-15,FLT-01,5000,Cash,77,84,94,83,81,20,69,Yes,Active,5000
+230,Puja Basnet,Male,22,Pokhara,UI/UX,Samriddha Pathak,2026-05-10,DM-01,4500,Bank Transfer,94,99,72,91,97,18,117,Yes,Inactive,4500
+231,Ram Basnet,Female,34,Dharan,UI/UX,Ishan Kafle,2026-04-09,DM-01,4500,Khalti,100,70,72,80,99,8,31,Yes,Inactive,4500
+232,Puja Adhikari,Female,21,Butwal,Advanced Excel,Samriddha Pathak,2026-05-31,DM-01,3000,Cash,68,62,91,78,63,19,41,No,Inactive,3000
+233,Gita Adhikari,Female,22,Kathmandu,Python with AI/ML,Ishan Kafle,2025-06-14,AI-02,5000,eSewa,75,74,86,76,73,13,109,No,Inactive,5000
+234,Hari Thapa,Female,19,Chitwan,Python with AI/ML,Samriddha Pathak,2026-02-03,FLT-01,5000,Bank Transfer,92,58,55,71,89,19,11,Yes,Active,5000
+235,Bikash Thapa,Male,24,Dharan,Advanced Excel,Samriddha Pathak,2026-01-12,AI-02,3000,eSewa,77,95,78,81,87,7,27,Yes,Active,3000
+236,Bikash Rai,Male,28,Janakpur,UI/UX,Sanjeev Shrestha,2025-06-14,AI-01,4500,Khalti,54,86,75,70,48,12,81,No,Active,4500
+237,Puja Basnet,Male,34,Pokhara,Advanced Excel,Sanjeev Shrestha,2025-11-22,FLT-01,3000,Cash,64,60,51,58,56,4,49,No,Active,3000
+238,Puja Adhikari,Male,21,Butwal,MERN Stack,Samriddha Pathak,2026-05-02,AI-02,7000,Khalti,78,68,59,67,74,3,92,No,Inactive,7000
+239,Nabin Thapa,Female,33,Kathmandu,UI/UX,Ishan Kafle,2026-06-14,AI-02,4500,Bank Transfer,100,56,56,69,90,18,15,Yes,Active,4500
+240,Hari Adhikari,Male,31,Pokhara,MERN Stack,Sanjeev Shrestha,2025-03-09,DM-01,7000,Cash,87,100,67,87,77,4,100,No,Active,7000
+241,Bikash Basnet,Female,31,Chitwan,Python with AI/ML,Samriddha Pathak,2025-03-14,FLT-01,5000,Cash,67,78,76,72,74,12,7,No,Inactive,5000
+242,Prakash Sharma,Female,34,Pokhara,Advanced Excel,Ishan Kafle,2025-02-16,MRN-01,3000,eSewa,80,76,73,80,72,11,102,No,Inactive,3000
+243,Asmita Basnet,Female,29,Kathmandu,UI/UX,Sanjeev Shrestha,2025-10-30,AI-01,4500,eSewa,64,88,52,65,66,2,78,No,Inactive,4500
+244,Anisha Adhikari,Male,23,Itahari,Digital Marketing,Sanjeev Shrestha,2025-08-05,DM-01,4000,Bank Transfer,80,68,70,70,81,8,19,Yes,Active,4000
+245,Gita Adhikari,Male,26,Pokhara,Advanced Excel,Sanjeev Shrestha,2025-03-16,DM-01,3000,Cash,85,47,94,78,89,12,50,Yes,Active,3000
+246,Nabin Karki,Female,28,Dharan,Advanced Excel,Sanjeev Shrestha,2025-07-18,DM-01,3000,Bank Transfer,55,71,65,67,47,12,59,No,Active,3000
+247,Asmita Adhikari,Female,33,Janakpur,Python with AI/ML,Samriddha Pathak,2025-05-18,MRN-01,5000,Bank Transfer,69,99,66,77,70,17,75,No,Active,5000
+248,Gita Adhikari,Male,20,Kathmandu,MERN Stack,Manish Basnet,2025-07-21,DM-01,7000,Cash,61,71,66,65,55,20,32,No,Active,7000
+249,Hari Thapa,Female,22,Janakpur,Digital Marketing,Manish Basnet,2026-02-06,FLT-01,4000,Bank Transfer,76,100,49,72,77,18,6,No,Active,4000
+250,Ram Thapa,Male,33,Butwal,Digital Marketing,Manish Basnet,2025-06-13,AI-02,4000,Cash,73,64,47,58,77,9,13,No,Inactive,4000
+251,Aarav Sharma,Female,21,Dharan,Flutter,Ishan Kafle,2026-04-11,DM-01,6500,Khalti,79,97,43,74,84,14,88,Yes,Inactive,6500
+252,Anisha Basnet,Female,29,Butwal,Flutter,Samriddha Pathak,2025-09-15,FLT-01,6500,eSewa,75,47,54,54,81,18,117,No,Active,6500
+253,Bikash Adhikari,Male,25,Chitwan,UI/UX,Ishan Kafle,2026-01-06,AI-01,4500,Cash,80,80,65,72,75,17,66,No,Active,4500
+254,Ram Thapa,Male,22,Kathmandu,Digital Marketing,Sanjeev Shrestha,2025-02-14,AI-01,4000,Khalti,71,90,97,81,68,10,28,No,Inactive,4000
+255,Rohan Thapa,Female,33,Itahari,Digital Marketing,Sanjeev Shrestha,2025-08-10,FLT-01,4000,Khalti,94,70,90,83,86,20,110,Yes,Active,4000
+256,Bikash Thapa,Male,25,Chitwan,Digital Marketing,Samriddha Pathak,2026-04-10,AI-02,4000,eSewa,64,68,61,69,64,2,30,No,Inactive,4000
+257,Sita Karki,Male,35,Kathmandu,MERN Stack,Samriddha Pathak,2025-05-01,DM-01,7000,Cash,72,69,89,79,78,13,116,No,Active,7000
+258,Bikash Adhikari,Male,31,Itahari,Advanced Excel,Ishan Kafle,2025-12-25,FLT-01,3000,Khalti,68,64,69,69,70,4,41,No,Inactive,3000
+259,Anisha Adhikari,Male,28,Chitwan,Flutter,Ishan Kafle,2025-01-08,AI-01,6500,Khalti,85,96,77,82,91,15,88,Yes,Inactive,6500
+260,Asmita Karki,Male,31,Janakpur,Flutter,Sanjeev Shrestha,2025-10-10,MRN-01,6500,Cash,62,84,58,68,71,10,44,No,Inactive,6500
+261,Sita Basnet,Female,28,Kathmandu,Advanced Excel,Sanjeev Shrestha,2025-06-15,FLT-01,3000,eSewa,72,79,77,74,76,4,110,No,Active,3000
+262,Nabin Sharma,Male,30,Chitwan,UI/UX,Ishan Kafle,2025-08-16,DM-01,4500,eSewa,73,89,64,71,71,7,86,No,Inactive,4500
+263,Puja Adhikari,Male,23,Kathmandu,UI/UX,Ishan Kafle,2026-06-07,AI-02,4500,eSewa,100,76,89,86,91,7,16,Yes,Inactive,4500
+264,Aarav Adhikari,Male,20,Dharan,UI/UX,Ishan Kafle,2026-06-15,MRN-01,4500,Bank Transfer,71,65,84,77,67,9,82,No,Active,4500
+265,Puja Rai,Female,21,Dharan,UI/UX,Ishan Kafle,2025-03-16,FLT-01,4500,Cash,92,66,70,72,99,20,66,Yes,Active,4500
+266,Rohan Sharma,Female,20,Chitwan,Flutter,Sanjeev Shrestha,2025-01-29,AI-02,6500,Bank Transfer,90,91,67,84,98,15,50,Yes,Active,6500
+267,Rohan Rai,Female,24,Dharan,Advanced Excel,Sanjeev Shrestha,2025-07-02,AI-02,3000,Cash,82,65,91,79,74,8,35,No,Active,3000
+268,Ram Sharma,Male,20,Janakpur,Flutter,Manish Basnet,2025-12-31,DM-01,6500,eSewa,87,77,82,80,96,17,52,Yes,Inactive,6500
+269,Anisha Basnet,Male,19,Chitwan,UI/UX,Samriddha Pathak,2025-10-14,DM-01,4500,eSewa,97,56,60,68,100,18,49,Yes,Inactive,4500
+270,Nabin Adhikari,Male,18,Biratnagar,Advanced Excel,Samriddha Pathak,2026-04-17,DM-01,3000,eSewa,73,77,54,64,79,12,51,No,Inactive,3000
+271,Anisha Basnet,Female,29,Butwal,MERN Stack,Samriddha Pathak,2026-05-26,MRN-01,7000,Cash,69,71,50,63,64,7,78,No,Active,7000
+272,Anisha Basnet,Male,22,Janakpur,Digital Marketing,Manish Basnet,2026-03-19,AI-02,4000,Cash,80,64,44,61,77,17,22,No,Inactive,4000
+273,Gita Karki,Male,32,Butwal,UI/UX,Ishan Kafle,2025-08-09,MRN-01,4500,Bank Transfer,73,93,57,71,64,19,76,No,Inactive,4500
+274,Bikash Thapa,Male,27,Butwal,Flutter,Ishan Kafle,2025-07-23,DM-01,6500,Cash,72,82,73,80,81,16,118,Yes,Active,6500
+275,Asmita Thapa,Female,20,Pokhara,UI/UX,Sanjeev Shrestha,2026-03-08,MRN-01,4500,Khalti,67,64,100,82,67,12,45,No,Inactive,4500
+276,Prakash Thapa,Female,31,Itahari,Advanced Excel,Sanjeev Shrestha,2026-01-07,AI-01,3000,Khalti,71,72,94,78,75,9,89,No,Inactive,3000
+277,Aarav Karki,Male,21,Dharan,Advanced Excel,Sanjeev Shrestha,2025-02-25,AI-01,3000,Cash,76,69,75,69,81,11,34,Yes,Active,3000
+278,Aarav Sharma,Female,28,Janakpur,Advanced Excel,Samriddha Pathak,2025-06-24,DM-01,3000,Bank Transfer,82,70,93,78,88,19,61,Yes,Active,3000
+279,Asmita Adhikari,Female,29,Janakpur,Advanced Excel,Sanjeev Shrestha,2026-06-21,AI-01,3000,Cash,62,70,46,63,65,11,51,No,Inactive,3000
+280,Gita Karki,Male,33,Janakpur,Flutter,Ishan Kafle,2025-12-19,AI-01,6500,Cash,83,76,73,80,77,11,81,No,Active,6500
+281,Anisha Basnet,Female,20,Chitwan,Python with AI/ML,Sanjeev Shrestha,2026-02-04,DM-01,5000,Bank Transfer,70,72,84,73,65,11,88,No,Inactive,5000
+282,Asmita Karki,Female,26,Janakpur,UI/UX,Sanjeev Shrestha,2025-04-24,MRN-01,4500,eSewa,69,77,77,71,68,6,11,No,Active,4500
+283,Ram Sharma,Female,24,Butwal,MERN Stack,Samriddha Pathak,2025-04-03,MRN-01,7000,Cash,87,72,84,76,84,13,64,Yes,Active,7000
+284,Anisha Sharma,Female,23,Biratnagar,Flutter,Ishan Kafle,2025-09-30,FLT-01,6500,eSewa,87,96,84,86,78,5,103,No,Active,6500
+285,Asmita Basnet,Female,30,Dharan,UI/UX,Ishan Kafle,2026-06-18,AI-02,4500,eSewa,79,58,71,71,72,19,71,No,Active,4500
+286,Sita Basnet,Female,28,Kathmandu,Flutter,Sanjeev Shrestha,2025-08-12,MRN-01,6500,eSewa,74,62,73,69,65,14,106,No,Active,6500
+287,Hari Basnet,Female,20,Butwal,Python with AI/ML,Manish Basnet,2025-04-02,AI-01,5000,Bank Transfer,93,71,63,72,94,6,94,Yes,Active,5000
+288,Rohan Adhikari,Male,18,Chitwan,MERN Stack,Ishan Kafle,2025-12-22,AI-02,7000,Bank Transfer,60,61,73,67,70,3,67,No,Inactive,7000
+289,Gita Thapa,Male,20,Itahari,Digital Marketing,Samriddha Pathak,2026-04-25,MRN-01,4000,Bank Transfer,72,97,75,81,72,19,51,No,Inactive,4000
+290,Bikash Basnet,Female,20,Chitwan,Python with AI/ML,Sanjeev Shrestha,2026-01-08,DM-01,5000,Cash,85,77,53,68,75,19,24,No,Inactive,5000
+291,Aarav Basnet,Male,33,Biratnagar,Flutter,Manish Basnet,2025-07-02,AI-01,6500,Cash,69,82,91,75,63,17,72,No,Inactive,6500
+292,Asmita Karki,Male,32,Kathmandu,Python with AI/ML,Ishan Kafle,2025-08-02,DM-01,5000,Cash,88,61,88,75,78,13,106,No,Active,5000
+293,Sita Adhikari,Male,35,Chitwan,Digital Marketing,Sanjeev Shrestha,2025-04-10,AI-02,4000,Khalti,77,79,84,78,83,20,85,Yes,Active,4000
+294,Asmita Karki,Female,21,Itahari,Digital Marketing,Sanjeev Shrestha,2026-01-02,DM-01,4000,Cash,82,74,55,66,92,18,48,Yes,Active,4000
+295,Asmita Karki,Female,25,Biratnagar,Digital Marketing,Samriddha Pathak,2026-02-27,DM-01,4000,Bank Transfer,90,74,63,75,91,13,62,Yes,Inactive,4000
+296,Puja Basnet,Female,18,Dharan,UI/UX,Sanjeev Shrestha,2025-01-17,AI-02,4500,Bank Transfer,86,78,72,77,95,2,103,Yes,Inactive,4500
+297,Ram Rai,Female,25,Biratnagar,Digital Marketing,Ishan Kafle,2025-06-09,MRN-01,4000,eSewa,62,73,65,68,63,20,56,No,Active,4000
+298,Prakash Adhikari,Male,27,Kathmandu,Advanced Excel,Samriddha Pathak,2026-05-15,AI-01,3000,eSewa,75,86,78,81,70,12,49,No,Inactive,3000
+299,Aarav Rai,Male,28,Itahari,UI/UX,Ishan Kafle,2026-01-27,DM-01,4500,Khalti,83,71,75,80,73,6,11,No,Inactive,4500
+300,Gita Karki,Male,22,Butwal,UI/UX,Manish Basnet,2026-03-19,FLT-01,4500,eSewa,58,75,51,57,55,19,56,No,Inactive,4500
+301,Rohan Karki,Male,35,Biratnagar,Python with AI/ML,Sanjeev Shrestha,2025-07-22,AI-01,5000,Bank Transfer,67,84,63,73,74,15,46,No,Active,5000
+302,Nabin Thapa,Male,27,Itahari,Python with AI/ML,Ishan Kafle,2025-11-25,DM-01,5000,Cash,58,67,57,60,54,6,61,No,Active,5000
+303,Bikash Basnet,Female,18,Butwal,MERN Stack,Manish Basnet,2025-09-06,MRN-01,7000,Cash,81,88,73,76,72,17,7,No,Inactive,7000
+304,Puja Karki,Male,18,Chitwan,MERN Stack,Manish Basnet,2025-09-22,MRN-01,7000,Khalti,54,74,60,65,60,3,41,No,Active,7000
+305,Sita Sharma,Female,30,Biratnagar,Advanced Excel,Samriddha Pathak,2026-01-04,DM-01,3000,eSewa,75,71,70,73,73,12,67,No,Active,3000
+306,Hari Thapa,Female,28,Janakpur,MERN Stack,Samriddha Pathak,2025-02-10,AI-02,7000,eSewa,76,87,100,90,66,13,92,No,Inactive,7000
+307,Anisha Sharma,Female,25,Itahari,Flutter,Ishan Kafle,2025-09-21,FLT-01,6500,Khalti,71,67,90,71,81,4,98,Yes,Inactive,6500
+308,Hari Thapa,Male,31,Dharan,Digital Marketing,Ishan Kafle,2026-03-04,FLT-01,4000,Khalti,76,95,66,84,73,8,88,No,Active,4000
+309,Ram Adhikari,Male,28,Pokhara,Digital Marketing,Manish Basnet,2026-03-17,AI-02,4000,Bank Transfer,57,68,80,71,51,6,98,No,Active,4000
+310,Prakash Adhikari,Female,22,Biratnagar,Flutter,Manish Basnet,2026-03-30,AI-02,6500,Khalti,70,86,60,73,69,2,102,No,Inactive,6500
+311,Ram Thapa,Female,29,Itahari,Digital Marketing,Samriddha Pathak,2026-05-04,FLT-01,4000,Cash,70,70,74,71,62,6,25,No,Active,4000
+312,Hari Adhikari,Male,24,Pokhara,MERN Stack,Sanjeev Shrestha,2026-02-27,FLT-01,7000,Cash,96,99,77,85,94,12,115,Yes,Inactive,7000
+313,Asmita Adhikari,Male,34,Pokhara,MERN Stack,Samriddha Pathak,2026-06-22,FLT-01,7000,eSewa,59,86,48,64,61,9,71,No,Inactive,7000
+314,Gita Karki,Female,27,Dharan,Advanced Excel,Samriddha Pathak,2025-07-14,AI-02,3000,Cash,63,89,75,80,54,11,83,No,Active,3000
+315,Bikash Adhikari,Male,30,Chitwan,Advanced Excel,Ishan Kafle,2025-07-04,FLT-01,3000,eSewa,71,74,80,78,64,7,63,No,Active,3000
+316,Sita Sharma,Female,29,Pokhara,UI/UX,Samriddha Pathak,2025-05-07,DM-01,4500,Khalti,66,86,79,82,61,14,75,No,Inactive,4500
+317,Ram Adhikari,Male,31,Dharan,Python with AI/ML,Ishan Kafle,2025-05-29,FLT-01,5000,Bank Transfer,81,42,50,54,76,7,20,No,Active,5000
+318,Rohan Thapa,Male,33,Biratnagar,MERN Stack,Sanjeev Shrestha,2026-05-25,DM-01,7000,Cash,70,100,72,75,74,16,57,No,Inactive,7000
+319,Aarav Basnet,Male,19,Butwal,Python with AI/ML,Manish Basnet,2025-08-01,AI-02,5000,eSewa,76,73,81,81,83,20,112,Yes,Inactive,5000
+320,Asmita Rai,Male,32,Butwal,Flutter,Manish Basnet,2025-06-15,AI-01,6500,Bank Transfer,71,79,69,74,66,12,52,No,Inactive,6500
+321,Puja Karki,Male,24,Kathmandu,Python with AI/ML,Manish Basnet,2025-12-04,DM-01,5000,eSewa,79,46,88,67,77,17,97,No,Inactive,5000
+322,Ram Thapa,Female,34,Janakpur,UI/UX,Samriddha Pathak,2025-12-29,AI-02,4500,Khalti,83,64,63,73,91,11,29,Yes,Active,4500
+323,Aarav Rai,Female,35,Biratnagar,Python with AI/ML,Manish Basnet,2026-02-28,AI-02,5000,Bank Transfer,94,78,94,92,97,10,106,Yes,Active,5000
+324,Nabin Karki,Male,23,Biratnagar,Flutter,Ishan Kafle,2025-12-08,MRN-01,6500,Cash,93,69,91,79,86,17,107,Yes,Active,6500
+325,Prakash Sharma,Female,28,Kathmandu,Advanced Excel,Sanjeev Shrestha,2026-02-28,DM-01,3000,Bank Transfer,82,81,40,67,86,13,13,Yes,Active,3000
+326,Bikash Thapa,Female,23,Pokhara,Flutter,Ishan Kafle,2025-06-19,MRN-01,6500,eSewa,83,82,59,75,93,10,57,Yes,Active,6500
+327,Sita Rai,Male,24,Pokhara,UI/UX,Samriddha Pathak,2025-06-29,DM-01,4500,eSewa,86,64,78,79,85,17,120,Yes,Active,4500
+328,Ram Sharma,Male,24,Kathmandu,MERN Stack,Samriddha Pathak,2025-12-02,FLT-01,7000,eSewa,69,65,87,76,68,2,44,No,Active,7000
+329,Aarav Thapa,Female,24,Butwal,Advanced Excel,Sanjeev Shrestha,2025-11-16,AI-02,3000,Bank Transfer,92,50,55,61,98,10,73,Yes,Inactive,3000
+330,Aarav Thapa,Male,24,Butwal,UI/UX,Ishan Kafle,2025-04-28,MRN-01,4500,Khalti,99,69,60,73,97,11,78,Yes,Active,4500
+331,Asmita Sharma,Male,30,Kathmandu,MERN Stack,Manish Basnet,2026-04-28,FLT-01,7000,Cash,92,83,62,76,82,7,95,Yes,Inactive,7000
+332,Rohan Thapa,Male,20,Janakpur,Digital Marketing,Manish Basnet,2025-03-22,FLT-01,4000,Bank Transfer,89,66,83,77,96,16,65,Yes,Active,4000
+333,Rohan Karki,Male,20,Janakpur,MERN Stack,Manish Basnet,2025-11-29,MRN-01,7000,Cash,93,100,71,85,93,16,113,Yes,Active,7000
+334,Anisha Adhikari,Male,28,Pokhara,Flutter,Ishan Kafle,2025-04-16,DM-01,6500,Cash,89,77,50,69,95,14,80,Yes,Inactive,6500
+335,Anisha Thapa,Female,35,Biratnagar,MERN Stack,Sanjeev Shrestha,2026-03-18,AI-01,7000,Cash,67,61,87,71,63,5,80,No,Inactive,7000
+336,Sita Thapa,Male,30,Butwal,Flutter,Samriddha Pathak,2026-02-20,AI-01,6500,eSewa,76,48,61,58,75,8,109,No,Active,6500
+337,Anisha Thapa,Female,24,Biratnagar,Digital Marketing,Ishan Kafle,2025-10-26,MRN-01,4000,Bank Transfer,92,62,81,75,96,15,96,Yes,Inactive,4000
+338,Gita Sharma,Female,35,Kathmandu,Python with AI/ML,Manish Basnet,2025-05-11,DM-01,5000,Bank Transfer,78,57,61,68,80,5,115,No,Inactive,5000
+339,Anisha Thapa,Male,23,Janakpur,Python with AI/ML,Sanjeev Shrestha,2026-01-26,AI-02,5000,Cash,79,98,60,80,81,13,112,Yes,Inactive,5000
+340,Sita Adhikari,Male,22,Janakpur,MERN Stack,Samriddha Pathak,2025-01-12,AI-02,7000,eSewa,84,67,100,80,78,6,87,No,Inactive,7000
+341,Puja Karki,Female,29,Biratnagar,UI/UX,Sanjeev Shrestha,2026-03-11,FLT-01,4500,eSewa,92,60,92,83,98,20,68,Yes,Active,4500
+342,Aarav Sharma,Female,29,Pokhara,Advanced Excel,Samriddha Pathak,2026-01-11,AI-01,3000,Khalti,70,59,71,69,78,18,114,No,Inactive,3000
+343,Bikash Sharma,Female,35,Kathmandu,UI/UX,Samriddha Pathak,2025-11-16,FLT-01,4500,Cash,63,73,62,71,55,20,98,No,Inactive,4500
+344,Aarav Adhikari,Female,26,Kathmandu,UI/UX,Samriddha Pathak,2025-06-21,DM-01,4500,Khalti,72,50,100,73,71,20,11,No,Inactive,4500
+345,Bikash Rai,Female,26,Kathmandu,Advanced Excel,Manish Basnet,2025-05-16,DM-01,3000,Khalti,70,66,88,73,68,20,99,No,Active,3000
+346,Ram Thapa,Male,28,Pokhara,Advanced Excel,Sanjeev Shrestha,2026-05-12,DM-01,3000,Khalti,85,49,81,70,82,17,101,Yes,Inactive,3000
+347,Sita Sharma,Male,32,Chitwan,UI/UX,Samriddha Pathak,2025-09-28,MRN-01,4500,Cash,78,91,64,77,69,19,34,No,Inactive,4500
+348,Aarav Rai,Female,30,Butwal,Advanced Excel,Manish Basnet,2026-03-22,AI-01,3000,Bank Transfer,71,70,54,62,77,15,83,No,Inactive,3000
+349,Puja Rai,Male,28,Kathmandu,Flutter,Manish Basnet,2025-07-19,AI-01,6500,eSewa,75,100,71,84,72,15,17,No,Active,6500
+350,Aarav Sharma,Male,19,Biratnagar,Advanced Excel,Manish Basnet,2025-07-17,AI-01,3000,eSewa,93,65,75,76,91,6,53,Yes,Active,3000
+351,Anisha Adhikari,Female,26,Itahari,Python with AI/ML,Manish Basnet,2025-10-11,MRN-01,5000,eSewa,74,64,35,62,78,14,54,No,Inactive,5000
+352,Rohan Basnet,Female,23,Janakpur,Python with AI/ML,Manish Basnet,2025-03-13,AI-02,5000,Cash,83,73,100,82,87,8,83,Yes,Active,5000
+353,Rohan Basnet,Male,19,Chitwan,UI/UX,Ishan Kafle,2025-01-20,AI-02,4500,Bank Transfer,76,68,90,77,80,14,78,No,Active,4500
+354,Prakash Sharma,Male,18,Chitwan,Digital Marketing,Samriddha Pathak,2026-02-18,AI-01,4000,Bank Transfer,84,68,45,67,87,12,92,Yes,Inactive,4000
+355,Gita Adhikari,Male,23,Kathmandu,UI/UX,Samriddha Pathak,2026-04-16,AI-02,4500,Bank Transfer,100,92,62,84,92,14,119,Yes,Active,4500
+356,Ram Sharma,Male,18,Biratnagar,Advanced Excel,Samriddha Pathak,2025-07-14,FLT-01,3000,eSewa,68,68,54,68,72,19,87,No,Inactive,3000
+357,Nabin Adhikari,Male,30,Pokhara,UI/UX,Sanjeev Shrestha,2025-02-27,DM-01,4500,Cash,55,68,21,43,55,19,24,No,Active,4500
+358,Bikash Sharma,Male,22,Kathmandu,Python with AI/ML,Sanjeev Shrestha,2026-04-28,AI-01,5000,Bank Transfer,90,83,74,87,80,5,63,No,Active,5000
+359,Hari Karki,Female,30,Butwal,Digital Marketing,Manish Basnet,2025-03-06,DM-01,4000,Khalti,98,85,88,94,95,12,112,Yes,Active,4000
+360,Anisha Basnet,Female,35,Itahari,Python with AI/ML,Samriddha Pathak,2025-05-25,AI-02,5000,eSewa,88,63,64,67,86,6,17,Yes,Inactive,5000
+361,Anisha Adhikari,Female,22,Biratnagar,MERN Stack,Sanjeev Shrestha,2025-10-18,MRN-01,7000,Cash,91,76,82,79,100,15,35,Yes,Active,7000
+362,Asmita Rai,Female,31,Kathmandu,Digital Marketing,Sanjeev Shrestha,2025-04-01,AI-02,4000,eSewa,78,67,51,67,87,18,17,Yes,Inactive,4000
+363,Ram Adhikari,Female,33,Itahari,Digital Marketing,Sanjeev Shrestha,2025-04-26,AI-01,4000,eSewa,64,74,64,62,60,13,41,No,Active,4000
+364,Prakash Sharma,Male,23,Kathmandu,UI/UX,Samriddha Pathak,2025-04-17,DM-01,4500,eSewa,72,74,94,82,63,4,119,No,Active,4500
+365,Nabin Basnet,Male,25,Chitwan,Advanced Excel,Sanjeev Shrestha,2025-04-23,FLT-01,3000,Khalti,63,81,48,64,60,4,65,No,Inactive,3000
+366,Anisha Rai,Male,32,Biratnagar,Python with AI/ML,Ishan Kafle,2025-07-02,MRN-01,5000,Khalti,87,81,66,82,91,12,21,Yes,Active,5000
+367,Hari Rai,Male,23,Biratnagar,Advanced Excel,Manish Basnet,2025-12-18,FLT-01,3000,Cash,69,69,85,75,64,8,80,No,Inactive,3000
+368,Anisha Thapa,Male,22,Kathmandu,UI/UX,Samriddha Pathak,2025-12-02,AI-01,4500,eSewa,86,70,97,82,83,17,98,Yes,Active,4500
+369,Sita Thapa,Male,31,Biratnagar,UI/UX,Sanjeev Shrestha,2025-09-04,MRN-01,4500,Bank Transfer,64,71,80,73,69,9,87,No,Active,4500
+370,Rohan Karki,Male,30,Itahari,Python with AI/ML,Ishan Kafle,2025-01-25,FLT-01,5000,eSewa,56,62,73,65,64,4,54,No,Inactive,5000
+371,Asmita Sharma,Female,19,Butwal,Digital Marketing,Manish Basnet,2025-08-01,AI-01,4000,Cash,90,78,67,81,98,13,64,Yes,Active,4000
+372,Ram Rai,Male,35,Pokhara,Flutter,Samriddha Pathak,2025-07-29,DM-01,6500,Khalti,100,60,89,79,100,9,46,Yes,Inactive,6500
+373,Puja Sharma,Female,35,Dharan,Flutter,Samriddha Pathak,2026-05-29,DM-01,6500,Bank Transfer,65,74,86,77,70,4,29,No,Inactive,6500
+374,Ram Rai,Male,22,Janakpur,Python with AI/ML,Sanjeev Shrestha,2025-04-22,AI-02,5000,eSewa,81,100,88,88,73,11,58,No,Active,5000
+375,Puja Adhikari,Female,31,Butwal,UI/UX,Ishan Kafle,2025-08-26,FLT-01,4500,Cash,70,88,63,69,60,16,43,No,Active,4500
+376,Aarav Basnet,Female,27,Janakpur,Flutter,Sanjeev Shrestha,2025-10-23,DM-01,6500,Khalti,70,80,82,79,71,19,41,No,Active,6500
+377,Nabin Thapa,Male,32,Dharan,MERN Stack,Ishan Kafle,2025-02-12,AI-02,7000,Khalti,87,55,67,67,80,19,95,No,Active,7000
+378,Puja Rai,Male,18,Chitwan,Advanced Excel,Samriddha Pathak,2025-06-16,AI-02,3000,Cash,72,69,85,75,76,12,24,No,Active,3000
+379,Bikash Adhikari,Female,28,Pokhara,Advanced Excel,Samriddha Pathak,2025-05-31,AI-01,3000,Khalti,64,69,63,64,72,19,19,No,Inactive,3000
+380,Nabin Sharma,Male,34,Biratnagar,Python with AI/ML,Ishan Kafle,2025-04-05,AI-02,5000,eSewa,69,51,89,71,70,4,73,No,Inactive,5000
+381,Aarav Adhikari,Female,30,Itahari,Advanced Excel,Samriddha Pathak,2026-06-08,MRN-01,3000,Cash,75,69,61,68,84,13,6,Yes,Inactive,3000
+382,Prakash Karki,Female,32,Dharan,Flutter,Sanjeev Shrestha,2025-08-09,FLT-01,6500,Cash,77,50,100,78,69,6,111,No,Active,6500
+383,Sita Sharma,Female,26,Chitwan,MERN Stack,Sanjeev Shrestha,2026-01-20,DM-01,7000,Cash,81,91,100,86,89,20,101,Yes,Active,7000
+384,Gita Thapa,Female,33,Janakpur,MERN Stack,Sanjeev Shrestha,2025-02-13,AI-01,7000,eSewa,51,80,86,75,56,6,38,No,Inactive,7000
+385,Prakash Adhikari,Male,18,Pokhara,Advanced Excel,Ishan Kafle,2026-05-19,FLT-01,3000,eSewa,84,60,52,66,79,13,79,No,Inactive,3000
+386,Nabin Thapa,Male,26,Itahari,Digital Marketing,Manish Basnet,2025-05-03,AI-02,4000,Bank Transfer,57,64,76,70,62,16,117,No,Active,4000
+387,Gita Thapa,Male,34,Biratnagar,Flutter,Sanjeev Shrestha,2025-10-24,AI-01,6500,Khalti,82,85,41,69,73,19,46,No,Inactive,6500
+388,Ram Sharma,Male,34,Dharan,Advanced Excel,Ishan Kafle,2025-12-27,FLT-01,3000,Cash,90,78,59,75,83,12,25,Yes,Active,3000
+389,Anisha Karki,Male,21,Itahari,MERN Stack,Manish Basnet,2025-04-27,FLT-01,7000,Bank Transfer,82,83,84,87,88,11,93,Yes,Inactive,7000
+390,Ram Adhikari,Female,18,Pokhara,MERN Stack,Sanjeev Shrestha,2025-12-17,AI-02,7000,Khalti,100,87,41,80,100,9,44,Yes,Active,7000
+391,Anisha Sharma,Male,21,Kathmandu,MERN Stack,Manish Basnet,2026-05-11,FLT-01,7000,eSewa,81,79,61,69,71,10,10,No,Active,7000
+392,Bikash Basnet,Male,29,Kathmandu,Flutter,Manish Basnet,2025-07-30,AI-02,6500,Bank Transfer,58,62,48,52,67,20,49,No,Inactive,6500
+393,Puja Basnet,Male,27,Itahari,MERN Stack,Manish Basnet,2025-01-15,AI-01,7000,Khalti,90,54,57,63,83,18,113,Yes,Inactive,7000
+394,Nabin Karki,Female,24,Biratnagar,Flutter,Samriddha Pathak,2025-07-05,AI-01,6500,Bank Transfer,68,71,62,72,61,5,64,No,Active,6500
+395,Rohan Sharma,Female,27,Janakpur,Digital Marketing,Ishan Kafle,2025-12-02,FLT-01,4000,Khalti,91,94,66,78,83,19,57,Yes,Inactive,4000
+396,Aarav Adhikari,Female,21,Chitwan,UI/UX,Samriddha Pathak,2025-07-03,DM-01,4500,eSewa,63,77,77,74,64,5,23,No,Inactive,4500
+397,Hari Rai,Male,30,Pokhara,UI/UX,Sanjeev Shrestha,2026-01-08,FLT-01,4500,Cash,66,36,70,54,58,10,102,No,Inactive,4500
+398,Rohan Thapa,Female,22,Janakpur,Advanced Excel,Manish Basnet,2026-02-19,AI-01,3000,Bank Transfer,52,88,66,73,61,17,68,No,Active,3000
+399,Anisha Thapa,Female,22,Dharan,Advanced Excel,Manish Basnet,2025-07-03,AI-01,3000,Cash,80,73,69,76,70,16,30,No,Inactive,3000
+400,Aarav Karki,Male,30,Janakpur,Advanced Excel,Ishan Kafle,2025-01-19,FLT-01,3000,Cash,55,57,72,64,55,16,9,No,Active,3000
+401,Gita Adhikari,Female,33,Pokhara,MERN Stack,Samriddha Pathak,2025-05-18,DM-01,7000,Cash,55,64,63,62,58,17,76,No,Active,7000
+402,Gita Rai,Male,18,Kathmandu,Digital Marketing,Sanjeev Shrestha,2025-12-28,MRN-01,4000,Bank Transfer,95,86,76,89,97,20,8,Yes,Inactive,4000
+403,Hari Adhikari,Female,20,Pokhara,UI/UX,Ishan Kafle,2025-09-11,AI-01,4500,Bank Transfer,87,82,62,82,84,7,7,Yes,Inactive,4500
+404,Gita Sharma,Female,18,Butwal,Python with AI/ML,Samriddha Pathak,2026-03-08,DM-01,5000,Cash,86,45,79,74,92,12,78,Yes,Active,5000
+405,Bikash Rai,Female,31,Biratnagar,UI/UX,Samriddha Pathak,2025-06-20,AI-01,4500,Khalti,92,88,62,85,92,11,38,Yes,Active,4500
+406,Prakash Thapa,Male,28,Dharan,Flutter,Manish Basnet,2025-04-05,DM-01,6500,Cash,90,90,71,81,99,15,31,Yes,Inactive,6500
+407,Anisha Karki,Female,34,Janakpur,Python with AI/ML,Sanjeev Shrestha,2025-07-24,AI-01,5000,Khalti,72,64,77,74,72,20,68,No,Active,5000
+408,Bikash Adhikari,Male,34,Biratnagar,Advanced Excel,Ishan Kafle,2026-03-21,FLT-01,3000,Khalti,65,99,65,78,63,9,24,No,Inactive,3000
+409,Asmita Basnet,Female,25,Chitwan,UI/UX,Sanjeev Shrestha,2025-10-21,AI-01,4500,Khalti,57,90,91,80,55,8,8,No,Active,4500
+410,Hari Basnet,Female,22,Kathmandu,Flutter,Ishan Kafle,2025-02-07,MRN-01,6500,Khalti,68,56,76,67,71,3,97,No,Inactive,6500
+411,Asmita Adhikari,Male,30,Itahari,Python with AI/ML,Sanjeev Shrestha,2026-01-08,AI-01,5000,eSewa,100,85,66,79,100,18,90,Yes,Inactive,5000
+412,Bikash Adhikari,Female,25,Chitwan,UI/UX,Sanjeev Shrestha,2025-12-04,AI-02,4500,eSewa,87,83,64,74,87,7,32,Yes,Inactive,4500
+413,Rohan Adhikari,Male,26,Itahari,UI/UX,Ishan Kafle,2026-03-10,FLT-01,4500,Bank Transfer,57,91,90,75,57,11,7,No,Active,4500
+414,Puja Karki,Female,29,Pokhara,Advanced Excel,Sanjeev Shrestha,2025-09-17,FLT-01,3000,Cash,83,56,39,64,80,2,55,No,Inactive,3000
+415,Asmita Karki,Male,26,Pokhara,Flutter,Samriddha Pathak,2025-11-21,FLT-01,6500,Cash,96,89,73,83,100,12,96,Yes,Inactive,6500
+416,Anisha Thapa,Female,32,Kathmandu,Python with AI/ML,Manish Basnet,2025-12-27,AI-02,5000,Cash,86,85,49,76,78,6,5,No,Inactive,5000
+417,Bikash Adhikari,Female,28,Janakpur,MERN Stack,Samriddha Pathak,2025-05-14,AI-02,7000,Bank Transfer,70,65,80,74,80,7,92,No,Inactive,7000
+418,Bikash Basnet,Male,18,Biratnagar,Flutter,Manish Basnet,2026-01-22,FLT-01,6500,Khalti,81,79,87,79,83,10,94,Yes,Active,6500
+419,Aarav Adhikari,Female,32,Janakpur,Python with AI/ML,Manish Basnet,2025-05-01,AI-02,5000,Khalti,67,84,71,74,62,8,115,No,Inactive,5000
+420,Gita Adhikari,Male,31,Itahari,Flutter,Samriddha Pathak,2025-08-09,AI-02,6500,eSewa,83,74,56,72,79,11,38,No,Active,6500
+421,Ram Rai,Female,24,Chitwan,Digital Marketing,Samriddha Pathak,2026-04-26,DM-01,4000,Bank Transfer,69,78,51,62,59,4,17,No,Active,4000
+422,Aarav Rai,Female,27,Chitwan,Python with AI/ML,Ishan Kafle,2025-02-16,AI-02,5000,eSewa,69,69,82,73,78,20,27,No,Inactive,5000
+423,Ram Rai,Male,28,Kathmandu,MERN Stack,Sanjeev Shrestha,2026-03-20,FLT-01,7000,Bank Transfer,50,74,78,67,56,13,60,No,Inactive,7000
+424,Anisha Basnet,Female,33,Itahari,Flutter,Samriddha Pathak,2025-11-17,AI-01,6500,Khalti,73,55,54,59,79,6,11,No,Active,6500
+425,Nabin Adhikari,Female,32,Janakpur,MERN Stack,Manish Basnet,2026-03-29,AI-02,7000,eSewa,87,77,67,79,78,13,16,No,Active,7000
+426,Bikash Sharma,Male,31,Pokhara,Flutter,Sanjeev Shrestha,2025-08-06,FLT-01,6500,eSewa,65,78,80,77,63,12,8,No,Inactive,6500
+427,Aarav Sharma,Female,33,Janakpur,Advanced Excel,Ishan Kafle,2025-06-07,DM-01,3000,eSewa,84,74,46,64,84,12,10,Yes,Inactive,3000
+428,Aarav Adhikari,Female,28,Kathmandu,Flutter,Manish Basnet,2025-08-05,DM-01,6500,Cash,97,100,50,86,91,4,56,Yes,Inactive,6500
+429,Anisha Rai,Male,21,Dharan,MERN Stack,Samriddha Pathak,2026-02-02,FLT-01,7000,Bank Transfer,79,100,69,80,74,6,50,No,Active,7000
+430,Bikash Thapa,Female,20,Chitwan,Flutter,Ishan Kafle,2025-10-02,DM-01,6500,Khalti,79,57,70,69,84,15,85,Yes,Inactive,6500
+431,Puja Adhikari,Male,27,Janakpur,Python with AI/ML,Samriddha Pathak,2026-05-23,AI-01,5000,Cash,88,78,60,80,82,11,24,Yes,Active,5000
+432,Bikash Sharma,Male,19,Pokhara,Advanced Excel,Samriddha Pathak,2025-10-30,FLT-01,3000,eSewa,79,98,54,80,82,16,89,Yes,Inactive,3000
+433,Ram Karki,Male,20,Chitwan,Flutter,Ishan Kafle,2025-07-03,MRN-01,6500,Cash,77,81,64,79,81,16,84,Yes,Inactive,6500
+434,Sita Adhikari,Female,21,Chitwan,Flutter,Manish Basnet,2025-07-09,AI-01,6500,Cash,77,100,65,77,73,5,6,No,Active,6500
+435,Bikash Thapa,Female,30,Dharan,Advanced Excel,Manish Basnet,2025-11-07,AI-02,3000,Khalti,59,78,100,83,64,2,29,No,Active,3000
+436,Asmita Basnet,Male,31,Biratnagar,Python with AI/ML,Manish Basnet,2026-05-08,MRN-01,5000,Cash,55,71,62,57,51,6,65,No,Inactive,5000
+437,Rohan Thapa,Male,24,Dharan,Python with AI/ML,Samriddha Pathak,2025-01-21,AI-01,5000,Bank Transfer,97,96,70,89,100,2,18,Yes,Inactive,5000
+438,Aarav Karki,Female,33,Janakpur,UI/UX,Sanjeev Shrestha,2025-10-25,AI-01,4500,eSewa,65,89,50,72,72,15,78,No,Inactive,4500
+439,Rohan Adhikari,Female,18,Itahari,Digital Marketing,Ishan Kafle,2025-12-22,AI-02,4000,Cash,100,87,56,83,100,13,61,Yes,Active,4000
+440,Ram Rai,Female,31,Butwal,Digital Marketing,Samriddha Pathak,2026-04-25,AI-02,4000,Khalti,84,81,100,88,93,11,93,Yes,Active,4000
+441,Hari Basnet,Male,18,Butwal,Advanced Excel,Ishan Kafle,2025-11-07,MRN-01,3000,Khalti,70,75,82,76,75,7,110,No,Active,3000
+442,Rohan Rai,Female,29,Kathmandu,Python with AI/ML,Ishan Kafle,2025-08-18,AI-02,5000,eSewa,89,71,78,77,82,3,61,Yes,Inactive,5000
+443,Puja Sharma,Male,21,Biratnagar,Python with AI/ML,Ishan Kafle,2025-02-12,AI-02,5000,Bank Transfer,98,70,47,67,100,16,102,Yes,Inactive,5000
+444,Sita Basnet,Female,31,Kathmandu,Advanced Excel,Sanjeev Shrestha,2025-05-22,FLT-01,3000,Bank Transfer,62,80,65,69,62,11,69,No,Active,3000
+445,Hari Basnet,Female,31,Chitwan,Python with AI/ML,Samriddha Pathak,2026-03-08,DM-01,5000,Bank Transfer,76,98,52,73,70,2,61,No,Active,5000
+446,Nabin Karki,Male,31,Kathmandu,Python with AI/ML,Samriddha Pathak,2025-12-13,AI-01,5000,Khalti,86,71,53,66,78,20,12,No,Inactive,5000
+447,Gita Thapa,Male,30,Janakpur,UI/UX,Sanjeev Shrestha,2025-01-09,DM-01,4500,Cash,63,88,59,70,64,13,118,No,Inactive,4500
+448,Prakash Adhikari,Male,34,Dharan,MERN Stack,Sanjeev Shrestha,2026-02-04,AI-01,7000,Bank Transfer,74,79,67,76,74,18,48,No,Active,7000
+449,Sita Adhikari,Male,29,Dharan,Python with AI/ML,Ishan Kafle,2026-06-02,AI-01,5000,eSewa,99,79,62,79,100,5,62,Yes,Inactive,5000
+450,Nabin Rai,Female,22,Chitwan,Digital Marketing,Sanjeev Shrestha,2025-08-28,AI-01,4000,Bank Transfer,73,73,54,64,81,18,79,Yes,Active,4000
+451,Ram Karki,Male,32,Pokhara,Flutter,Ishan Kafle,2026-03-12,DM-01,6500,Cash,71,77,57,64,62,20,76,No,Inactive,6500
+452,Ram Basnet,Male,33,Janakpur,Flutter,Sanjeev Shrestha,2026-03-03,DM-01,6500,eSewa,83,56,60,68,88,8,63,Yes,Inactive,6500
+453,Sita Rai,Female,19,Itahari,Python with AI/ML,Manish Basnet,2025-04-23,MRN-01,5000,Bank Transfer,77,38,45,57,80,13,43,No,Inactive,5000
+454,Gita Rai,Male,23,Janakpur,UI/UX,Manish Basnet,2025-02-19,AI-01,4500,Bank Transfer,99,83,73,89,100,4,116,Yes,Active,4500
+455,Ram Thapa,Female,32,Janakpur,UI/UX,Sanjeev Shrestha,2025-05-16,MRN-01,4500,eSewa,67,76,58,68,72,15,54,No,Active,4500
+456,Asmita Sharma,Male,18,Dharan,UI/UX,Manish Basnet,2025-10-12,DM-01,4500,eSewa,81,72,76,81,85,8,84,Yes,Active,4500
+457,Aarav Rai,Male,25,Janakpur,Digital Marketing,Manish Basnet,2025-07-04,DM-01,4000,Bank Transfer,58,71,68,70,65,14,80,No,Active,4000
+458,Aarav Thapa,Female,30,Dharan,UI/UX,Manish Basnet,2026-03-01,AI-01,4500,eSewa,77,77,69,75,72,19,26,No,Inactive,4500
+459,Bikash Rai,Male,18,Kathmandu,MERN Stack,Ishan Kafle,2025-03-02,FLT-01,7000,eSewa,86,98,94,97,81,12,23,Yes,Inactive,7000
+460,Hari Thapa,Male,33,Chitwan,Flutter,Manish Basnet,2025-07-27,MRN-01,6500,eSewa,100,73,100,87,91,12,64,Yes,Inactive,6500
+461,Hari Thapa,Male,27,Chitwan,Python with AI/ML,Samriddha Pathak,2025-04-14,AI-01,5000,Khalti,65,76,75,71,72,6,52,No,Active,5000
+462,Aarav Karki,Female,23,Kathmandu,MERN Stack,Manish Basnet,2025-02-12,FLT-01,7000,Bank Transfer,100,59,68,78,100,10,112,Yes,Inactive,7000
+463,Gita Sharma,Female,21,Itahari,Flutter,Ishan Kafle,2025-03-13,FLT-01,6500,Khalti,82,66,79,72,89,18,107,Yes,Inactive,6500
+464,Asmita Rai,Female,24,Janakpur,Advanced Excel,Ishan Kafle,2025-09-09,AI-01,3000,Khalti,69,95,64,78,67,2,82,No,Inactive,3000
+465,Asmita Adhikari,Male,35,Kathmandu,Python with AI/ML,Samriddha Pathak,2025-03-25,AI-01,5000,Bank Transfer,92,61,42,67,94,14,110,Yes,Inactive,5000
+466,Nabin Basnet,Female,18,Biratnagar,UI/UX,Manish Basnet,2026-04-19,MRN-01,4500,Bank Transfer,91,86,96,86,84,8,16,Yes,Inactive,4500
+467,Aarav Basnet,Female,21,Dharan,Advanced Excel,Samriddha Pathak,2025-08-03,AI-02,3000,Khalti,84,100,76,88,93,20,91,Yes,Active,3000
+468,Puja Adhikari,Female,24,Kathmandu,Python with AI/ML,Ishan Kafle,2025-08-22,DM-01,5000,Cash,77,53,58,59,75,2,59,No,Active,5000
+469,Puja Sharma,Male,19,Dharan,Flutter,Samriddha Pathak,2026-01-06,DM-01,6500,Cash,42,95,68,70,47,12,5,No,Inactive,6500
+470,Sita Basnet,Male,23,Butwal,MERN Stack,Ishan Kafle,2026-03-10,AI-01,7000,eSewa,95,59,100,79,92,2,66,Yes,Inactive,7000
+471,Nabin Sharma,Female,34,Biratnagar,Python with AI/ML,Manish Basnet,2025-09-02,DM-01,5000,Cash,63,63,65,59,68,5,85,No,Inactive,5000
+472,Prakash Sharma,Male,19,Janakpur,Digital Marketing,Manish Basnet,2025-11-17,MRN-01,4000,Cash,85,100,100,90,87,4,18,Yes,Active,4000
+473,Rohan Karki,Female,31,Pokhara,Digital Marketing,Ishan Kafle,2025-01-11,AI-01,4000,Cash,100,84,53,80,97,18,47,Yes,Active,4000
+474,Bikash Basnet,Female,29,Chitwan,Python with AI/ML,Samriddha Pathak,2025-07-18,DM-01,5000,Cash,87,91,84,83,95,7,36,Yes,Active,5000
+475,Ram Karki,Female,28,Dharan,Python with AI/ML,Ishan Kafle,2025-05-30,AI-01,5000,Khalti,87,79,34,66,86,3,35,Yes,Active,5000
+476,Nabin Basnet,Female,32,Butwal,UI/UX,Ishan Kafle,2025-03-12,DM-01,4500,Bank Transfer,89,52,100,85,85,15,47,Yes,Active,4500
+477,Prakash Basnet,Female,24,Biratnagar,Python with AI/ML,Samriddha Pathak,2025-08-17,MRN-01,5000,Cash,57,82,82,68,67,8,56,No,Active,5000
+478,Ram Rai,Female,24,Butwal,Python with AI/ML,Manish Basnet,2025-04-28,AI-01,5000,Khalti,80,71,76,70,87,8,41,Yes,Active,5000
+479,Ram Rai,Male,18,Itahari,MERN Stack,Samriddha Pathak,2025-01-23,AI-01,7000,Bank Transfer,92,59,61,67,88,8,44,Yes,Inactive,7000
+480,Prakash Sharma,Male,22,Itahari,MERN Stack,Sanjeev Shrestha,2026-03-21,AI-02,7000,Cash,90,65,83,76,96,13,45,Yes,Inactive,7000
+481,Nabin Basnet,Male,26,Itahari,Advanced Excel,Samriddha Pathak,2025-06-02,AI-02,3000,eSewa,78,79,64,76,77,17,106,No,Active,3000
+482,Rohan Thapa,Female,23,Butwal,MERN Stack,Ishan Kafle,2026-01-19,DM-01,7000,Cash,72,50,70,69,78,17,65,No,Inactive,7000
+483,Hari Karki,Male,27,Chitwan,Digital Marketing,Samriddha Pathak,2026-04-08,DM-01,4000,Khalti,56,94,68,70,52,13,37,No,Active,4000
+484,Bikash Sharma,Female,34,Butwal,MERN Stack,Samriddha Pathak,2025-08-24,FLT-01,7000,Cash,76,75,58,72,77,15,57,No,Inactive,7000
+485,Sita Rai,Male,26,Biratnagar,UI/UX,Manish Basnet,2026-01-03,AI-01,4500,eSewa,73,88,77,84,65,13,9,No,Active,4500
+486,Prakash Thapa,Male,35,Dharan,Flutter,Manish Basnet,2025-07-15,MRN-01,6500,Bank Transfer,85,79,85,82,83,13,105,Yes,Inactive,6500
+487,Hari Adhikari,Male,33,Biratnagar,UI/UX,Samriddha Pathak,2025-08-22,FLT-01,4500,Bank Transfer,86,52,95,74,88,4,45,Yes,Active,4500
+488,Puja Sharma,Female,22,Itahari,UI/UX,Ishan Kafle,2026-04-06,AI-01,4500,Cash,79,77,47,65,83,13,48,Yes,Active,4500
+489,Bikash Sharma,Male,22,Butwal,UI/UX,Samriddha Pathak,2025-01-24,FLT-01,4500,Khalti,60,86,73,72,60,14,13,No,Inactive,4500
+490,Sita Basnet,Male,35,Itahari,MERN Stack,Manish Basnet,2025-11-08,DM-01,7000,Cash,59,61,74,66,69,2,28,No,Active,7000
+491,Aarav Rai,Male,23,Butwal,Python with AI/ML,Samriddha Pathak,2026-04-11,FLT-01,5000,Khalti,88,67,75,79,80,5,21,No,Inactive,5000
+492,Gita Karki,Female,23,Dharan,UI/UX,Sanjeev Shrestha,2025-07-30,DM-01,4500,Cash,87,74,56,70,81,10,30,Yes,Active,4500
+493,Rohan Karki,Male,20,Dharan,MERN Stack,Samriddha Pathak,2026-05-18,MRN-01,7000,Bank Transfer,56,84,62,67,64,14,83,No,Active,7000
+494,Asmita Basnet,Male,30,Kathmandu,UI/UX,Sanjeev Shrestha,2026-01-29,AI-02,4500,Bank Transfer,72,75,100,83,76,19,42,No,Active,4500
+495,Sita Sharma,Female,31,Janakpur,Advanced Excel,Sanjeev Shrestha,2026-01-13,MRN-01,3000,Khalti,74,43,85,70,67,18,10,No,Inactive,3000
+496,Prakash Karki,Male,30,Kathmandu,Python with AI/ML,Manish Basnet,2025-12-18,MRN-01,5000,eSewa,71,95,82,84,73,6,46,No,Inactive,5000
+497,Gita Basnet,Male,18,Pokhara,UI/UX,Sanjeev Shrestha,2026-04-28,MRN-01,4500,eSewa,73,76,58,71,67,19,99,No,Inactive,4500
+498,Rohan Rai,Male,24,Kathmandu,MERN Stack,Sanjeev Shrestha,2025-06-07,FLT-01,7000,eSewa,62,97,84,86,60,18,87,No,Active,7000
+499,Nabin Basnet,Male,20,Kathmandu,UI/UX,Samriddha Pathak,2025-09-13,AI-01,4500,eSewa,73,59,67,67,69,12,110,No,Active,4500
+500,Aarav Karki,Male,28,Butwal,Advanced Excel,Sanjeev Shrestha,2025-06-21,DM-01,3000,Khalti,75,69,62,64,70,19,55,No,Inactive,3000
